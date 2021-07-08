@@ -1,0 +1,961 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>国会採掘 議員一覧（政党順）</title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/my.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  
+  <!-- Twitter Card -->
+  <meta property="og:url" content="https://kokkaisaikutsu.github.io/page/giin_party_order.html" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="国会採掘 - 議員一覧（政党順）" />
+  <meta property="og:description" content="国会で「誰が」「何を」「どれだけ」言ったか採掘する。" />
+  <meta property="og:site_name" content="国会採掘" />
+  <meta property="og:image" content="" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@kokkaisaikutsu" />
+  <meta name="twitter:title" content="国会採掘 - 議員一覧（政党順）" />
+  <meta name="twitter:description" content="国会で「誰が」「何を」「どれだけ」言ったか採掘する。" />
+  <meta name="twitter:image" content="https://kokkaisaikutsu.github.io/page/img/frontlogo.png" />
+
+  <meta property=”fb:app_id” content=”App-ID(15文字の半角数字)”>
+
+
+</head>
+<body>
+  <ul id="select-about" class="dropdown-content">
+    <li><a href="about.html#site">このサイトについて</a></li>
+    <li><a href="about.html#search">発言者の探し方</a></li>
+    <li><a href="about.html#notes">注意事項</a></li>
+    <li><a href="about.html#manager">管理者への連絡</a></li>
+  </ul>
+
+  <nav class="indigo darken-3" role="navigation">
+    <div class="nav-wrapper">
+      <a href="./" class="brand-logo center hide-on-large-only"><img src="img/kokkai_gijido.png"></a>
+      <ul id="nav-mobile" class="blue darken-4 sidenav sidenav-fixed" style="width: 300px;">
+        <li class="white-text">
+          <div class="row">
+            <div class="col s12 zero-margin padding-5"></div>
+
+            <div class="col s12 zero-padding zero-margin center-align">
+              <a href="./"><img src="img/kokkai_gijido.png"></a>
+            </div>
+
+            <div class="col s12 m12 l12 zero-padding zero-margin">
+              <ul class="collapsible">
+                <li>
+                  <div class="collapsible-header"><i class="small material-icons">pages</i>このサイトについて</div>
+                  <div class="collapsible-body row blue darken-4 zero-margin zero-padding">
+                    <div class="col s1">　</div>
+                    <div class="col s10 blue darken-3 zero-margin zero-padding"><a href="about.html">このサイトについて</a></div>
+                    <div class="col s1">　</div>
+
+                    <div class="col s1">　</div>
+                    <div class="col s10 blue darken-3 zero-margin zero-padding"><a href="about.html#contents">集計方法</a></div>
+                    <div class="col s1">　</div>
+                    
+                    <div class="col s1">　</div>
+                    <div class="col s10 blue darken-3 zero-margin zero-padding"><a href="about.html#contact">管理者への連絡</a></div>                    
+                    <div class="col s1">　</div>
+                  </div>
+                </li>
+
+                <li>
+                  <div class="collapsible-header"><i class="small material-icons">person</i>議員名</div>
+                  <div class="collapsible-body">
+                    <div class="row blue darken-4 zero-margin zero-padding">
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align"></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html">あ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#i">い</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#u">う</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#e">え</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#o">お</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ka">か</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ki">き</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ku">く</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ke">け</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ko">こ</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#sa">さ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#si">し</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#su">す</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#se">せ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#so">そ</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ta">た</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ti">ち</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#tu">つ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#te">て</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#to">と</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#na">な</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ni">に</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#nu">ぬ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ne">ね</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#no">の</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ha">は</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#hi">ひ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#hu">ふ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#he">へ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ho">ほ</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ma">ま</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#mi">み</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#mu">む</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#me">め</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#mo">も</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ya">や</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#yu">ゆ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#yo">よ</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ra">ら</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ri">り</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ru">る</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#re">れ</a></div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#ro">ろ</a></div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s1 blue darken-4 zero-padding zero-margin center-align">　</div>
+                      <div class="col s2 blue darken-3 zero-padding zero-margin center-align"><a href="giin_aiueo_order.html#wa">わ</a></div>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="collapsible-header"><i class="small material-icons">group</i>所属政党</div>
+                  <div class="blue darken-4 collapsible-body">
+                    <div class="row zero-margin zero-padding">
+                      <div class="col s1 blue darken-4">　</div>
+                      <div class="col s5 blue darken-3 zero-padding center-align"><a href="giin_party_order.html">自民</a></div>
+                      <div class="col s5 blue darken-3 zero-padding center-align"><a href="giin_party_order.html#cb7ab261116c3b4e5a51">立憲</a></div>
+                      <div class="col s1 blue darken-4">　</div>
+                      <div class="col s1 blue darken-4">　</div>
+                      <div class="col s5 blue darken-3 zero-padding center-align"><a href="giin_party_order.html#6c510e665a51">公明</a></div>
+                      <div class="col s5 blue darken-3 zero-padding center-align"><a href="giin_party_order.html#e5652c67715123755a51">共産</a></div>
+                      <div class="col s1 blue darken-4">　</div>
+                      <div class="col s1 blue darken-4">　</div>
+                      <div class="col s5 blue darken-3 zero-padding center-align"><a href="giin_party_order.html#e5652c67ad7db0656e301a4f">維新</a></div>
+                      <div class="col s5 blue darken-3 zero-padding center-align"><a href="giin_party_order.html#fd56116c116c3b4e5a51">国民</a></div>
+                      <div class="col s1 blue darken-4">　</div>
+                      <div class="col s1 blue darken-4">　</div>
+                      <div class="col s5 blue darken-3 zero-padding center-align"><a href="giin_party_order.html#others">その他</a></div>
+                      <div class="col s5 blue darken-3 zero-padding center-align"><a href="giin_party_order.html#217140625e5c">無所属</a></div>
+                      <div class="col s1 blue darken-4">　</div>
+                    </div>
+                  </div>
+                </li>
+              </ul>        
+            </div>
+          </div>
+        </li>        
+      </ul>
+      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    </div>
+  </nav>
+
+
+
+  <main>
+    <div class="container">
+      
+                <div id="ea813175116c3b4e5a51">
+          <h3 class="card-panel indigo darken-4 indigo-text text-lighten-5">自由民主党</h3>
+          <ul class="collapsible center-align">
+            <li><div class="collapsible-header" id="2290a26c004ece90_collapsible-header"><i class="material-icons">person</i>逢沢一郎 - 衆議院</div><div class="collapsible-body"><span id="2290a26c004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="52972867004e665f_collapsible-header"><i class="material-icons">person</i>青木一彦 - 参議院</div><div class="collapsible-body"><span id="52972867004e665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5297715c417e7466_collapsible-header"><i class="material-icons">person</i>青山繁晴 - 参議院</div><div class="collapsible-body"><span id="5297715c417e7466_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5297715c6854735e_collapsible-header"><i class="material-icons">person</i>青山周平 - 衆議院</div><div class="collapsible-body"><span id="5297715c6854735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="648d606ca08ae07a_collapsible-header"><i class="material-icons">person</i>赤池誠章 - 参議院</div><div class="collapsible-body"><span id="648d606ca08ae07a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="648da46fae4e636b_collapsible-header"><i class="material-icons">person</i>赤澤亮正 - 衆議院</div><div class="collapsible-body"><span id="648da46fae4e636b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="42304b307e308c4ece90_collapsible-header"><i class="material-icons">person</i>あかま二郎 - 衆議院</div><div class="collapsible-body"><span id="42304b307e308c4ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="cb794984e28c5f4e_collapsible-header"><i class="material-icons">person</i>秋葉賢也 - 衆議院</div><div class="collapsible-body"><span id="cb794984e28c5f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="cb792c671f772952_collapsible-header"><i class="material-icons">person</i>秋本真利 - 衆議院</div><div class="collapsible-body"><span id="cb792c671f772952_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="1d67e56565502a59ce90_collapsible-header"><i class="material-icons">person</i>朝日健太郎 - 参議院</div><div class="collapsible-body"><span id="1d67e56565502a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="66754351065c3e54_collapsible-header"><i class="material-icons">person</i>畦元将吾 - 衆議院</div><div class="collapsible-body"><span id="66754351065c3e54_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="bb9e1f752a59ce90_collapsible-header"><i class="material-icons">person</i>麻生太郎 - 衆議院</div><div class="collapsible-body"><span id="bb9e1f752a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b38dcb7a4f654b4e_collapsible-header"><i class="material-icons">person</i>足立敏之 - 参議院</div><div class="collapsible-body"><span id="b38dcb7a4f654b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3f965490c596d75f_collapsible-header"><i class="material-icons">person</i>阿達雅志 - 参議院</div><div class="collapsible-body"><span id="3f965490c596d75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="747a8b897d96004e_collapsible-header"><i class="material-icons">person</i>穴見陽一 - 衆議院</div><div class="collapsible-body"><span id="747a8b897d96004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="895b0d504b66094e_collapsible-header"><i class="material-icons">person</i>安倍晋三 - 衆議院</div><div class="collapsible-body"><span id="895b0d504b66094e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="42307930ca4f505b_collapsible-header"><i class="material-icons">person</i>あべ俊子 - 衆議院</div><div class="collapsible-body"><span id="42307930ca4f505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="187529520e66_collapsible-header"><i class="material-icons">person</i>甘利明 - 衆議院</div><div class="collapsible-body"><span id="187529520e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="09675167bb6c505b_collapsible-header"><i class="material-icons">person</i>有村治子 - 参議院</div><div class="collapsible-body"><span id="09675167bb6c505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="895be485d89a2b59_collapsible-header"><i class="material-icons">person</i>安藤高夫 - 衆議院</div><div class="collapsible-body"><span id="895be485d89a2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="895be485d588_collapsible-header"><i class="material-icons">person</i>安藤裕 - 衆議院</div><div class="collapsible-body"><span id="895be485d588_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="606c307553905d5b_collapsible-header"><i class="material-icons">person</i>池田道孝 - 衆議院</div><div class="collapsible-body"><span id="606c307553905d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="606c3075734f8696_collapsible-header"><i class="material-icons">person</i>池田佳隆 - 衆議院</div><div class="collapsible-body"><span id="606c3075734f8696_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377954e966e004e_collapsible-header"><i class="material-icons">person</i>石井準一 - 参議院</div><div class="collapsible-body"><span id="f377954e966e004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377954e696dce90_collapsible-header"><i class="material-icons">person</i>石井浩郎 - 参議院</div><div class="collapsible-body"><span id="f377954e696dce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377954e636b185f_collapsible-header"><i class="material-icons">person</i>石井正弘 - 参議院</div><div class="collapsible-body"><span id="f377954e636b185f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377dd5d2d663f65_collapsible-header"><i class="material-icons">person</i>石川昭政 - 衆議院</div><div class="collapsible-body"><span id="f377dd5d2d663f65_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f37730751f774f65_collapsible-header"><i class="material-icons">person</i>石田真敏 - 衆議院</div><div class="collapsible-body"><span id="f37730751f774f65_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f37730750c668f5b_collapsible-header"><i class="material-icons">person</i>石田昌宏 - 参議院</div><div class="collapsible-body"><span id="f37730750c668f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f3779f53384f4366_collapsible-header"><i class="material-icons">person</i>石原伸晃 - 衆議院</div><div class="collapsible-body"><span id="f3779f53384f4366_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f3779f538f5bd89a_collapsible-header"><i class="material-icons">person</i>石原宏高 - 衆議院</div><div class="collapsible-body"><span id="f3779f538f5bd89a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f37734780283_collapsible-header"><i class="material-icons">person</i>石破茂 - 衆議院</div><div class="collapsible-body"><span id="f37734780283_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="c96c3075d588665f_collapsible-header"><i class="material-icons">person</i>泉田裕彦 - 衆議院</div><div class="collapsible-body"><span id="c96c3075d588665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ef780e5dc14e665f_collapsible-header"><i class="material-icons">person</i>磯崎仁彦 - 参議院</div><div class="collapsible-body"><span id="ef780e5dc14e665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954efa51b85e1f75_collapsible-header"><i class="material-icons">person</i>井出庸生 - 衆議院</div><div class="collapsible-body"><span id="954efa51b85e1f75_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe485e14f2a59ce90_collapsible-header"><i class="material-icons">person</i>伊藤信太郎 - 衆議院</div><div class="collapsible-body"><span id="0a4fe485e14f2a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe485e05f665f_collapsible-header"><i class="material-icons">person</i>伊藤忠彦 - 衆議院</div><div class="collapsible-body"><span id="0a4fe485e05f665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe48554905f4e_collapsible-header"><i class="material-icons">person</i>伊藤達也 - 衆議院</div><div class="collapsible-body"><span id="0a4fe48554905f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4f71676f825d5b_collapsible-header"><i class="material-icons">person</i>伊東良孝 - 衆議院</div><div class="collapsible-body"><span id="0a4f71676f825d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="327a30750b678e7f_collapsible-header"><i class="material-icons">person</i>稲田朋美 - 衆議院</div><div class="collapsible-body"><span id="327a30750b678e7f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954e0a4ee14fbb6c_collapsible-header"><i class="material-icons">person</i>井上信治 - 衆議院</div><div class="collapsible-body"><span id="954e0a4ee14fbb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954e0a4eb48c5a53_collapsible-header"><i class="material-icons">person</i>井上貴博 - 衆議院</div><div class="collapsible-body"><span id="954e0a4eb48c5a53_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2a73e353a690505b_collapsible-header"><i class="material-icons">person</i>猪口邦子 - 参議院</div><div class="collapsible-body"><span id="2a73e353a690505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954ece91ca4fce90_collapsible-header"><i class="material-icons">person</i>井野俊郎 - 衆議院</div><div class="collapsible-body"><span id="954ece91ca4fce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954e9767b08fb261_collapsible-header"><i class="material-icons">person</i>井林辰憲 - 衆議院</div><div class="collapsible-body"><span id="954e9767b08fb261_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4f395487650e66_collapsible-header"><i class="material-icons">person</i>伊吹文明 - 衆議院</div><div class="collapsible-body"><span id="0a4f395487650e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ca4e954e757d0674505b_collapsible-header"><i class="material-icons">person</i>今井絵理子 - 参議院</div><div class="collapsible-body"><span id="ca4e954e757d0674505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ca4e9d67975b004ece90_collapsible-header"><i class="material-icons">person</i>今枝宗一郎 - 衆議院</div><div class="collapsible-body"><span id="ca4e9d67975b004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ca4e5167c596185f_collapsible-header"><i class="material-icons">person</i>今村雅弘 - 衆議院</div><div class="collapsible-body"><span id="ca4e5167c596185f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a95c954e0283396a_collapsible-header"><i class="material-icons">person</i>岩井茂樹 - 参議院</div><div class="collapsible-body"><span id="a95c954e0283396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a95c30758c54aa89_collapsible-header"><i class="material-icons">person</i>岩田和親 - 衆議院</div><div class="collapsible-body"><span id="a95c30758c54aa89_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a95c2c675b52ba4e_collapsible-header"><i class="material-icons">person</i>岩本剛人 - 参議院</div><div class="collapsible-body"><span id="a95c2c675b52ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a95c4b5cc56b_collapsible-header"><i class="material-icons">person</i>岩屋毅 - 衆議院</div><div class="collapsible-body"><span id="a95c4b5cc56b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4e4967198b2a59ce90_collapsible-header"><i class="material-icons">person</i>上杉謙太郎 - 衆議院</div><div class="collapsible-body"><span id="0a4e4967198b2a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="463048306e30e28c004ece90_collapsible-header"><i class="material-icons">person</i>うえの賢一郎 - 衆議院</div><div class="collapsible-body"><span id="463048306e30e28c004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4ece918f5bf253_collapsible-header"><i class="material-icons">person</i>上野宏史 - 衆議院</div><div class="collapsible-body"><span id="0a4ece918f5bf253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4ece911a90505b_collapsible-header"><i class="material-icons">person</i>上野通子 - 参議院</div><div class="collapsible-body"><span id="0a4ece911a90505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="875bfd908696f253_collapsible-header"><i class="material-icons">person</i>宇都隆史 - 参議院</div><div class="collapsible-body"><span id="875bfd908696f253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5f6c0e5d3594e878_collapsible-header"><i class="material-icons">person</i>江崎鐵磨 - 衆議院</div><div class="collapsible-body"><span id="5f6c0e5d3594e878_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5f6cf65c546f_collapsible-header"><i class="material-icons">person</i>江島潔 - 参議院</div><div class="collapsible-body"><span id="5f6cf65c546f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5f6c216e6180b35f_collapsible-header"><i class="material-icons">person</i>江渡聡徳 - 衆議院</div><div class="collapsible-body"><span id="5f6c216e6180b35f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5b88e4855f66004e_collapsible-header"><i class="material-icons">person</i>衛藤晟一 - 参議院</div><div class="collapsible-body"><span id="5b88e4855f66004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5b88e485815feb58ce90_collapsible-header"><i class="material-icons">person</i>衛藤征士郎 - 衆議院</div><div class="collapsible-body"><span id="5b88e485815feb58ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5f6ce485d362_collapsible-header"><i class="material-icons">person</i>江藤拓 - 衆議院</div><div class="collapsible-body"><span id="5f6ce485d362_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6090e48529520e66_collapsible-header"><i class="material-icons">person</i>遠藤利明 - 衆議院</div><div class="collapsible-body"><span id="6090e48529520e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759b65b4f65d75f_collapsible-header"><i class="material-icons">person</i>大家敏志 - 参議院</div><div class="collapsible-body"><span id="2759b65b4f65d75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759a15c4f655d5b_collapsible-header"><i class="material-icons">person</i>大岡敏孝 - 衆議院</div><div class="collapsible-body"><span id="2759a15c4f655d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="275988968c54f182_collapsible-header"><i class="material-icons">person</i>大隈和英 - 衆議院</div><div class="collapsible-body"><span id="275988968c54f182_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759324e636b396a_collapsible-header"><i class="material-icons">person</i>大串正樹 - 衆議院</div><div class="collapsible-body"><span id="2759324e636b396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759f65c0674ee68_collapsible-header"><i class="material-icons">person</i>大島理森 - 衆議院</div><div class="collapsible-body"><span id="2759f65c0674ee68_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2a5930753f625f6c_collapsible-header"><i class="material-icons">person</i>太田房江 - 参議院</div><div class="collapsible-body"><span id="2a5930753f625f6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="27595a58d362_collapsible-header"><i class="material-icons">person</i>大塚拓 - 衆議院</div><div class="collapsible-body"><span id="27595a58d362_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="27597f89f1823775_collapsible-header"><i class="material-icons">person</i>大西英男 - 衆議院</div><div class="collapsible-body"><span id="27597f89f1823775_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="27597f898f5b785e_collapsible-header"><i class="material-icons">person</i>大西宏幸 - 衆議院</div><div class="collapsible-body"><span id="27597f898f5b785e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759ce916c652a59ce90_collapsible-header"><i class="material-icons">person</i>大野敬太郎 - 衆議院</div><div class="collapsible-body"><span id="2759ce916c652a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759ce91f06c636b_collapsible-header"><i class="material-icons">person</i>大野泰正 - 参議院</div><div class="collapsible-body"><span id="2759ce91f06c636b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15c0b4e0c66735e_collapsible-header"><i class="material-icons">person</i>岡下昌平 - 衆議院</div><div class="collapsible-body"><span id="a15c0b4e0c66735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15c3075f476396a_collapsible-header"><i class="material-icons">person</i>岡田直樹 - 参議院</div><div class="collapsible-body"><span id="a15c3075f476396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15c3075835e_collapsible-header"><i class="material-icons">person</i>岡田広 - 参議院</div><div class="collapsible-body"><span id="a15c3075835e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cdd5d4b51f35d_collapsible-header"><i class="material-icons">person</i>小川克巳 - 参議院</div><div class="collapsible-body"><span id="0f5cdd5d4b51f35d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6559ce91e14fae4e_collapsible-header"><i class="material-icons">person</i>奥野信亮 - 衆議院</div><div class="collapsible-body"><span id="6559ce91e14fae4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c0950075ce14f_collapsible-header"><i class="material-icons">person</i>小倉將信 - 衆議院</div><div class="collapsible-body"><span id="0f5c0950075ce14f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c646b28676b51ce90_collapsible-header"><i class="material-icons">person</i>小此木八郎 - 衆議院</div><div class="collapsible-body"><span id="0f5c646b28676b51ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5ccc91f06c185f_collapsible-header"><i class="material-icons">person</i>小里泰弘 - 衆議院</div><div class="collapsible-body"><span id="0f5ccc91f06c185f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c30759f53546f_collapsible-header"><i class="material-icons">person</i>小田原潔 - 衆議院</div><div class="collapsible-body"><span id="0f5c30759f53546f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8a8d7a668696c496_collapsible-header"><i class="material-icons">person</i>越智隆雄 - 衆議院</div><div class="collapsible-body"><span id="8a8d7a668696c496_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3e5cbb8fc079454e_collapsible-header"><i class="material-icons">person</i>尾辻秀久 - 参議院</div><div class="collapsible-body"><span id="3e5cbb8fc079454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3c9b2867a08a_collapsible-header"><i class="material-icons">person</i>鬼木誠 - 衆議院</div><div class="collapsible-body"><span id="3c9b2867a08a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cce913075007d8e7f_collapsible-header"><i class="material-icons">person</i>小野田紀美 - 参議院</div><div class="collapsible-body"><span id="0f5cce913075007d8e7f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cce91fa5b944e7851_collapsible-header"><i class="material-icons">person</i>小野寺五典 - 衆議院</div><div class="collapsible-body"><span id="0f5cce91fa5b944e7851_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c156e2a51505b_collapsible-header"><i class="material-icons">person</i>小渕優子 - 衆議院</div><div class="collapsible-body"><span id="0f5c156e2a51505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3e5cab8e1d67505b_collapsible-header"><i class="material-icons">person</i>尾身朝子 - 衆議院</div><div class="collapsible-body"><span id="3e5cab8e1d67505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b668715c185fd75f_collapsible-header"><i class="material-icons">person</i>梶山弘志 - 衆議院</div><div class="collapsible-body"><span id="b668715c185fd75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4772715c553064304d30_collapsible-header"><i class="material-icons">person</i>片山さつき - 参議院</div><div class="collapsible-body"><span id="4772715c553064304d30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a0523075d5884b4e_collapsible-header"><i class="material-icons">person</i>加田裕之 - 参議院</div><div class="collapsible-body"><span id="a0523075d5884b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="dd52e34f5d5b0e66_collapsible-header"><i class="material-icons">person</i>勝俣孝明 - 衆議院</div><div class="collapsible-body"><span id="dd52e34f5d5b0e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a052e4858e9b505b_collapsible-header"><i class="material-icons">person</i>加藤鮎子 - 衆議院</div><div class="collapsible-body"><span id="a052e4858e9b505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a052e485dd52e14f_collapsible-header"><i class="material-icons">person</i>加藤勝信 - 衆議院</div><div class="collapsible-body"><span id="a052e485dd52e14f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a052e485db5bbb6c_collapsible-header"><i class="material-icons">person</i>加藤寛治 - 衆議院</div><div class="collapsible-body"><span id="a052e485db5bbb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="80955a538765_collapsible-header"><i class="material-icons">person</i>門博文 - 衆議院</div><div class="collapsible-body"><span id="80955a538765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8095715c8f5bf254_collapsible-header"><i class="material-icons">person</i>門山宏哲 - 衆議院</div><div class="collapsible-body"><span id="8095715c8f5bf254_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d191505b9f538c4ece90_collapsible-header"><i class="material-icons">person</i>金子原二郎 - 参議院</div><div class="collapsible-body"><span id="d191505b9f538c4ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d191505bca4f735e_collapsible-header"><i class="material-icons">person</i>金子俊平 - 衆議院</div><div class="collapsible-body"><span id="d191505bca4f735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d191505b074eff5b2b59_collapsible-header"><i class="material-icons">person</i>金子万寿夫 - 衆議院</div><div class="collapsible-body"><span id="d191505b074eff5b2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d191505b6d604b4e_collapsible-header"><i class="material-icons">person</i>金子恭之 - 衆議院</div><div class="collapsible-body"><span id="d191505b6d604b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d1913075dd52745e_collapsible-header"><i class="material-icons">person</i>金田勝年 - 衆議院</div><div class="collapsible-body"><span id="d1913075dd52745e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4edd5d7d96505b_collapsible-header"><i class="material-icons">person</i>上川陽子 - 衆議院</div><div class="collapsible-body"><span id="0a4edd5d7d96505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5e79378c0766_collapsible-header"><i class="material-icons">person</i>神谷昇 - 衆議院</div><div class="collapsible-body"><span id="5e79378c0766_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5e79715c504f025e_collapsible-header"><i class="material-icons">person</i>神山佐市 - 衆議院</div><div class="collapsible-body"><span id="5e79715c504f025e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="804ea15c4950116c_collapsible-header"><i class="material-icons">person</i>亀岡偉民 - 衆議院</div><div class="collapsible-body"><span id="804ea15c4950116c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="289d0b4e004ece90_collapsible-header"><i class="material-icons">person</i>鴨下一郎 - 衆議院</div><div class="collapsible-body"><span id="289d0b4e004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b36c954e423093308a30_collapsible-header"><i class="material-icons">person</i>河井あんり - 参議院</div><div class="collapsible-body"><span id="b36c954e423093308a30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="dd5d0e5d8c4ece90_collapsible-header"><i class="material-icons">person</i>川崎二郎 - 衆議院</div><div class="collapsible-body"><span id="dd5d0e5d8c4ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b36c5167fa5e2b59_collapsible-header"><i class="material-icons">person</i>河村建夫 - 衆議院</div><div class="collapsible-body"><span id="b36c5167fa5e2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="c583b65b004ece90_collapsible-header"><i class="material-icons">person</i>菅家一郎 - 衆議院</div><div class="collapsible-body"><span id="c583b65b004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5e793075b261216b_collapsible-header"><i class="material-icons">person</i>神田憲次 - 衆議院</div><div class="collapsible-body"><span id="5e793075b261216b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5e793075d588_collapsible-header"><i class="material-icons">person</i>神田裕 - 衆議院</div><div class="collapsible-body"><span id="5e793075d588_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce5785519f5b_collapsible-header"><i class="material-icons">person</i>城内実 - 衆議院</div><div class="collapsible-body"><span id="ce5785519f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="c49edd5d3075c14ed75f_collapsible-header"><i class="material-icons">person</i>黄川田仁志 - 衆議院</div><div class="collapsible-body"><span id="c49edd5d3075c14ed75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b85c30758765c496_collapsible-header"><i class="material-icons">person</i>岸田文雄 - 衆議院</div><div class="collapsible-body"><span id="b85c30758765c496_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b85ce14f2b59_collapsible-header"><i class="material-icons">person</i>岸信夫 - 衆議院</div><div class="collapsible-body"><span id="b85ce14f2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="17535167a08a3e54_collapsible-header"><i class="material-icons">person</i>北村誠吾 - 衆議院</div><div class="collapsible-body"><span id="17535167a08a3e54_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="175351674c7d2b59_collapsible-header"><i class="material-icons">person</i>北村経夫 - 参議院</div><div class="collapsible-body"><span id="175351674c7d2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="28679f53a08a8c4e_collapsible-header"><i class="material-icons">person</i>木原誠二 - 衆議院</div><div class="collapsible-body"><span id="28679f53a08a8c4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="28679f53147a_collapsible-header"><i class="material-icons">person</i>木原稔 - 衆議院</div><div class="collapsible-body"><span id="28679f53147a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="28675167216bce90_collapsible-header"><i class="material-icons">person</i>木村次郎 - 衆議院</div><div class="collapsible-body"><span id="28675167216bce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="28675167f2545f4e_collapsible-header"><i class="material-icons">person</i>木村哲也 - 衆議院</div><div class="collapsible-body"><span id="28675167f2545f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="28675167255f1f75_collapsible-header"><i class="material-icons">person</i>木村弥生 - 衆議院</div><div class="collapsible-body"><span id="28675167255f1f75_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e55de485705f094e_collapsible-header"><i class="material-icons">person</i>工藤彰三 - 衆議院</div><div class="collapsible-body"><span id="e55de485705f094e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="fd564951423084306e30_collapsible-header"><i class="material-icons">person</i>国光あやの - 衆議院</div><div class="collapsible-body"><span id="fd564951423084306e30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8a713075d5881a90_collapsible-header"><i class="material-icons">person</i>熊田裕通 - 衆議院</div><div class="collapsible-body"><span id="8a713075d5881a90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cc96c3290216bce90_collapsible-header"><i class="material-icons">person</i>小泉進次郎 - 衆議院</div><div class="collapsible-body"><span id="0f5cc96c3290216bce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cc96c8d9ff853_collapsible-header"><i class="material-icons">person</i>小泉龍司 - 衆議院</div><div class="collapsible-body"><span id="0f5cc96c8d9ff853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4e08676f825079_collapsible-header"><i class="material-icons">person</i>上月良祐 - 参議院</div><div class="collapsible-body"><span id="0a4e08676f825079_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b36cce912a59ce90_collapsible-header"><i class="material-icons">person</i>河野太郎 - 衆議院</div><div class="collapsible-body"><span id="b36cce912a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a5167636b2759_collapsible-header"><i class="material-icons">person</i>高村正大 - 衆議院</div><div class="collapsible-body"><span id="d89a5167636b2759_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e453c08ce47b_collapsible-header"><i class="material-icons">person</i>古賀篤 - 衆議院</div><div class="collapsible-body"><span id="e453c08ce47b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e453c08ccb53004ece90_collapsible-header"><i class="material-icons">person</i>古賀友一郎 - 参議院</div><div class="collapsible-body"><span id="e453c08ccb53004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0b573458785e4b4ea952_collapsible-header"><i class="material-icons">person</i>國場幸之助 - 衆議院</div><div class="collapsible-body"><span id="0b573458785e4b4ea952_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cf65c4f658765_collapsible-header"><i class="material-icons">person</i>小島敏文 - 衆議院</div><div class="collapsible-body"><span id="0f5cf65c4f658765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cfa5bd588c496_collapsible-header"><i class="material-icons">person</i>小寺裕雄 - 衆議院</div><div class="collapsible-body"><span id="0f5cfa5bd588c496_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c97670283396a_collapsible-header"><i class="material-icons">person</i>小林茂樹 - 衆議院</div><div class="collapsible-body"><span id="0f5c97670283396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c9767f99d4b4e_collapsible-header"><i class="material-icons">person</i>小林鷹之 - 衆議院</div><div class="collapsible-body"><span id="0f5c9767f99d4b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c9767f2530e66_collapsible-header"><i class="material-icons">person</i>小林史明 - 衆議院</div><div class="collapsible-body"><span id="0f5c9767f2530e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="533084308a308696f253_collapsible-header"><i class="material-icons">person</i>こやり隆史 - 参議院</div><div class="collapsible-body"><span id="533084308a308696f253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8c5fe48502834b4e_collapsible-header"><i class="material-icons">person</i>後藤茂之 - 衆議院</div><div class="collapsible-body"><span id="8c5fe48502834b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8c5fe4853075636b147d_collapsible-header"><i class="material-icons">person</i>後藤田正純 - 衆議院</div><div class="collapsible-body"><span id="8c5fe4853075636b147d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4b9fe4856550_collapsible-header"><i class="material-icons">person</i>齋藤健 - 衆議院</div><div class="collapsible-body"><span id="4b9fe4856550_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8e65e4850b6d0e66_collapsible-header"><i class="material-icons">person</i>斎藤洋明 - 衆議院</div><div class="collapsible-body"><span id="8e65e4850b6d0e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4257954e665b_collapsible-header"><i class="material-icons">person</i>坂井学 - 衆議院</div><div class="collapsible-body"><span id="4257954e665b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5291954eb85e4c88_collapsible-header"><i class="material-icons">person</i>酒井庸行 - 参議院</div><div class="collapsible-body"><span id="5291954eb85e4c88_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="42572c67f254d75f_collapsible-header"><i class="material-icons">person</i>坂本哲志 - 衆議院</div><div class="collapsible-body"><span id="42572c67f254d75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="fb6a954e4551_collapsible-header"><i class="material-icons">person</i>櫻井充 - 参議院</div><div class="collapsible-body"><span id="fb6a954e4551_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="fb6a3075a97f5d5b_collapsible-header"><i class="material-icons">person</i>櫻田義孝 - 衆議院</div><div class="collapsible-body"><span id="fb6a3075a97f5d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="397bdd5d5a53a97f_collapsible-header"><i class="material-icons">person</i>笹川博義 - 衆議院</div><div class="collapsible-body"><span id="397bdd5d5a53a97f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504f05302867007d_collapsible-header"><i class="material-icons">person</i>佐々木紀 - 衆議院</div><div class="collapsible-body"><span id="504f05302867007d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe4850e663775_collapsible-header"><i class="material-icons">person</i>佐藤明男 - 衆議院</div><div class="collapsible-body"><span id="504fe4850e663775_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e65de485e07a_collapsible-header"><i class="material-icons">person</i>左藤章 - 衆議院</div><div class="collapsible-body"><span id="e65de485e07a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe4855355_collapsible-header"><i class="material-icons">person</i>佐藤啓 - 参議院</div><div class="collapsible-body"><span id="504fe4855355_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe485c952_collapsible-header"><i class="material-icons">person</i>佐藤勉 - 衆議院</div><div class="collapsible-body"><span id="504fe485c952_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe485e14fcb79_collapsible-header"><i class="material-icons">person</i>佐藤信秋 - 参議院</div><div class="collapsible-body"><span id="504fe485e14fcb79_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe485636b454e_collapsible-header"><i class="material-icons">person</i>佐藤正久 - 参議院</div><div class="collapsible-body"><span id="504fe485636b454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe48586304b308a30_collapsible-header"><i class="material-icons">person</i>佐藤ゆかり - 衆議院</div><div class="collapsible-body"><span id="504fe48586304b308a30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c71672d66505b_collapsible-header"><i class="material-icons">person</i>山東昭子 - 参議院</div><div class="collapsible-body"><span id="715c71672d66505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="69580e5d6d60454e_collapsible-header"><i class="material-icons">person</i>塩崎恭久 - 衆議院</div><div class="collapsible-body"><span id="69580e5d6d60454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6958378ccb7a_collapsible-header"><i class="material-icons">person</i>塩谷立 - 衆議院</div><div class="collapsible-body"><span id="6958378ccb7a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="417e2c67778b_collapsible-header"><i class="material-icons">person</i>繁本護 - 衆議院</div><div class="collapsible-body"><span id="417e2c67778b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f467715c0c66665f_collapsible-header"><i class="material-icons">person</i>柴山昌彦 - 衆議院</div><div class="collapsible-body"><span id="f467715c0c66665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f65c51672759_collapsible-header"><i class="material-icons">person</i>島村大 - 参議院</div><div class="collapsible-body"><span id="f65c51672759_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="056e346c1f77ba4e_collapsible-header"><i class="material-icons">person</i>清水真人 - 参議院</div><div class="collapsible-body"><span id="056e346c1f77ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0b4e51675a538765_collapsible-header"><i class="material-icons">person</i>下村博文 - 衆議院</div><div class="collapsible-body"><span id="0b4e51675a538765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b065378c636ba97f_collapsible-header"><i class="material-icons">person</i>新谷正義 - 衆議院</div><div class="collapsible-body"><span id="b065378c636ba97f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3290e485d191e565505b_collapsible-header"><i class="material-icons">person</i>進藤金日子 - 参議院</div><div class="collapsible-body"><span id="3290e485d191e565505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b065e485a97f5d5b_collapsible-header"><i class="material-icons">person</i>新藤義孝 - 衆議院</div><div class="collapsible-body"><span id="b065e485a97f5d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ea818b896f306a305330_collapsible-header"><i class="material-icons">person</i>自見はなこ - 参議院</div><div class="collapsible-body"><span id="ea818b896f306a305330_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2b677e67e14fcb4e_collapsible-header"><i class="material-icons">person</i>末松信介 - 参議院</div><div class="collapsible-body"><span id="2b677e67e14fcb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="c583a97f4950_collapsible-header"><i class="material-icons">person</i>菅義偉 - 衆議院</div><div class="collapsible-body"><span id="c583a97f4950_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="49673075346c0881_collapsible-header"><i class="material-icons">person</i>杉田水脈 - 衆議院</div><div class="collapsible-body"><span id="49673075346c0881_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="34922867a8995079_collapsible-header"><i class="material-icons">person</i>鈴木馨祐 - 衆議院</div><div class="collapsible-body"><span id="34922867a8995079_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="34922867ca4f004e_collapsible-header"><i class="material-icons">person</i>鈴木俊一 - 衆議院</div><div class="collapsible-body"><span id="34922867ca4f004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="34922867f36df853_collapsible-header"><i class="material-icons">person</i>鈴木淳司 - 衆議院</div><div class="collapsible-body"><span id="34922867f36df853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="34922867b48c505b_collapsible-header"><i class="material-icons">person</i>鈴木貴子 - 衆議院</div><div class="collapsible-body"><span id="34922867b48c505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="34922867b2618c54_collapsible-header"><i class="material-icons">person</i>鈴木憲和 - 衆議院</div><div class="collapsible-body"><span id="34922867b2618c54_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="34922867bc96ba4e_collapsible-header"><i class="material-icons">person</i>鈴木隼人 - 衆議院</div><div class="collapsible-body"><span id="34922867bc96ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a295e3530c66004e_collapsible-header"><i class="material-icons">person</i>関口昌一 - 参議院</div><div class="collapsible-body"><span id="a295e3530c66004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a295b382185f_collapsible-header"><i class="material-icons">person</i>関芳弘 - 衆議院</div><div class="collapsible-body"><span id="a295b382185f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="164e1580185f1062_collapsible-header"><i class="material-icons">person</i>世耕弘成 - 参議院</div><div class="collapsible-body"><span id="164e1580185f1062_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9785666d65502a59ce90_collapsible-header"><i class="material-icons">person</i>薗浦健太郎 - 衆議院</div><div class="collapsible-body"><span id="9785666d65502a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5d306e306030ee4f4951_collapsible-header"><i class="material-icons">person</i>そのだ修光 - 参議院</div><div class="collapsible-body"><span id="5d306e306030ee4f4951_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="735e065c0e66_collapsible-header"><i class="material-icons">person</i>平将明 - 衆議院</div><div class="collapsible-body"><span id="735e065c0e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a025ee965d782_collapsible-header"><i class="material-icons">person</i>高市早苗 - 衆議院</div><div class="collapsible-body"><span id="d89a025ee965d782_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a8e9675608e7f505b_collapsible-header"><i class="material-icons">person</i>高階恵美子 - 参議院</div><div class="collapsible-body"><span id="d89a8e9675608e7f505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a28675355_collapsible-header"><i class="material-icons">person</i>高木啓 - 衆議院</div><div class="collapsible-body"><span id="d89a28675355_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a2867c56b_collapsible-header"><i class="material-icons">person</i>高木毅 - 衆議院</div><div class="collapsible-body"><span id="d89a2867c56b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89ae59cee4f004e_collapsible-header"><i class="material-icons">person</i>高鳥修一 - 衆議院</div><div class="collapsible-body"><span id="d89ae59cee4f004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89ace9149518c4ece90_collapsible-header"><i class="material-icons">person</i>高野光二郎 - 参議院</div><div class="collapsible-body"><span id="d89ace9149518c4ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a4b6a4b51d56c_collapsible-header"><i class="material-icons">person</i>高橋克法 - 参議院</div><div class="collapsible-body"><span id="d89a4b6a4b51d56c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a4b6a6f308b307f30_collapsible-header"><i class="material-icons">person</i>高橋はるみ - 参議院</div><div class="collapsible-body"><span id="d89a4b6a6f308b307f30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a4b6a72306a305330_collapsible-header"><i class="material-icons">person</i>高橋ひなこ - 衆議院</div><div class="collapsible-body"><span id="d89a4b6a72306a305330_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="dd6ea26c426c_collapsible-header"><i class="material-icons">person</i>滝沢求 - 参議院</div><div class="collapsible-body"><span id="dd6ea26c426c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="dd6ee26c8f5b8765_collapsible-header"><i class="material-icons">person</i>滝波宏文 - 参議院</div><div class="collapsible-body"><span id="dd6ee26c8f5b8765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666b954eca4f148f_collapsible-header"><i class="material-icons">person</i>武井俊輔 - 衆議院</div><div class="collapsible-body"><span id="666b954eca4f148f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f97a0b4e984e_collapsible-header"><i class="material-icons">person</i>竹下亘 - 衆議院</div><div class="collapsible-body"><span id="f97a0b4e984e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666b30756f822a59_collapsible-header"><i class="material-icons">person</i>武田良太 - 衆議院</div><div class="collapsible-body"><span id="666b30756f822a59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666be890b065_collapsible-header"><i class="material-icons">person</i>武部新 - 衆議院</div><div class="collapsible-body"><span id="666be890b065_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666b8b896c65094e_collapsible-header"><i class="material-icons">person</i>武見敬三 - 参議院</div><div class="collapsible-body"><span id="666b8b896c65094e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666b5167555cf182_collapsible-header"><i class="material-icons">person</i>武村展英 - 衆議院</div><div class="collapsible-body"><span id="666b5167555cf182_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f97a2c67f476004e_collapsible-header"><i class="material-icons">person</i>竹本直一 - 衆議院</div><div class="collapsible-body"><span id="f97a2c67f476004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="586a7661004ece90_collapsible-header"><i class="material-icons">person</i>橘慶一郎 - 衆議院</div><div class="collapsible-body"><span id="586a7661004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="307540620956b35f_collapsible-header"><i class="material-icons">person</i>田所嘉徳 - 衆議院</div><div class="collapsible-body"><span id="307540620956b35f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="30752d4e8c54b35f_collapsible-header"><i class="material-icons">person</i>田中和徳 - 衆議院</div><div class="collapsible-body"><span id="30752d4e8c54b35f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="30752d4ef1824b4e_collapsible-header"><i class="material-icons">person</i>田中英之 - 衆議院</div><div class="collapsible-body"><span id="30752d4ef1824b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="30752d4e6f821f75_collapsible-header"><i class="material-icons">person</i>田中良生 - 衆議院</div><div class="collapsible-body"><span id="30752d4e6f821f75_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="da684b6af06c8765_collapsible-header"><i class="material-icons">person</i>棚橋泰文 - 衆議院</div><div class="collapsible-body"><span id="da684b6af06c8765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="378cdd5d68308030_collapsible-header"><i class="material-icons">person</i>谷川とむ - 衆議院</div><div class="collapsible-body"><span id="378cdd5d68308030_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="378cdd5d255f004e_collapsible-header"><i class="material-icons">person</i>谷川弥一 - 衆議院</div><div class="collapsible-body"><span id="378cdd5d255f004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="378c6c51004e_collapsible-header"><i class="material-icons">person</i>谷公一 - 衆議院</div><div class="collapsible-body"><span id="378c6c51004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="30755175d5880e66_collapsible-header"><i class="material-icons">person</i>田畑裕明 - 衆議院</div><div class="collapsible-body"><span id="30755175d5880e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="30755167b261454e_collapsible-header"><i class="material-icons">person</i>田村憲久 - 衆議院</div><div class="collapsible-body"><span id="30755167b261454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d8670d69b3828765_collapsible-header"><i class="material-icons">person</i>柘植芳文 - 参議院</div><div class="collapsible-body"><span id="d8670d69b3828765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="256df65cf36d_collapsible-header"><i class="material-icons">person</i>津島淳 - 衆議院</div><div class="collapsible-body"><span id="256df65cf36d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="bb8f056eba4e_collapsible-header"><i class="material-icons">person</i>辻清人 - 衆議院</div><div class="collapsible-body"><span id="bb8f056eba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="1f574b5cc154505b_collapsible-header"><i class="material-icons">person</i>土屋品子 - 衆議院</div><div class="collapsible-body"><span id="1f574b5cc154505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b49ddd4fb85ecb4e_collapsible-header"><i class="material-icons">person</i>鶴保庸介 - 参議院</div><div class="collapsible-body"><span id="b49ddd4fb85ecb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="fa5b3075147a_collapsible-header"><i class="material-icons">person</i>寺田稔 - 衆議院</div><div class="collapsible-body"><span id="fa5b3075147a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="fa5151759f5b_collapsible-header"><i class="material-icons">person</i>出畑実 - 衆議院</div><div class="collapsible-body"><span id="fa5151759f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="216e776d007d094e1767_collapsible-header"><i class="material-icons">person</i>渡海紀三朗 - 衆議院</div><div class="collapsible-body"><span id="216e776d007d094e1767_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="68304b3057304d306a304a307f30_collapsible-header"><i class="material-icons">person</i>とかしきなおみ - 衆議院</div><div class="collapsible-body"><span id="68304b3057304d306a304a307f30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a8512b6a5a534b4e_collapsible-header"><i class="material-icons">person</i>冨樫博之 - 衆議院</div><div class="collapsible-body"><span id="a8512b6a5a534b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b35f0283c5964b4e_collapsible-header"><i class="material-icons">person</i>徳茂雅之 - 参議院</div><div class="collapsible-body"><span id="b35f0283c5964b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a851a15cc952_collapsible-header"><i class="material-icons">person</i>冨岡勉 - 衆議院</div><div class="collapsible-body"><span id="a851a15cc952_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4a8c3075ca4fce90_collapsible-header"><i class="material-icons">person</i>豊田俊郎 - 参議院</div><div class="collapsible-body"><span id="4a8c3075ca4fce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="1f57954ea84e_collapsible-header"><i class="material-icons">person</i>土井亨 - 衆議院</div><div class="collapsible-body"><span id="1f57954ea84e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="025845650283_collapsible-header"><i class="material-icons">person</i>堂故茂 - 参議院</div><div class="collapsible-body"><span id="025845650283_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4edd5dc596bb6c_collapsible-header"><i class="material-icons">person</i>中川雅治 - 参議院</div><div class="collapsible-body"><span id="2d4edd5dc596bb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4efd663968185f8765_collapsible-header"><i class="material-icons">person</i>中曽根弘文 - 参議院</div><div class="collapsible-body"><span id="2d4efd663968185f8765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4efd663968b75e8696_collapsible-header"><i class="material-icons">person</i>中曽根康隆 - 衆議院</div><div class="collapsible-body"><span id="2d4efd663968b75e8696_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e378c4351_collapsible-header"><i class="material-icons">person</i>中谷元 - 衆議院</div><div class="collapsible-body"><span id="2d4e378c4351_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e378c1f77004e_collapsible-header"><i class="material-icons">person</i>中谷真一 - 衆議院</div><div class="collapsible-body"><span id="2d4e378c1f77004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e7f896550bb6c_collapsible-header"><i class="material-icons">person</i>中西健治 - 参議院</div><div class="collapsible-body"><span id="2d4e7f896550bb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e7f89f254_collapsible-header"><i class="material-icons">person</i>中西哲 - 参議院</div><div class="collapsible-body"><span id="2d4e7f89f254_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e7f895079cb4e_collapsible-header"><i class="material-icons">person</i>中西祐介 - 参議院</div><div class="collapsible-body"><span id="2d4e7f895079cb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e3968004e785e_collapsible-header"><i class="material-icons">person</i>中根一幸 - 衆議院</div><div class="collapsible-body"><span id="2d4e3968004e785e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e5167d5884b4e_collapsible-header"><i class="material-icons">person</i>中村裕之 - 衆議院</div><div class="collapsible-body"><span id="2d4e5167d5884b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e715c555c8f5b_collapsible-header"><i class="material-icons">person</i>中山展宏 - 衆議院</div><div class="collapsible-body"><span id="2d4e715c555c8f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e715cf06cc079_collapsible-header"><i class="material-icons">person</i>中山泰秀 - 衆議院</div><div class="collapsible-body"><span id="2d4e715cf06cc079_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="386ca15c4268505b_collapsible-header"><i class="material-icons">person</i>永岡桂子 - 衆議院</div><div class="collapsible-body"><span id="386ca15c4268505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="77953e5c6c65_collapsible-header"><i class="material-icons">person</i>長尾敬 - 衆議院</div><div class="collapsible-body"><span id="77953e5c6c65_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="77954257b75e636b_collapsible-header"><i class="material-icons">person</i>長坂康正 - 衆議院</div><div class="collapsible-body"><span id="77954257b75e636b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7795f65c2d66454e_collapsible-header"><i class="material-icons">person</i>長島昭久 - 衆議院</div><div class="collapsible-body"><span id="7795f65c2d66454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7795ef5ca08a_collapsible-header"><i class="material-icons">person</i>長峯誠 - 参議院</div><div class="collapsible-body"><span id="7795ef5ca08a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8c4e8e96ca4f5a53_collapsible-header"><i class="material-icons">person</i>二階俊博 - 衆議院</div><div class="collapsible-body"><span id="8c4e8e96ca4f5a53_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7f8930752d668c4e_collapsible-header"><i class="material-icons">person</i>西田昭二 - 衆議院</div><div class="collapsible-body"><span id="7f8930752d668c4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7f8930750c66f853_collapsible-header"><i class="material-icons">person</i>西田昌司 - 参議院</div><div class="collapsible-body"><span id="7f8930750c66f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7f8951670e668f5b_collapsible-header"><i class="material-icons">person</i>西村明宏 - 衆議院</div><div class="collapsible-body"><span id="7f8951670e668f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7f895167b75e147a_collapsible-header"><i class="material-icons">person</i>西村康稔 - 衆議院</div><div class="collapsible-body"><span id="7f895167b75e147a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7f8998925260094ece90_collapsible-header"><i class="material-icons">person</i>西銘恒三郎 - 衆議院</div><div class="collapsible-body"><span id="7f8998925260094ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8c4e4b4e6f6e7a66_collapsible-header"><i class="material-icons">person</i>二之湯智 - 参議院</div><div class="collapsible-body"><span id="8c4e4b4e6f6e7a66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="394ebd7fc079396a_collapsible-header"><i class="material-icons">person</i>丹羽秀樹 - 衆議院</div><div class="collapsible-body"><span id="394ebd7fc079396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4d98c08c8f79d75fce90_collapsible-header"><i class="material-icons">person</i>額賀福志郎 - 衆議院</div><div class="collapsible-body"><span id="4d98c08c8f79d75fce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="39682c672053_collapsible-header"><i class="material-icons">person</i>根本匠 - 衆議院</div><div class="collapsible-body"><span id="39682c672053_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="39682c67785e7851_collapsible-header"><i class="material-icons">person</i>根本幸典 - 衆議院</div><div class="collapsible-body"><span id="39682c67785e7851_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce910a4e696d2a59ce90_collapsible-header"><i class="material-icons">person</i>野上浩太郎 - 参議院</div><div class="collapsible-body"><span id="ce910a4e696d2a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce9130755680505b_collapsible-header"><i class="material-icons">person</i>野田聖子 - 衆議院</div><div class="collapsible-body"><span id="ce9130755680505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce913075c56b_collapsible-header"><i class="material-icons">person</i>野田毅 - 衆議院</div><div class="collapsible-body"><span id="ce913075c56b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce912d4e9a53_collapsible-header"><i class="material-icons">person</i>野中厚 - 衆議院</div><div class="collapsible-body"><span id="ce912d4e9a53_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce915167f254ce90_collapsible-header"><i class="material-icons">person</i>野村哲郎 - 参議院</div><div class="collapsible-body"><span id="ce915167f254ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="29841f7530754951004e_collapsible-header"><i class="material-icons">person</i>萩生田光一 - 衆議院</div><div class="collapsible-body"><span id="29841f7530754951004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4b6a2c67b35c_collapsible-header"><i class="material-icons">person</i>橋本岳 - 衆議院</div><div class="collapsible-body"><span id="4b6a2c67b35c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7795378cdd5db35c_collapsible-header"><i class="material-icons">person</i>長谷川岳 - 参議院</div><div class="collapsible-body"><span id="7795378cdd5db35c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b399696d_collapsible-header"><i class="material-icons">person</i>馳浩 - 衆議院</div><div class="collapsible-body"><span id="b399696d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e99c715c8c4ece90_collapsible-header"><i class="material-icons">person</i>鳩山二郎 - 衆議院</div><div class="collapsible-body"><span id="e99c715c8c4ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4984a868b75e185f_collapsible-header"><i class="material-icons">person</i>葉梨康弘 - 衆議院</div><div class="collapsible-body"><span id="4984a868b75e185f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="bd7f1f753075ca4f_collapsible-header"><i class="material-icons">person</i>羽生田俊 - 参議院</div><div class="collapsible-body"><span id="bd7f1f753075ca4f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5c6d30755697004e_collapsible-header"><i class="material-icons">person</i>浜田靖一 - 衆議院</div><div class="collapsible-body"><span id="5c6d30755697004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9767795ec496_collapsible-header"><i class="material-icons">person</i>林幹雄 - 衆議院</div><div class="collapsible-body"><span id="9767795ec496_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9767b382636b_collapsible-header"><i class="material-icons">person</i>林芳正 - 参議院</div><div class="collapsible-body"><span id="9767b382636b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9f533075b261bb6c_collapsible-header"><i class="material-icons">person</i>原田憲治 - 衆議院</div><div class="collapsible-body"><span id="9f533075b261bb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9f533075a97f2d66_collapsible-header"><i class="material-icons">person</i>原田義昭 - 衆議院</div><div class="collapsible-body"><span id="9f533075a97f2d66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ac9934581062d75f_collapsible-header"><i class="material-icons">person</i>馬場成志 - 参議院</div><div class="collapsible-body"><span id="ac9934581062d75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e76666b6c51aa89_collapsible-header"><i class="material-icons">person</i>百武公親 - 衆議院</div><div class="collapsible-body"><span id="7e76666b6c51aa89_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="735e954e53535f4e_collapsible-header"><i class="material-icons">person</i>平井卓也 - 衆議院</div><div class="collapsible-body"><span id="735e954e53535f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="735ee3530b6d_collapsible-header"><i class="material-icons">person</i>平口洋 - 衆議院</div><div class="collapsible-body"><span id="735ee3530b6d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="735ea26cdd520468_collapsible-header"><i class="material-icons">person</i>平沢勝栄 - 衆議院</div><div class="collapsible-body"><span id="735ea26cdd520468_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f16da46f7d96004e_collapsible-header"><i class="material-icons">person</i>深澤陽一 - 衆議院</div><div class="collapsible-body"><span id="f16da46f7d96004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8f79954e6771_collapsible-header"><i class="material-icons">person</i>福井照 - 衆議院</div><div class="collapsible-body"><span id="8f79954e6771_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8f79a15cc78cbf9e_collapsible-header"><i class="material-icons">person</i>福岡資麿 - 参議院</div><div class="collapsible-body"><span id="8f79a15cc78cbf9e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8f79307554902b59_collapsible-header"><i class="material-icons">person</i>福田達夫 - 衆議院</div><div class="collapsible-body"><span id="8f79307554902b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8f79715c885b_collapsible-header"><i class="material-icons">person</i>福山守 - 衆議院</div><div class="collapsible-body"><span id="8f79715c885b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e485954ed46be9654b4e_collapsible-header"><i class="material-icons">person</i>藤井比早之 - 衆議院</div><div class="collapsible-body"><span id="e485954ed46be9654b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e485954efa574b4e_collapsible-header"><i class="material-icons">person</i>藤井基之 - 参議院</div><div class="collapsible-body"><span id="e485954efa574b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e485dd5d3f65ba4e_collapsible-header"><i class="material-icons">person</i>藤川政人 - 参議院</div><div class="collapsible-body"><span id="e485dd5d3f65ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e48528671e775f4e_collapsible-header"><i class="material-icons">person</i>藤木眞也 - 参議院</div><div class="collapsible-body"><span id="e48528671e775f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e4852b676550094e_collapsible-header"><i class="material-icons">person</i>藤末健三 - 参議院</div><div class="collapsible-body"><span id="e4852b676550094e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e485384e4f65_collapsible-header"><i class="material-icons">person</i>藤丸敏 - 衆議院</div><div class="collapsible-body"><span id="e485384e4f65_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e4859f53075d_collapsible-header"><i class="material-icons">person</i>藤原崇 - 衆議院</div><div class="collapsible-body"><span id="e4859f53075d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="398230754351_collapsible-header"><i class="material-icons">person</i>船田元 - 衆議院</div><div class="collapsible-body"><span id="398230754351_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="39824b6a29529f5b_collapsible-header"><i class="material-icons">person</i>船橋利実 - 衆議院</div><div class="collapsible-body"><span id="39824b6a29529f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e453dd5dca4fbb6c_collapsible-header"><i class="material-icons">person</i>古川俊治 - 参議院</div><div class="collapsible-body"><span id="e453dd5dca4fbb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e453dd5db75e_collapsible-header"><i class="material-icons">person</i>古川康 - 衆議院</div><div class="collapsible-body"><span id="e453dd5db75e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e453dd5d8e79454e_collapsible-header"><i class="material-icons">person</i>古川禎久 - 衆議院</div><div class="collapsible-body"><span id="e453dd5d8e79454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e45330752d57004e_collapsible-header"><i class="material-icons">person</i>古田圭一 - 衆議院</div><div class="collapsible-body"><span id="e45330752d57004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e4534b5c2d57f853_collapsible-header"><i class="material-icons">person</i>古屋圭司 - 衆議院</div><div class="collapsible-body"><span id="e4534b5c2d57f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="427a4257f06c_collapsible-header"><i class="material-icons">person</i>穂坂泰 - 衆議院</div><div class="collapsible-body"><span id="427a4257f06c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="1f66ce915b52eb58_collapsible-header"><i class="material-icons">person</i>星野剛士 - 衆議院</div><div class="collapsible-body"><span id="1f66ce915b52eb58_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="307d30756550004e_collapsible-header"><i class="material-icons">person</i>細田健一 - 衆議院</div><div class="collapsible-body"><span id="307d30756550004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="307d30755a534b4e_collapsible-header"><i class="material-icons">person</i>細田博之 - 衆議院</div><div class="collapsible-body"><span id="307d30755a534b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="307dce916a8cd75f_collapsible-header"><i class="material-icons">person</i>細野豪志 - 衆議院</div><div class="collapsible-body"><span id="307dce916a8cd75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0058954ecc5d_collapsible-header"><i class="material-icons">person</i>堀井巌 - 参議院</div><div class="collapsible-body"><span id="0058954ecc5d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0058954e665b_collapsible-header"><i class="material-icons">person</i>堀井学 - 衆議院</div><div class="collapsible-body"><span id="0058954e665b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="00588551548a505b_collapsible-header"><i class="material-icons">person</i>堀内詔子 - 衆議院</div><div class="collapsible-body"><span id="00588551548a505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2c6730755598505b_collapsible-header"><i class="material-icons">person</i>本田顕子 - 参議院</div><div class="collapsible-body"><span id="2c6730755598505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2c6730752a59ce90_collapsible-header"><i class="material-icons">person</i>本田太郎 - 衆議院</div><div class="collapsible-body"><span id="2c6730752a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="1e82cb7a0766bb6c_collapsible-header"><i class="material-icons">person</i>舞立昇治 - 参議院</div><div class="collapsible-body"><span id="1e82cb7a0766bb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6772f65c4b308c309330_collapsible-header"><i class="material-icons">person</i>牧島かれん - 衆議院</div><div class="collapsible-body"><span id="6772f65c4b308c309330_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6772ce915f304b304a30_collapsible-header"><i class="material-icons">person</i>牧野たかお - 参議院</div><div class="collapsible-body"><span id="6772ce915f304b304a30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="67729f53c079396a_collapsible-header"><i class="material-icons">person</i>牧原秀樹 - 衆議院</div><div class="collapsible-body"><span id="67729f53c079396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9758505b1d8f665f_collapsible-header"><i class="material-icons">person</i>増子輝彦 - 参議院</div><div class="collapsible-body"><span id="9758505b1d8f665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e67dd5d8b304430_collapsible-header"><i class="material-icons">person</i>松川るい - 参議院</div><div class="collapsible-body"><span id="7e67dd5d8b304430_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e670b4eb065735e_collapsible-header"><i class="material-icons">person</i>松下新平 - 参議院</div><div class="collapsible-body"><span id="7e670b4eb065735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e67f65c7f3069308a30_collapsible-header"><i class="material-icons">person</i>松島みどり - 衆議院</div><div class="collapsible-body"><span id="7e67f65c7f3069308a30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e67ce915a53004e_collapsible-header"><i class="material-icons">person</i>松野博一 - 衆議院</div><div class="collapsible-body"><span id="7e67ce915a53004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e6751676579f253_collapsible-header"><i class="material-icons">person</i>松村祥史 - 参議院</div><div class="collapsible-body"><span id="7e6751676579f253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e672c675b520e66_collapsible-header"><i class="material-icons">person</i>松本剛明 - 衆議院</div><div class="collapsible-body"><span id="7e672c675b520e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e672c6787650e66_collapsible-header"><i class="material-icons">person</i>松本文明 - 衆議院</div><div class="collapsible-body"><span id="7e672c6787650e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e672c670b6d735e_collapsible-header"><i class="material-icons">person</i>松本洋平 - 衆議院</div><div class="collapsible-body"><span id="7e672c670b6d735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e67715c3f65f853_collapsible-header"><i class="material-icons">person</i>松山政司 - 参議院</div><div class="collapsible-body"><span id="7e67715c3f65f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="384edd5de073e34e_collapsible-header"><i class="material-icons">person</i>丸川珠代 - 参議院</div><div class="collapsible-body"><span id="384edd5de073e34e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094e666d5697_collapsible-header"><i class="material-icons">person</i>三浦靖 - 参議院</div><div class="collapsible-body"><span id="094e666d5697_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094e2867a84e_collapsible-header"><i class="material-icons">person</i>三木亨 - 参議院</div><div class="collapsible-body"><span id="094e2867a84e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="346c3d844f650468_collapsible-header"><i class="material-icons">person</i>水落敏栄 - 参議院</div><div class="collapsible-body"><span id="346c3d844f650468_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094e378cf182185f_collapsible-header"><i class="material-icons">person</i>三谷英弘 - 衆議院</div><div class="collapsible-body"><span id="094e378cf182185f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094ec3309767d588f35d_collapsible-header"><i class="material-icons">person</i>三ッ林裕巳 - 衆議院</div><div class="collapsible-body"><span id="094ec3309767d588f35d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094ec330e277b2611f75_collapsible-header"><i class="material-icons">person</i>三ッ矢憲生 - 衆議院</div><div class="collapsible-body"><span id="094ec330e277b2611f75_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15fd56cdd5de14ff182_collapsible-header"><i class="material-icons">person</i>御法川信英 - 衆議院</div><div class="collapsible-body"><span id="a15fd56cdd5de14ff182_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094e9f531d67665f_collapsible-header"><i class="material-icons">person</i>三原朝彦 - 衆議院</div><div class="collapsible-body"><span id="094e9f531d67665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094e9f53583085309330505b_collapsible-header"><i class="material-icons">person</i>三原じゅん子 - 参議院</div><div class="collapsible-body"><span id="094e9f53583085309330505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5b8551c079396a_collapsible-header"><i class="material-icons">person</i>宮内秀樹 - 衆議院</div><div class="collapsible-body"><span id="ae5b8551c079396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094e855b384f3e54_collapsible-header"><i class="material-icons">person</i>三宅伸吾 - 参議院</div><div class="collapsible-body"><span id="094e855b384f3e54_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5b70814951db5b_collapsible-header"><i class="material-icons">person</i>宮腰光寛 - 衆議院</div><div class="collapsible-body"><span id="ae5b70814951db5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5b0e5dc5962b59_collapsible-header"><i class="material-icons">person</i>宮崎雅夫 - 参議院</div><div class="collapsible-body"><span id="ae5b0e5dc5962b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5b0e5d3f65454e_collapsible-header"><i class="material-icons">person</i>宮崎政久 - 衆議院</div><div class="collapsible-body"><span id="ae5b0e5d3f65454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5ba46f5a534c88_collapsible-header"><i class="material-icons">person</i>宮澤博行 - 衆議院</div><div class="collapsible-body"><span id="ae5ba46f5a534c88_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5ba26c0b6d004e_collapsible-header"><i class="material-icons">person</i>宮沢洋一 - 参議院</div><div class="collapsible-body"><span id="ae5ba26c0b6d004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5b0b4e004ece90_collapsible-header"><i class="material-icons">person</i>宮下一郎 - 衆議院</div><div class="collapsible-body"><span id="ae5b0b4e004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5bef8dd362ac99_collapsible-header"><i class="material-icons">person</i>宮路拓馬 - 衆議院</div><div class="collapsible-body"><span id="ae5bef8dd362ac99_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5bf65c9c558765_collapsible-header"><i class="material-icons">person</i>宮島喜文 - 参議院</div><div class="collapsible-body"><span id="ae5bf65c9c558765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5b2c676854f853_collapsible-header"><i class="material-icons">person</i>宮本周司 - 参議院</div><div class="collapsible-body"><span id="ae5b2c676854f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d952f053ca4fcb4e_collapsible-header"><i class="material-icons">person</i>務台俊介 - 衆議院</div><div class="collapsible-body"><span id="d952f053ca4fcb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666be485b95bbb6c_collapsible-header"><i class="material-icons">person</i>武藤容治 - 衆議院</div><div class="collapsible-body"><span id="666be485b95bbb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="975b056e8776004e_collapsible-header"><i class="material-icons">person</i>宗清皇一 - 衆議院</div><div class="collapsible-body"><span id="975b056e8776004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5167954ef182396a_collapsible-header"><i class="material-icons">person</i>村井英樹 - 衆議院</div><div class="collapsible-body"><span id="5167954ef182396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="51670a4ea08a004ece90_collapsible-header"><i class="material-icons">person</i>村上誠一郎 - 衆議院</div><div class="collapsible-body"><span id="51670a4ea08a004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="028328674f654551_collapsible-header"><i class="material-icons">person</i>茂木敏充 - 衆議院</div><div class="collapsible-body"><span id="028328674f654551_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4351ae692a59004ece90_collapsible-header"><i class="material-icons">person</i>元榮太一郎 - 参議院</div><div class="collapsible-body"><span id="4351ae692a59004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee68f182cb4e_collapsible-header"><i class="material-icons">person</i>森英介 - 衆議院</div><div class="collapsible-body"><span id="ee68f182cb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee687e3055305330_collapsible-header"><i class="material-icons">person</i>森まさこ - 参議院</div><div class="collapsible-body"><span id="ee687e3055305330_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee684b5c8f5b_collapsible-header"><i class="material-icons">person</i>森屋宏 - 参議院</div><div class="collapsible-body"><span id="ee684b5c8f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee68715cd588_collapsible-header"><i class="material-icons">person</i>森山裕 - 衆議院</div><div class="collapsible-body"><span id="ee68715cd588_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="db76715c636bc14e_collapsible-header"><i class="material-icons">person</i>盛山正仁 - 衆議院</div><div class="collapsible-body"><span id="db76715c636bc14e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6b512867f2545f4e_collapsible-header"><i class="material-icons">person</i>八木哲也 - 衆議院</div><div class="collapsible-body"><span id="6b512867f2545f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="177c8c541f75_collapsible-header"><i class="material-icons">person</i>簗和生 - 衆議院</div><div class="collapsible-body"><span id="177c8c541f75_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c9b962759d75fce90_collapsible-header"><i class="material-icons">person</i>山際大志郎 - 衆議院</div><div class="collapsible-body"><span id="715c9b962759d75fce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715ce353ca4f004e_collapsible-header"><i class="material-icons">person</i>山口俊一 - 衆議院</div><div class="collapsible-body"><span id="715ce353ca4f004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715ce353f06c0e66_collapsible-header"><i class="material-icons">person</i>山口泰明 - 衆議院</div><div class="collapsible-body"><span id="715ce353f06c0e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715ce353ef58_collapsible-header"><i class="material-icons">person</i>山口壯 - 衆議院</div><div class="collapsible-body"><span id="715ce353ef58_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c0e5d636b2d66_collapsible-header"><i class="material-icons">person</i>山崎正昭 - 参議院</div><div class="collapsible-body"><span id="715c0e5d636b2d66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c0b4eb48cf853_collapsible-header"><i class="material-icons">person</i>山下貴司 - 衆議院</div><div class="collapsible-body"><span id="715c0b4eb48cf853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c0b4ec496735e_collapsible-header"><i class="material-icons">person</i>山下雄平 - 参議院</div><div class="collapsible-body"><span id="715c0b4ec496735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c378c48308a30505b_collapsible-header"><i class="material-icons">person</i>山谷えり子 - 参議院</div><div class="collapsible-body"><span id="715c378c48308a30505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c3075e28cf853_collapsible-header"><i class="material-icons">person</i>山田賢司 - 衆議院</div><div class="collapsible-body"><span id="715c3075e28cf853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c3075ee4fef8d_collapsible-header"><i class="material-icons">person</i>山田修路 - 参議院</div><div class="collapsible-body"><span id="715c3075ee4fef8d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c30752a59ce90_collapsible-header"><i class="material-icons">person</i>山田太郎 - 参議院</div><div class="collapsible-body"><span id="715c30752a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c3075ca4f3775_collapsible-header"><i class="material-icons">person</i>山田俊男 - 参議院</div><div class="collapsible-body"><span id="715c3075ca4f3775_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c30758f5b_collapsible-header"><i class="material-icons">person</i>山田宏 - 参議院</div><div class="collapsible-body"><span id="715c30758f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c30758e7f396a_collapsible-header"><i class="material-icons">person</i>山田美樹 - 衆議院</div><div class="collapsible-body"><span id="715c30758e7f396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c676c51004e_collapsible-header"><i class="material-icons">person</i>山本公一 - 衆議院</div><div class="collapsible-body"><span id="715c2c676c51004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c67785e094e_collapsible-header"><i class="material-icons">person</i>山本幸三 - 衆議院</div><div class="collapsible-body"><span id="715c2c67785e094e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c670698094e_collapsible-header"><i class="material-icons">person</i>山本順三 - 参議院</div><div class="collapsible-body"><span id="715c2c670698094e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c67d362_collapsible-header"><i class="material-icons">person</i>山本拓 - 衆議院</div><div class="collapsible-body"><span id="715c2c67d362_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c676830823072308d30_collapsible-header"><i class="material-icons">person</i>山本ともひろ - 衆議院</div><div class="collapsible-body"><span id="715c2c676830823072308d30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c6709678c4e_collapsible-header"><i class="material-icons">person</i>山本有二 - 衆議院</div><div class="collapsible-body"><span id="715c2c6709678c4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a97fb65b185fcb4e_collapsible-header"><i class="material-icons">person</i>義家弘介 - 衆議院</div><div class="collapsible-body"><span id="a97fb65b185fcb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0954dd5d738d_collapsible-header"><i class="material-icons">person</i>吉川赳 - 衆議院</div><div class="collapsible-body"><span id="0954dd5d738d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0954dd5d863046307f30_collapsible-header"><i class="material-icons">person</i>吉川ゆうみ - 参議院</div><div class="collapsible-body"><span id="0954dd5d863046307f30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0954ce91636bb382_collapsible-header"><i class="material-icons">person</i>吉野正芳 - 衆議院</div><div class="collapsible-body"><span id="0954ce91636bb382_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e582ae5b6550e355_collapsible-header"><i class="material-icons">person</i>若宮健嗣 - 衆議院</div><div class="collapsible-body"><span id="e582ae5b6550e355_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f29d3e5cf182004ece90_collapsible-header"><i class="material-icons">person</i>鷲尾英一郎 - 衆議院</div><div class="collapsible-body"><span id="f29d3e5cf182004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="216eba8f5d5b004e_collapsible-header"><i class="material-icons">person</i>渡辺孝一 - 衆議院</div><div class="collapsible-body"><span id="216eba8f5d5b004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="216eba8f1b734b4e_collapsible-header"><i class="material-icons">person</i>渡辺猛之 - 参議院</div><div class="collapsible-body"><span id="216eba8f1b734b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="216eba8f5a535390_collapsible-header"><i class="material-icons">person</i>渡辺博道 - 衆議院</div><div class="collapsible-body"><span id="216eba8f5a535390_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8c5430753f65975b_collapsible-header"><i class="material-icons">person</i>和田政宗 - 参議院</div><div class="collapsible-body"><span id="8c5430753f65975b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8c543075a97f0e66_collapsible-header"><i class="material-icons">person</i>和田義明 - 衆議院</div><div class="collapsible-body"><span id="8c543075a97f0e66_collapsible-body"></span></div></li>
+</ul></div>
+
+        <div id="cb7ab261116c3b4e5a51">
+          <h3 class="card-panel indigo darken-4 indigo-text text-lighten-5">立憲民主党</h3>
+          <ul class="collapsible center-align">
+            <li><div class="collapsible-header" id="529728671b61_collapsible-header"><i class="material-icons">person</i>青木愛 - 参議院</div><div class="collapsible-body"><span id="529728671b61_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5297f3677d96004ece90_collapsible-header"><i class="material-icons">person</i>青柳陽一郎 - 衆議院</div><div class="collapsible-body"><span id="5297f3677d96004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5297715c2759ba4e_collapsible-header"><i class="material-icons">person</i>青山大人 - 衆議院</div><div class="collapsible-body"><span id="5297715c2759ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="648d7e67835e8696_collapsible-header"><i class="material-icons">person</i>赤松広隆 - 衆議院</div><div class="collapsible-body"><span id="648d7e67835e8696_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3f96454e256d785e665f_collapsible-header"><i class="material-icons">person</i>阿久津幸彦 - 衆議院</div><div class="collapsible-body"><span id="3f96454e256d785e665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="895b4f4ff36d_collapsible-header"><i class="material-icons">person</i>安住淳 - 衆議院</div><div class="collapsible-body"><span id="895b4f4ff36d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3f96e890e577505b_collapsible-header"><i class="material-icons">person</i>阿部知子 - 衆議院</div><div class="collapsible-body"><span id="3f96e890e577505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5283954e7080_collapsible-header"><i class="material-icons">person</i>荒井聰 - 衆議院</div><div class="collapsible-body"><span id="5283954e7080_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="09673075b3821f75_collapsible-header"><i class="material-icons">person</i>有田芳生 - 参議院</div><div class="collapsible-body"><span id="09673075b3821f75_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="606c30751f77007d_collapsible-header"><i class="material-icons">person</i>池田真紀 - 衆議院</div><div class="collapsible-body"><span id="606c30751f77007d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377dd5d9999547e_collapsible-header"><i class="material-icons">person</i>石川香織 - 衆議院</div><div class="collapsible-body"><span id="f377dd5d9999547e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377dd5d27591162_collapsible-header"><i class="material-icons">person</i>石川大我 - 参議院</div><div class="collapsible-body"><span id="f377dd5d27591162_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377a3576e308a305330_collapsible-header"><i class="material-icons">person</i>石垣のりこ - 参議院</div><div class="collapsible-body"><span id="f377a3576e308a305330_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f3774b6a1a908f5b_collapsible-header"><i class="material-icons">person</i>石橋通宏 - 参議院</div><div class="collapsible-body"><span id="f3774b6a1a908f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="c96c65502a59_collapsible-header"><i class="material-icons">person</i>泉健太 - 衆議院</div><div class="collapsible-body"><span id="c96c65502a59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe485ca4f148f_collapsible-header"><i class="material-icons">person</i>伊藤俊輔 - 衆議院</div><div class="collapsible-body"><span id="0a4fe485ca4f148f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="327acc5bee4f8c4e_collapsible-header"><i class="material-icons">person</i>稲富修二 - 衆議院</div><div class="collapsible-body"><span id="327acc5bee4f8c4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ca4e954ec596ba4e_collapsible-header"><i class="material-icons">person</i>今井雅人 - 衆議院</div><div class="collapsible-body"><span id="ca4e954ec596ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="53628a8d55304f306f82_collapsible-header"><i class="material-icons">person</i>打越さく良 - 参議院</div><div class="collapsible-body"><span id="53628a8d55304f306f82_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="1f75b965785e2b59_collapsible-header"><i class="material-icons">person</i>生方幸夫 - 衆議院</div><div class="collapsible-body"><span id="1f75b965785e2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5f6c0e5d5d5b_collapsible-header"><i class="material-icons">person</i>江崎孝 - 参議院</div><div class="collapsible-body"><span id="5f6c0e5d5d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5f6c3075b261f853_collapsible-header"><i class="material-icons">person</i>江田憲司 - 衆議院</div><div class="collapsible-body"><span id="5f6c3075b261f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9d67ce91785e3775_collapsible-header"><i class="material-icons">person</i>枝野幸男 - 衆議院</div><div class="collapsible-body"><span id="9d67ce91785e3775_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759b36c9f53c596505b_collapsible-header"><i class="material-icons">person</i>大河原雅子 - 衆議院</div><div class="collapsible-body"><span id="2759b36c9f53c596505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759324e5a53d75f_collapsible-header"><i class="material-icons">person</i>大串博志 - 衆議院</div><div class="collapsible-body"><span id="2759324e5a53d75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="22904257a08a8c4e_collapsible-header"><i class="material-icons">person</i>逢坂誠二 - 衆議院</div><div class="collapsible-body"><span id="22904257a08a8c4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759f65c6665_collapsible-header"><i class="material-icons">person</i>大島敦 - 衆議院</div><div class="collapsible-body"><span id="2759f65c6665_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="27597f896550cb4e_collapsible-header"><i class="material-icons">person</i>大西健介 - 衆議院</div><div class="collapsible-body"><span id="27597f896550cb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15cf65c004e636b_collapsible-header"><i class="material-icons">person</i>岡島一正 - 衆議院</div><div class="collapsible-body"><span id="a15cf65c004e636b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15c30754b515f4e_collapsible-header"><i class="material-icons">person</i>岡田克也 - 衆議院</div><div class="collapsible-body"><span id="a15c30754b515f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15c2c6742304d30505b_collapsible-header"><i class="material-icons">person</i>岡本あき子 - 衆議院</div><div class="collapsible-body"><span id="a15c2c6742304d30505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15c2c6745519f52_collapsible-header"><i class="material-icons">person</i>岡本充功 - 衆議院</div><div class="collapsible-body"><span id="a15c2c6745519f52_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cdd5df36d5f4e_collapsible-header"><i class="material-icons">person</i>小川淳也 - 衆議院</div><div class="collapsible-body"><span id="0f5cdd5df36d5f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cdd5d4f652b59_collapsible-header"><i class="material-icons">person</i>小川敏夫 - 参議院</div><div class="collapsible-body"><span id="0f5cdd5d4f652b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6559ce91cf7d004ece90_collapsible-header"><i class="material-icons">person</i>奥野総一郎 - 衆議院</div><div class="collapsible-body"><span id="6559ce91cf7d004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c8a714e61f853_collapsible-header"><i class="material-icons">person</i>小熊慎司 - 衆議院</div><div class="collapsible-body"><span id="0f5c8a714e61f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5ca26c004ece90_collapsible-header"><i class="material-icons">person</i>小沢一郎 - 衆議院</div><div class="collapsible-body"><span id="0f5ca26c004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5ca26cc596c14e_collapsible-header"><i class="material-icons">person</i>小沢雅仁 - 参議院</div><div class="collapsible-body"><span id="0f5ca26cc596c14e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3d840854b48c4b4e_collapsible-header"><i class="material-icons">person</i>落合貴之 - 衆議院</div><div class="collapsible-body"><span id="3d840854b48c4b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3e5cbb8f4b306a30505b_collapsible-header"><i class="material-icons">person</i>尾辻かな子 - 衆議院</div><div class="collapsible-body"><span id="3e5cbb8f4b306a30505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cbc6ce75d_collapsible-header"><i class="material-icons">person</i>小沼巧 - 参議院</div><div class="collapsible-body"><span id="0f5cbc6ce75d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="776d5f6c3075074ecc91_collapsible-header"><i class="material-icons">person</i>海江田万里 - 衆議院</div><div class="collapsible-body"><span id="776d5f6c3075074ecc91_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="dd52e890e28cd75f_collapsible-header"><i class="material-icons">person</i>勝部賢志 - 参議院</div><div class="collapsible-body"><span id="dd52e890e28cd75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d191505b75608e7f_collapsible-header"><i class="material-icons">person</i>金子恵美 - 衆議院</div><div class="collapsible-body"><span id="d191505b75608e7f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5e79378cd588_collapsible-header"><i class="material-icons">person</i>神谷裕 - 衆議院</div><div class="collapsible-body"><span id="5e79378cd588_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="804e954e9c4e007d505b_collapsible-header"><i class="material-icons">person</i>亀井亜紀子 - 衆議院</div><div class="collapsible-body"><span id="804e954e9c4e007d505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="dd5d85515a53f253_collapsible-header"><i class="material-icons">person</i>川内博史 - 衆議院</div><div class="collapsible-body"><span id="dd5d85515a53f253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="dd5d30758d9f735e_collapsible-header"><i class="material-icons">person</i>川田龍平 - 参議院</div><div class="collapsible-body"><span id="dd5d30758d9f735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="c583f476ba4e_collapsible-header"><i class="material-icons">person</i>菅直人 - 衆議院</div><div class="collapsible-body"><span id="c583f476ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce57954e075d_collapsible-header"><i class="material-icons">person</i>城井崇 - 衆議院</div><div class="collapsible-body"><span id="ce57954e075d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ca8330751f77007d505b_collapsible-header"><i class="material-icons">person</i>菊田真紀子 - 衆議院</div><div class="collapsible-body"><span id="ca8330751f77007d505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b85c1f77007d505b_collapsible-header"><i class="material-icons">person</i>岸真紀子 - 参議院</div><div class="collapsible-body"><span id="b85c1f77007d505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="28673862e353f182f853_collapsible-header"><i class="material-icons">person</i>木戸口英司 - 参議院</div><div class="collapsible-body"><span id="28673862e353f182f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="09546f82de5df853_collapsible-header"><i class="material-icons">person</i>吉良州司 - 衆議院</div><div class="collapsible-body"><span id="09546f82de5df853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8a71378cd588ba4e_collapsible-header"><i class="material-icons">person</i>熊谷裕人 - 参議院</div><div class="collapsible-body"><span id="8a71378cd588ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d29ea95c875b0b6d_collapsible-header"><i class="material-icons">person</i>黒岩宇洋 - 衆議院</div><div class="collapsible-body"><span id="d29ea95c875b0b6d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e190f853705f_collapsible-header"><i class="material-icons">person</i>郡司彰 - 参議院</div><div class="collapsible-body"><span id="e190f853705f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="847349844951004ece90_collapsible-header"><i class="material-icons">person</i>玄葉光一郎 - 衆議院</div><div class="collapsible-body"><span id="847349844951004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="906eac99198b2a59ce90_collapsible-header"><i class="material-icons">person</i>源馬謙太郎 - 衆議院</div><div class="collapsible-body"><span id="906eac99198b2a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e453c08c4b4eeb58_collapsible-header"><i class="material-icons">person</i>古賀之士 - 参議院</div><div class="collapsible-body"><span id="e453c08c4b4eeb58_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c7f890b6d4b4e_collapsible-header"><i class="material-icons">person</i>小西洋之 - 参議院</div><div class="collapsible-body"><span id="0f5c7f890b6d4b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5cae5b715cf06c505b_collapsible-header"><i class="material-icons">person</i>小宮山泰子 - 衆議院</div><div class="collapsible-body"><span id="0f5cae5b715cf06c505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d18fe4858c545f4e_collapsible-header"><i class="material-icons">person</i>近藤和也 - 衆議院</div><div class="collapsible-body"><span id="d18fe4858c545f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d18fe4852d66004e_collapsible-header"><i class="material-icons">person</i>近藤昭一 - 衆議院</div><div class="collapsible-body"><span id="d18fe4852d66004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8c5fe4855079004e_collapsible-header"><i class="material-icons">person</i>後藤祐一 - 衆議院</div><div class="collapsible-body"><span id="8c5fe4855079004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="89652867666bd75f_collapsible-header"><i class="material-icons">person</i>斉木武志 - 衆議院</div><div class="collapsible-body"><span id="89652867666bd75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8e65e48509568696_collapsible-header"><i class="material-icons">person</i>斎藤嘉隆 - 参議院</div><div class="collapsible-body"><span id="8e65e48509568696_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="fb6a954e6854_collapsible-header"><i class="material-icons">person</i>櫻井周 - 衆議院</div><div class="collapsible-body"><span id="fb6a954e6854_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504f0530286786965a53_collapsible-header"><i class="material-icons">person</i>佐々木隆博 - 衆議院</div><div class="collapsible-body"><span id="504f0530286786965a53_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe4856c51bb6c_collapsible-header"><i class="material-icons">person</i>佐藤公治 - 衆議院</div><div class="collapsible-body"><span id="504fe4856c51bb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="69585167423084304b30_collapsible-header"><i class="material-icons">person</i>塩村あやか - 参議院</div><div class="collapsible-body"><span id="69585167423084304b30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="cd91b35f8c54665f_collapsible-header"><i class="material-icons">person</i>重徳和彦 - 衆議院</div><div class="collapsible-body"><span id="cd91b35f8c54665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8e961b73_collapsible-header"><i class="material-icons">person</i>階猛 - 衆議院</div><div class="collapsible-body"><span id="8e961b73_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e07b9f536a8c_collapsible-header"><i class="material-icons">person</i>篠原豪 - 衆議院</div><div class="collapsible-body"><span id="e07b9f536a8c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e07b9f535d5b_collapsible-header"><i class="material-icons">person</i>篠原孝 - 衆議院</div><div class="collapsible-body"><span id="e07b9f535d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9d825a53004e_collapsible-header"><i class="material-icons">person</i>芝博一 - 参議院</div><div class="collapsible-body"><span id="9d825a53004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0b4e61677f306430_collapsible-header"><i class="material-icons">person</i>下条みつ - 衆議院</div><div class="collapsible-body"><span id="0b4e61677f306430_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7d76f3770b6d004e_collapsible-header"><i class="material-icons">person</i>白石洋一 - 衆議院</div><div class="collapsible-body"><span id="7d76f3770b6d004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2b677e67a97f8f89_collapsible-header"><i class="material-icons">person</i>末松義規 - 衆議院</div><div class="collapsible-body"><span id="2b677e67a97f8f89_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="49673e5cc079c954_collapsible-header"><i class="material-icons">person</i>杉尾秀哉 - 参議院</div><div class="collapsible-body"><span id="49673e5cc079c954_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a2956550004ece90_collapsible-header"><i class="material-icons">person</i>関健一郎 - 衆議院</div><div class="collapsible-body"><span id="a2956550004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a28672c932a59ce90_collapsible-header"><i class="material-icons">person</i>高木錬太郎 - 衆議院</div><div class="collapsible-body"><span id="d89a28672c932a59ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666b855147523775_collapsible-header"><i class="material-icons">person</i>武内則男 - 衆議院</div><div class="collapsible-body"><span id="666b855147523775_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="30758b5d8189_collapsible-header"><i class="material-icons">person</i>田嶋要 - 衆議院</div><div class="collapsible-body"><span id="30758b5d8189_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3075f65cbb9e6388505b_collapsible-header"><i class="material-icons">person</i>田島麻衣子 - 参議院</div><div class="collapsible-body"><span id="3075f65cbb9e6388505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="30750d54e8902153e34e_collapsible-header"><i class="material-icons">person</i>田名部匡代 - 参議院</div><div class="collapsible-body"><span id="30750d54e8902153e34e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="bb8f4351056e8e7f_collapsible-header"><i class="material-icons">person</i>辻元清美 - 衆議院</div><div class="collapsible-body"><span id="bb8f4351056e8e7f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="256d51675355cb4e_collapsible-header"><i class="material-icons">person</i>津村啓介 - 衆議院</div><div class="collapsible-body"><span id="256d51675355cb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4b625a58c14ec496_collapsible-header"><i class="material-icons">person</i>手塚仁雄 - 衆議院</div><div class="collapsible-body"><span id="4b625a58c14ec496_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="fa5b3075665b_collapsible-header"><i class="material-icons">person</i>寺田学 - 衆議院</div><div class="collapsible-body"><span id="fa5b3075665b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b35f386ca830ea30_collapsible-header"><i class="material-icons">person</i>徳永エリ - 参議院</div><div class="collapsible-body"><span id="b35f386ca830ea30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4edd5d636b2566_collapsible-header"><i class="material-icons">person</i>中川正春 - 衆議院</div><div class="collapsible-body"><span id="2d4edd5d636b2566_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4ef65c4b51c14e_collapsible-header"><i class="material-icons">person</i>中島克仁 - 衆議院</div><div class="collapsible-body"><span id="2d4ef65c4b51c14e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e378c004eac99_collapsible-header"><i class="material-icons">person</i>中谷一馬 - 衆議院</div><div class="collapsible-body"><span id="2d4e378c004eac99_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e51679c55db56ce90_collapsible-header"><i class="material-icons">person</i>中村喜四郎 - 衆議院</div><div class="collapsible-body"><span id="2d4e51679c55db56ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="77953e5cc079396a_collapsible-header"><i class="material-icons">person</i>長尾秀樹 - 衆議院</div><div class="collapsible-body"><span id="77953e5cc079396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7795bb592d66_collapsible-header"><i class="material-icons">person</i>長妻昭 - 衆議院</div><div class="collapsible-body"><span id="7795bb592d66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="77955c6d5a534c88_collapsible-header"><i class="material-icons">person</i>長浜博行 - 参議院</div><div class="collapsible-body"><span id="77955c6d5a534c88_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a390378c4b5c636ba97f_collapsible-header"><i class="material-icons">person</i>那谷屋正義 - 参議院</div><div class="collapsible-body"><span id="a390378c4b5c636ba97f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e396e26c68598c4e_collapsible-header"><i class="material-icons">person</i>難波奨二 - 参議院</div><div class="collapsible-body"><span id="e396e26c68598c4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7f8951677a6648598e7f_collapsible-header"><i class="material-icons">person</i>西村智奈美 - 衆議院</div><div class="collapsible-body"><span id="7f8951677a6648598e7f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce913075fd56a97f_collapsible-header"><i class="material-icons">person</i>野田国義 - 参議院</div><div class="collapsible-body"><span id="ce913075fd56a97f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ce913075734f665f_collapsible-header"><i class="material-icons">person</i>野田佳彦 - 衆議院</div><div class="collapsible-body"><span id="ce913075734f665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7d761e77f252_collapsible-header"><i class="material-icons">person</i>白眞勲 - 参議院</div><div class="collapsible-body"><span id="7d761e77f252_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7795378cdd5d0956004e_collapsible-header"><i class="material-icons">person</i>長谷川嘉一 - 衆議院</div><div class="collapsible-body"><span id="7795378cdd5d0956004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="bd7f3075c496004ece90_collapsible-header"><i class="material-icons">person</i>羽田雄一郎 - 参議院</div><div class="collapsible-body"><span id="bd7f3075c496004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="629242540954c496_collapsible-header"><i class="material-icons">person</i>鉢呂吉雄 - 参議院</div><div class="collapsible-body"><span id="629242540954c496_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9f53e353004e5a53_collapsible-header"><i class="material-icons">person</i>原口一博 - 衆議院</div><div class="collapsible-body"><span id="9f53e353004e5a53_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e5650954c4962a59_collapsible-header"><i class="material-icons">person</i>日吉雄太 - 衆議院</div><div class="collapsible-body"><span id="e5650954c4962a59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="735ece915a538765_collapsible-header"><i class="material-icons">person</i>平野博文 - 衆議院</div><div class="collapsible-body"><span id="735ece915a538765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="835e3075004e_collapsible-header"><i class="material-icons">person</i>広田一 - 衆議院</div><div class="collapsible-body"><span id="835e3075004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8f7930752d662b59_collapsible-header"><i class="material-icons">person</i>福田昭夫 - 衆議院</div><div class="collapsible-body"><span id="8f7930752d662b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8f79715cf254ce90_collapsible-header"><i class="material-icons">person</i>福山哲郎 - 参議院</div><div class="collapsible-body"><span id="8f79715cf254ce90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="00588a8d5355c14e_collapsible-header"><i class="material-icons">person</i>堀越啓仁 - 衆議院</div><div class="collapsible-body"><span id="00588a8d5355c14e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2c671a59735ef476_collapsible-header"><i class="material-icons">person</i>本多平直 - 衆議院</div><div class="collapsible-body"><span id="2c671a59735ef476_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6772715c72308d304830_collapsible-header"><i class="material-icons">person</i>牧山ひろえ - 参議院</div><div class="collapsible-body"><span id="6772715c72308d304830_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6772a97f2b59_collapsible-header"><i class="material-icons">person</i>牧義夫 - 衆議院</div><div class="collapsible-body"><span id="6772a97f2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e673e5c0e66185f_collapsible-header"><i class="material-icons">person</i>松尾明弘 - 衆議院</div><div class="collapsible-body"><span id="7e673e5c0e66185f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e6728675130933053304630_collapsible-header"><i class="material-icons">person</i>松木けんこう - 衆議院</div><div class="collapsible-body"><span id="7e6728675130933053304630_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e6730759f52_collapsible-header"><i class="material-icons">person</i>松田功 - 衆議院</div><div class="collapsible-body"><span id="7e6730759f52_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e67735e696d004e_collapsible-header"><i class="material-icons">person</i>松平浩一 - 衆議院</div><div class="collapsible-body"><span id="7e67735e696d004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e679f53c14e_collapsible-header"><i class="material-icons">person</i>松原仁 - 衆議院</div><div class="collapsible-body"><span id="7e679f53c14e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ac99f56d846f2b59_collapsible-header"><i class="material-icons">person</i>馬淵澄夫 - 衆議院</div><div class="collapsible-body"><span id="ac99f56d846f2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="1f77715cc752004e_collapsible-header"><i class="material-icons">person</i>真山勇一 - 参議院</div><div class="collapsible-body"><span id="1f77715cc752004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="346ca15cca4f004e_collapsible-header"><i class="material-icons">person</i>水岡俊一 - 参議院</div><div class="collapsible-body"><span id="346ca15cca4f004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="53900b4e2759396a_collapsible-header"><i class="material-icons">person</i>道下大樹 - 衆議院</div><div class="collapsible-body"><span id="53900b4e2759396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d17ddd5db48ceb58_collapsible-header"><i class="material-icons">person</i>緑川貴士 - 衆議院</div><div class="collapsible-body"><span id="d17ddd5db48ceb58_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5bdd5d384f_collapsible-header"><i class="material-icons">person</i>宮川伸 - 衆議院</div><div class="collapsible-body"><span id="ae5bdd5d384f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5ba26c3175734f_collapsible-header"><i class="material-icons">person</i>宮沢由佳 - 参議院</div><div class="collapsible-body"><span id="ae5ba26c3175734f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="51670a4ef2537d59_collapsible-header"><i class="material-icons">person</i>村上史好 - 衆議院</div><div class="collapsible-body"><span id="51670a4ef2537d59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee683075ca4f8c54_collapsible-header"><i class="material-icons">person</i>森田俊和 - 衆議院</div><div class="collapsible-body"><span id="ee683075ca4f8c54_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee682c671f77bb6c_collapsible-header"><i class="material-icons">person</i>森本真治 - 参議院</div><div class="collapsible-body"><span id="ee682c671f77bb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee684b5c8696_collapsible-header"><i class="material-icons">person</i>森屋隆 - 参議院</div><div class="collapsible-body"><span id="ee684b5c8696_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee68715c696d4c88_collapsible-header"><i class="material-icons">person</i>森山浩行 - 衆議院</div><div class="collapsible-body"><span id="ee68715c696d4c88_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee68863046305330_collapsible-header"><i class="material-icons">person</i>森ゆうこ - 参議院</div><div class="collapsible-body"><span id="ee68863046305330_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e2770a4ec596a97f_collapsible-header"><i class="material-icons">person</i>矢上雅義 - 衆議院</div><div class="collapsible-body"><span id="e2770a4ec596a97f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="378c3075dd5d4351_collapsible-header"><i class="material-icons">person</i>谷田川元 - 衆議院</div><div class="collapsible-body"><span id="378c3075dd5d4351_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c8551b75e004e_collapsible-header"><i class="material-icons">person</i>山内康一 - 衆議院</div><div class="collapsible-body"><span id="715c8551b75e004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715ca15c5490384e_collapsible-header"><i class="material-icons">person</i>山岡達丸 - 衆議院</div><div class="collapsible-body"><span id="715ca15c5490384e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715cdd5d7e760854505b_collapsible-header"><i class="material-icons">person</i>山川百合子 - 衆議院</div><div class="collapsible-body"><span id="715cdd5d7e760854505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c0e5da08a_collapsible-header"><i class="material-icons">person</i>山崎誠 - 衆議院</div><div class="collapsible-body"><span id="715c0e5da08a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c954e8c544752_collapsible-header"><i class="material-icons">person</i>山井和則 - 衆議院</div><div class="collapsible-body"><span id="715c954e8c544752_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715cb182c1902b59_collapsible-header"><i class="material-icons">person</i>山花郁夫 - 衆議院</div><div class="collapsible-body"><span id="715cb182c1902b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c678c540956505b_collapsible-header"><i class="material-icons">person</i>山本和嘉子 - 衆議院</div><div class="collapsible-body"><span id="715c2c678c540956505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4b5c6f821d675a53_collapsible-header"><i class="material-icons">person</i>屋良朝博 - 衆議院</div><div class="collapsible-body"><span id="4b5c6f821d675a53_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="da6728675390a97f_collapsible-header"><i class="material-icons">person</i>柚木道義 - 衆議院</div><div class="collapsible-body"><span id="da6728675390a97f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2a6aa26cd89ab35f_collapsible-header"><i class="material-icons">person</i>横沢高徳 - 参議院</div><div class="collapsible-body"><span id="2a6aa26cd89ab35f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2a6a49514b51665f_collapsible-header"><i class="material-icons">person</i>横光克彦 - 衆議院</div><div class="collapsible-body"><span id="2a6a49514b51665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0954dd5d996c547e_collapsible-header"><i class="material-icons">person</i>吉川沙織 - 参議院</div><div class="collapsible-body"><span id="0954dd5d996c547e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0954dd5d4351_collapsible-header"><i class="material-icons">person</i>吉川元 - 衆議院</div><div class="collapsible-body"><span id="0954dd5d4351_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="09543075e05f7a66_collapsible-header"><i class="material-icons">person</i>吉田忠智 - 参議院</div><div class="collapsible-body"><span id="09543075e05f7a66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="09543075717d665f_collapsible-header"><i class="material-icons">person</i>吉田統彦 - 衆議院</div><div class="collapsible-body"><span id="09543075717d665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee842b82_collapsible-header"><i class="material-icons">person</i>蓮舫 - 参議院</div><div class="collapsible-body"><span id="ee842b82_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e965327a30751559635b_collapsible-header"><i class="material-icons">person</i>早稲田夕季 - 衆議院</div><div class="collapsible-body"><span id="e965327a30751559635b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="216eba8f6854_collapsible-header"><i class="material-icons">person</i>渡辺周 - 衆議院</div><div class="collapsible-body"><span id="216eba8f6854_collapsible-body"></span></div></li>
+</ul></div>
+
+        <div id="6c510e665a51">
+          <h3 class="card-panel indigo darken-4 indigo-text text-lighten-5">公明党</h3>
+          <ul class="collapsible center-align">
+            <li><div class="collapsible-header" id="648dbd7f004e0956_collapsible-header"><i class="material-icons">person</i>赤羽一嘉 - 衆議院</div><div class="collapsible-body"><span id="648dbd7f004e0956_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="cb79ce916c512090_collapsible-header"><i class="material-icons">person</i>秋野公造 - 参議院</div><div class="collapsible-body"><span id="cb79ce916c512090_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4f504f3290004e_collapsible-header"><i class="material-icons">person</i>伊佐進一 - 衆議院</div><div class="collapsible-body"><span id="0a4f504f3290004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377954e5355004e_collapsible-header"><i class="material-icons">person</i>石井啓一 - 衆議院</div><div class="collapsible-body"><span id="f377954e5355004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377dd5d5a53075d_collapsible-header"><i class="material-icons">person</i>石川博崇 - 参議院</div><div class="collapsible-body"><span id="f377dd5d5a53075d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f37730755d79147a_collapsible-header"><i class="material-icons">person</i>石田祝稔 - 衆議院</div><div class="collapsible-body"><span id="f37730755d79147a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe4855d5b5f6c_collapsible-header"><i class="material-icons">person</i>伊藤孝江 - 参議院</div><div class="collapsible-body"><span id="0a4fe4855d5b5f6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe485096e_collapsible-header"><i class="material-icons">person</i>伊藤渉 - 衆議院</div><div class="collapsible-body"><span id="0a4fe485096e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="327a256d454e_collapsible-header"><i class="material-icons">person</i>稲津久 - 衆議院</div><div class="collapsible-body"><span id="327a256d454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954e0a4ea97f454e_collapsible-header"><i class="material-icons">person</i>井上義久 - 衆議院</div><div class="collapsible-body"><span id="954e0a4ea97f454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6e6df65c7a66505b_collapsible-header"><i class="material-icons">person</i>浮島智子 - 衆議院</div><div class="collapsible-body"><span id="6e6df65c7a66505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5f6c3075b75e785e_collapsible-header"><i class="material-icons">person</i>江田康幸 - 衆議院</div><div class="collapsible-body"><span id="5f6c3075b75e785e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2759e3538455b35f_collapsible-header"><i class="material-icons">person</i>大口善徳 - 衆議院</div><div class="collapsible-body"><span id="2759e3538455b35f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2a5930752d668f5b_collapsible-header"><i class="material-icons">person</i>太田昭宏 - 衆議院</div><div class="collapsible-body"><span id="2a5930752d668f5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2a5930750c665d5b_collapsible-header"><i class="material-icons">person</i>太田昌孝 - 衆議院</div><div class="collapsible-body"><span id="2a5930750c665d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a15c2c67094e1062_collapsible-header"><i class="material-icons">person</i>岡本三成 - 衆議院</div><div class="collapsible-body"><span id="a15c2c67094e1062_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b36cce91a97f5a53_collapsible-header"><i class="material-icons">person</i>河野義博 - 参議院</div><div class="collapsible-body"><span id="b36cce91a97f5a53_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="17537450004ec496_collapsible-header"><i class="material-icons">person</i>北側一雄 - 衆議院</div><div class="collapsible-body"><span id="17537450004ec496_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0b57cd91b95f_collapsible-header"><i class="material-icons">person</i>國重徹 - 衆議院</div><div class="collapsible-body"><span id="0b57cd91b95f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8a71ce91636beb58_collapsible-header"><i class="material-icons">person</i>熊野正士 - 参議院</div><div class="collapsible-body"><span id="8a71ce91636beb58_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8965e48544922b59_collapsible-header"><i class="material-icons">person</i>斉藤鉄夫 - 衆議院</div><div class="collapsible-body"><span id="8965e48544922b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504f05302867553084304b30_collapsible-header"><i class="material-icons">person</i>佐々木さやか - 参議院</div><div class="collapsible-body"><span id="504f05302867553084304b30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe4850283396a_collapsible-header"><i class="material-icons">person</i>佐藤茂樹 - 衆議院</div><div class="collapsible-body"><span id="504fe4850283396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="504fe485f1825390_collapsible-header"><i class="material-icons">person</i>佐藤英道 - 衆議院</div><div class="collapsible-body"><span id="504fe485f1825390_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="cc918b898696bb6c_collapsible-header"><i class="material-icons">person</i>里見隆治 - 参議院</div><div class="collapsible-body"><span id="cc918b898696bb6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="695830755a532d66_collapsible-header"><i class="material-icons">person</i>塩田博昭 - 参議院</div><div class="collapsible-body"><span id="695830755a532d66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0b4ece916d512a59_collapsible-header"><i class="material-icons">person</i>下野六太 - 参議院</div><div class="collapsible-body"><span id="0b4ece916d512a59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4967454e666b_collapsible-header"><i class="material-icons">person</i>杉久武 - 参議院</div><div class="collapsible-body"><span id="4967454e666b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a28678e7f7a66e34e_collapsible-header"><i class="material-icons">person</i>高木美智代 - 衆議院</div><div class="collapsible-body"><span id="d89a28678e7f7a66e34e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a28677d96cb4e_collapsible-header"><i class="material-icons">person</i>高木陽介 - 衆議院</div><div class="collapsible-body"><span id="d89a28677d96cb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a2c70185f8e7f_collapsible-header"><i class="material-icons">person</i>高瀬弘美 - 参議院</div><div class="collapsible-body"><span id="d89a2c70185f8e7f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a4b6a49513775_collapsible-header"><i class="material-icons">person</i>高橋光男 - 参議院</div><div class="collapsible-body"><span id="d89a4b6a49513775_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f97a85511f778c4e_collapsible-header"><i class="material-icons">person</i>竹内真二 - 参議院</div><div class="collapsible-body"><span id="f97a85511f778c4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f97a8551728b_collapsible-header"><i class="material-icons">person</i>竹内譲 - 衆議院</div><div class="collapsible-body"><span id="f97a8551728b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f97a378c68305730505b_collapsible-header"><i class="material-icons">person</i>竹谷とし子 - 参議院</div><div class="collapsible-body"><span id="f97a378c68305730505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="378c0854636b0e66_collapsible-header"><i class="material-icons">person</i>谷合正明 - 参議院</div><div class="collapsible-body"><span id="378c0854636b0e66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="cc5b307502834b4e_collapsible-header"><i class="material-icons">person</i>富田茂之 - 衆議院</div><div class="collapsible-body"><span id="cc5b307502834b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4ece910b6d0c66_collapsible-header"><i class="material-icons">person</i>中野洋昌 - 衆議院</div><div class="collapsible-body"><span id="2d4ece910b6d0c66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b065bb59c0798f89_collapsible-header"><i class="material-icons">person</i>新妻秀規 - 参議院</div><div class="collapsible-body"><span id="b065bb59c0798f89_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7f8930759f5bc14e_collapsible-header"><i class="material-icons">person</i>西田実仁 - 参議院</div><div class="collapsible-body"><span id="7f8930759f5bc14e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5c6d30750c666f82_collapsible-header"><i class="material-icons">person</i>浜田昌良 - 参議院</div><div class="collapsible-body"><span id="5c6d30750c666f82_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5c6d3057c596004e_collapsible-header"><i class="material-icons">person</i>浜地雅一 - 衆議院</div><div class="collapsible-body"><span id="5c6d3057c596004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f16f51673290_collapsible-header"><i class="material-icons">person</i>濱村進 - 衆議院</div><div class="collapsible-body"><span id="f16f51673290_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="735e286727595c4f_collapsible-header"><i class="material-icons">person</i>平木大作 - 参議院</div><div class="collapsible-body"><span id="735e286727595c4f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e4534b5cc47b505b_collapsible-header"><i class="material-icons">person</i>古屋範子 - 衆議院</div><div class="collapsible-body"><span id="e4534b5cc47b505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5d684b5c6c659f60_collapsible-header"><i class="material-icons">person</i>桝屋敬悟 - 衆議院</div><div class="collapsible-body"><span id="5d684b5c6c659f60_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="094e666de14f5079_collapsible-header"><i class="material-icons">person</i>三浦信祐 - 参議院</div><div class="collapsible-body"><span id="094e666de14f5079_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5b0e5ddd52_collapsible-header"><i class="material-icons">person</i>宮崎勝 - 参議院</div><div class="collapsible-body"><span id="ae5b0e5ddd52_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e27709504b512b59_collapsible-header"><i class="material-icons">person</i>矢倉克夫 - 参議院</div><div class="collapsible-body"><span id="e27709504b512b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="895b5f6c384f2b59_collapsible-header"><i class="material-icons">person</i>安江伸夫 - 参議院</div><div class="collapsible-body"><span id="895b5f6c384f2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715ce353a390256d3775_collapsible-header"><i class="material-icons">person</i>山口那津男 - 参議院</div><div class="collapsible-body"><span id="715ce353a390256d3775_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c679999d782_collapsible-header"><i class="material-icons">person</i>山本香苗 - 参議院</div><div class="collapsible-body"><span id="715c2c679999d782_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c2c675a53f853_collapsible-header"><i class="material-icons">person</i>山本博司 - 参議院</div><div class="collapsible-body"><span id="715c2c675a53f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2a6a715ce14f004e_collapsible-header"><i class="material-icons">person</i>横山信一 - 参議院</div><div class="collapsible-body"><span id="2a6a715ce14f004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="09543075a35b185f_collapsible-header"><i class="material-icons">person</i>吉田宣弘 - 衆議院</div><div class="collapsible-body"><span id="09543075a35b185f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e5827e67198bad7d_collapsible-header"><i class="material-icons">person</i>若松謙維 - 参議院</div><div class="collapsible-body"><span id="e5827e67198bad7d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="109cf56d0b6d505b_collapsible-header"><i class="material-icons">person</i>鰐淵洋子 - 衆議院</div><div class="collapsible-body"><span id="109cf56d0b6d505b_collapsible-body"></span></div></li>
+</ul></div>
+
+        <div id="e5652c67715123755a51">
+          <h3 class="card-panel indigo darken-4 indigo-text text-lighten-5">日本共産党</h3>
+          <ul class="collapsible center-align">
+            <li><div class="collapsible-header" id="648dba5d3f65e28c_collapsible-header"><i class="material-icons">person</i>赤嶺政賢 - 衆議院</div><div class="collapsible-body"><span id="648dba5d3f65e28c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="025e3075e05fa97f_collapsible-header"><i class="material-icons">person</i>市田忠義 - 参議院</div><div class="collapsible-body"><span id="025e3075e05fa97f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe485b35c_collapsible-header"><i class="material-icons">person</i>伊藤岳 - 参議院</div><div class="collapsible-body"><span id="0a4fe485b35c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954e0a4ef254eb58_collapsible-header"><i class="material-icons">person</i>井上哲士 - 参議院</div><div class="collapsible-body"><span id="954e0a4ef254eb58_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a95c156ecb53_collapsible-header"><i class="material-icons">person</i>岩渕友 - 参議院</div><div class="collapsible-body"><span id="a95c156ecb53_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="207b954eae4e_collapsible-header"><i class="material-icons">person</i>笠井亮 - 衆議院</div><div class="collapsible-body"><span id="207b954eae4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="197d7a66505b_collapsible-header"><i class="material-icons">person</i>紙智子 - 参議院</div><div class="collapsible-body"><span id="197d7a66505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="09546f8288305730505b_collapsible-header"><i class="material-icons">person</i>吉良よし子 - 参議院</div><div class="collapsible-body"><span id="09546f8288305730505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="095097670e66505b_collapsible-header"><i class="material-icons">person</i>倉林明子 - 参議院</div><div class="collapsible-body"><span id="095097670e66505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c606c4366_collapsible-header"><i class="material-icons">person</i>小池晃 - 参議院</div><div class="collapsible-body"><span id="0f5c606c4366_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="407a307575608c4e_collapsible-header"><i class="material-icons">person</i>穀田恵二 - 衆議院</div><div class="collapsible-body"><span id="407a307575608c4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d75f4d4f8c542b59_collapsible-header"><i class="material-icons">person</i>志位和夫 - 衆議院</div><div class="collapsible-body"><span id="d75f4d4f8c542b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6958dd5d44925f4e_collapsible-header"><i class="material-icons">person</i>塩川鉄也 - 衆議院</div><div class="collapsible-body"><span id="6958dd5d44925f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="056e346ce05ff253_collapsible-header"><i class="material-icons">person</i>清水忠史 - 衆議院</div><div class="collapsible-body"><span id="056e346ce05ff253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a4b6a4353b49d505b_collapsible-header"><i class="material-icons">person</i>高橋千鶴子 - 衆議院</div><div class="collapsible-body"><span id="d89a4b6a4353b49d505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666b30756f82cb4e_collapsible-header"><i class="material-icons">person</i>武田良介 - 参議院</div><div class="collapsible-body"><span id="666b30756f82cb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="30755167b48c2d66_collapsible-header"><i class="material-icons">person</i>田村貴昭 - 衆議院</div><div class="collapsible-body"><span id="30755167b48c2d66_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="307551677a66505b_collapsible-header"><i class="material-icons">person</i>田村智子 - 参議院</div><div class="collapsible-body"><span id="307551677a66505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="275980959f5b007df253_collapsible-header"><i class="material-icons">person</i>大門実紀史 - 参議院</div><div class="collapsible-body"><span id="275980959f5b007df253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5175ce919d67_collapsible-header"><i class="material-icons">person</i>畑野枝 - 衆議院</div><div class="collapsible-body"><span id="5175ce919d67_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e485ce91dd4ff253_collapsible-header"><i class="material-icons">person</i>藤野保史 - 衆議院</div><div class="collapsible-body"><span id="e485ce91dd4ff253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ae5b2c67b95f_collapsible-header"><i class="material-icons">person</i>宮本徹 - 衆議院</div><div class="collapsible-body"><span id="ae5b2c67b95f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2c675167384f505b_collapsible-header"><i class="material-icons">person</i>本村伸子 - 衆議院</div><div class="collapsible-body"><span id="2c675167384f505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c0b4eb3821f75_collapsible-header"><i class="material-icons">person</i>山下芳生 - 参議院</div><div class="collapsible-body"><span id="715c0b4eb3821f75_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715cfb6dd362_collapsible-header"><i class="material-icons">person</i>山添拓 - 参議院</div><div class="collapsible-body"><span id="715cfb6dd362_collapsible-body"></span></div></li>
+</ul></div>
+
+        <div id="e5652c67ad7db0656e301a4f">
+          <h3 class="card-panel indigo darken-4 indigo-text text-lighten-5">日本維新の会</h3>
+          <ul class="collapsible center-align">
+            <li><div class="collapsible-header" id="456d30754757_collapsible-header"><i class="material-icons">person</i>浅田均 - 参議院</div><div class="collapsible-body"><span id="456d30754757_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7167b95f_collapsible-header"><i class="material-icons">person</i>東徹 - 参議院</div><div class="collapsible-body"><span id="7167b95f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b38dcb7ab75ef253_collapsible-header"><i class="material-icons">person</i>足立康史 - 衆議院</div><div class="collapsible-body"><span id="b38dcb7ab75ef253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377954ee07a_collapsible-header"><i class="material-icons">person</i>石井章 - 参議院</div><div class="collapsible-body"><span id="f377954ee07a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f377954ed782505b_collapsible-header"><i class="material-icons">person</i>石井苗子 - 参議院</div><div class="collapsible-body"><span id="f377954ed782505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954e0a4ef1825d5b_collapsible-header"><i class="material-icons">person</i>井上英孝 - 衆議院</div><div class="collapsible-body"><span id="954e0a4ef1825d5b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="856851676180_collapsible-header"><i class="material-icons">person</i>梅村聡 - 参議院</div><div class="collapsible-body"><span id="856851676180_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="856851677f305a307b30_collapsible-header"><i class="material-icons">person</i>梅村みずほ - 参議院</div><div class="collapsible-body"><span id="856851677f305a307b30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="666dce915697ba4e_collapsible-header"><i class="material-icons">person</i>浦野靖人 - 衆議院</div><div class="collapsible-body"><span id="666dce915697ba4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6090e4856c65_collapsible-header"><i class="material-icons">person</i>遠藤敬 - 衆議院</div><div class="collapsible-body"><span id="6090e4856c65_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f3979c551a59ff99_collapsible-header"><i class="material-icons">person</i>音喜多駿 - 参議院</div><div class="collapsible-body"><span id="f3979c551a59ff99_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4772715c2759cb4e_collapsible-header"><i class="material-icons">person</i>片山大介 - 参議院</div><div class="collapsible-body"><span id="4772715c2759cb4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4772715c4e864b4ea952_collapsible-header"><i class="material-icons">person</i>片山虎之助 - 参議院</div><div class="collapsible-body"><span id="4772715c4e864b4ea952_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="324e3075a08a004e_collapsible-header"><i class="material-icons">person</i>串田誠一 - 衆議院</div><div class="collapsible-body"><span id="324e3075a08a004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f4673075e75d_collapsible-header"><i class="material-icons">person</i>柴田巧 - 参議院</div><div class="collapsible-body"><span id="f4673075e75d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="056e346cb48c4b4e_collapsible-header"><i class="material-icons">person</i>清水貴之 - 参議院</div><div class="collapsible-body"><span id="056e346cb48c4b4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="49672c678c54f35d_collapsible-header"><i class="material-icons">person</i>杉本和巳 - 衆議院</div><div class="collapsible-body"><span id="49672c678c54f35d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="34922867975b3775_collapsible-header"><i class="material-icons">person</i>鈴木宗男 - 参議院</div><div class="collapsible-body"><span id="34922867975b3775_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a28674b304a308a30_collapsible-header"><i class="material-icons">person</i>高木かおり - 参議院</div><div class="collapsible-body"><span id="d89a28674b304a308a30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ac993458384f785e_collapsible-header"><i class="material-icons">person</i>馬場伸幸 - 衆議院</div><div class="collapsible-body"><span id="ac993458384f785e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e48530758765666b_collapsible-header"><i class="material-icons">person</i>藤田文武 - 衆議院</div><div class="collapsible-body"><span id="e48530758765666b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e67a26c10628765_collapsible-header"><i class="material-icons">person</i>松沢成文 - 参議院</div><div class="collapsible-body"><span id="7e67a26c10628765_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8e7ff65e20662b59_collapsible-header"><i class="material-icons">person</i>美延映夫 - 衆議院</div><div class="collapsible-body"><span id="8e7ff65e20662b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="a45b954ea690665f_collapsible-header"><i class="material-icons">person</i>室井邦彦 - 参議院</div><div class="collapsible-body"><span id="a45b954ea690665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ee680f599d67_collapsible-header"><i class="material-icons">person</i>森夏枝 - 衆議院</div><div class="collapsible-body"><span id="ee680f599d67_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f367f6302c70d5888765_collapsible-header"><i class="material-icons">person</i>柳ヶ瀬裕文 - 参議院</div><div class="collapsible-body"><span id="f367f6302c70d5888765_collapsible-body"></span></div></li>
+</ul></div>
+
+        <div id="fd56116c116c3b4e5a51">
+          <h3 class="card-panel indigo darken-4 indigo-text text-lighten-5">国民民主党</h3>
+          <ul class="collapsible center-align">
+            <li><div class="collapsible-header" id="456dce91f254_collapsible-header"><i class="material-icons">person</i>浅野哲 - 衆議院</div><div class="collapsible-body"><span id="456dce91f254_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b38dcb7ae14f5f4e_collapsible-header"><i class="material-icons">person</i>足立信也 - 参議院</div><div class="collapsible-body"><span id="b38dcb7ae14f5f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="12790e5df254f253_collapsible-header"><i class="material-icons">person</i>礒崎哲史 - 参議院</div><div class="collapsible-body"><span id="12790e5df254f253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe4855d5b7560_collapsible-header"><i class="material-icons">person</i>伊藤孝恵 - 参議院</div><div class="collapsible-body"><span id="0a4fe4855d5b7560_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4e3075056ef853_collapsible-header"><i class="material-icons">person</i>上田清司 - 参議院</div><div class="collapsible-body"><span id="0a4e3075056ef853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="27595a581580735e_collapsible-header"><i class="material-icons">person</i>大塚耕平 - 参議院</div><div class="collapsible-body"><span id="27595a581580735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="dd5d08545d5b7851_collapsible-header"><i class="material-icons">person</i>川合孝典 - 参議院</div><div class="collapsible-body"><span id="dd5d08545d5b7851_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b85c2c676854735e_collapsible-header"><i class="material-icons">person</i>岸本周平 - 衆議院</div><div class="collapsible-body"><span id="b85c2c676854735e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0f5c9767636b2b59_collapsible-header"><i class="material-icons">person</i>小林正夫 - 参議院</div><div class="collapsible-body"><span id="0f5c9767636b2b59_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="9b694984c08c256d5f4e_collapsible-header"><i class="material-icons">person</i>榛葉賀津也 - 参議院</div><div class="collapsible-body"><span id="9b694984c08c256d5f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="89732867c496004ece90_collapsible-header"><i class="material-icons">person</i>玉木雄一郎 - 衆議院</div><div class="collapsible-body"><span id="89732867c496004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="307551677e307f30_collapsible-header"><i class="material-icons">person</i>田村まみ - 参議院</div><div class="collapsible-body"><span id="307551677e307f30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="2d4e715c10626c5f_collapsible-header"><i class="material-icons">person</i>中山成彬 - 衆議院</div><div class="collapsible-body"><span id="2d4e715c10626c5f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7f89a15cc079505b_collapsible-header"><i class="material-icons">person</i>西岡秀子 - 衆議院</div><div class="collapsible-body"><span id="7f89a15cc079505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="b382c08c53905f4e_collapsible-header"><i class="material-icons">person</i>芳賀道也 - 参議院</div><div class="collapsible-body"><span id="b382c08c53905f4e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5c6de353a08a_collapsible-header"><i class="material-icons">person</i>浜口誠 - 参議院</div><div class="collapsible-body"><span id="5c6de353a08a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5c6dce919c55f253_collapsible-header"><i class="material-icons">person</i>浜野喜史 - 参議院</div><div class="collapsible-body"><span id="5c6dce919c55f253_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="1f82715cb75e5f6c_collapsible-header"><i class="material-icons">person</i>舟山康江 - 参議院</div><div class="collapsible-body"><span id="1f82715cb75e5f6c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e453dd5d4351454e_collapsible-header"><i class="material-icons">person</i>古川元久 - 衆議院</div><div class="collapsible-body"><span id="e453dd5d4351454e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4d529f53a08af853_collapsible-header"><i class="material-icons">person</i>前原誠司 - 衆議院</div><div class="collapsible-body"><span id="4d529f53a08af853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e27730758f304b30505b_collapsible-header"><i class="material-icons">person</i>矢田わか子 - 参議院</div><div class="collapsible-body"><span id="e27730758f304b30505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f3673075147a_collapsible-header"><i class="material-icons">person</i>柳田稔 - 参議院</div><div class="collapsible-body"><span id="f3673075147a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="715c3e5cd75f5c68cc91_collapsible-header"><i class="material-icons">person</i>山尾志桜里 - 衆議院</div><div class="collapsible-body"><span id="715c3e5cd75f5c68cc91_collapsible-body"></span></div></li>
+</ul></div>
+
+        <div id="othersFA">
+          <h3 class="card-panel indigo darken-4 indigo-text text-lighten-5">その他の政党</h3>
+          <ul class="collapsible center-align">
+            <li><div class="collapsible-header" id="28675167f182505b_collapsible-header"><i class="material-icons">person</i>木村英子（れいわ新選組） - 参議院</div><div class="collapsible-body"><span id="28675167f182505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="67714b5cdb5bb35f_collapsible-header"><i class="material-icons">person</i>照屋寛徳（社会民主党） - 衆議院</div><div class="collapsible-body"><span id="67714b5cdb5bb35f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="5c6d30756180_collapsible-header"><i class="material-icons">person</i>浜田聡（みんなの党） - 参議院</div><div class="collapsible-body"><span id="5c6d30756180_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="8f79f65c7f305a307b30_collapsible-header"><i class="material-icons">person</i>福島みずほ（社会民主党） - 参議院</div><div class="collapsible-body"><span id="8f79f65c7f305a307b30_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="29828c5f5697665f_collapsible-header"><i class="material-icons">person</i>舩後靖彦（れいわ新選組） - 参議院</div><div class="collapsible-body"><span id="29828c5f5697665f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="384e715c427ad89a_collapsible-header"><i class="material-icons">person</i>丸山穂高（嵐の党（旧・NHKから国民を守る党）） - 衆議院</div><div class="collapsible-body"><span id="384e715c427ad89a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="216eba8f9c558e7f_collapsible-header"><i class="material-icons">person</i>渡辺喜美（みんなの党） - 参議院</div><div class="collapsible-body"><span id="216eba8f9c558e7f_collapsible-body"></span></div></li>
+</ul></div>
+
+        <div id="217140625e5c">
+          <h3 class="card-panel indigo darken-4 indigo-text text-lighten-5">無所属</h3>
+          <ul class="collapsible center-align">
+            <li><div class="collapsible-header" id="5297715cc596785e_collapsible-header"><i class="material-icons">person</i>青山雅幸 - 衆議院</div><div class="collapsible-body"><span id="5297715cc596785e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="42304d3082306830f853_collapsible-header"><i class="material-icons">person</i>あきもと司 - 衆議院</div><div class="collapsible-body"><span id="42304d3082306830f853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="895b5490846f_collapsible-header"><i class="material-icons">person</i>安達澄 - 参議院</div><div class="collapsible-body"><span id="895b5490846f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="f3770e5db95f_collapsible-header"><i class="material-icons">person</i>石崎徹 - 衆議院</div><div class="collapsible-body"><span id="f3770e5db95f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="954e0a4e004eb35f_collapsible-header"><i class="material-icons">person</i>井上一徳 - 衆議院</div><div class="collapsible-body"><span id="954e0a4e004eb35f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0a4fe26c0b6d004e_collapsible-header"><i class="material-icons">person</i>伊波洋一 - 参議院</div><div class="collapsible-body"><span id="0a4fe26c0b6d004e_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="27595a58d89af853_collapsible-header"><i class="material-icons">person</i>大塚高司 - 衆議院</div><div class="collapsible-body"><span id="27595a58d89af853_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="ff67a26c2a671490_collapsible-header"><i class="material-icons">person</i>柿沢未途 - 衆議院</div><div class="collapsible-body"><span id="ff67a26c2a671490_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="095630753175007d505b_collapsible-header"><i class="material-icons">person</i>嘉田由紀子 - 参議院</div><div class="collapsible-body"><span id="095630753175007d505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0b4e3057795ece90_collapsible-header"><i class="material-icons">person</i>下地幹郎 - 衆議院</div><div class="collapsible-body"><span id="0b4e3057795ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7d760898c08cb48c396a_collapsible-header"><i class="material-icons">person</i>白須賀貴樹 - 衆議院</div><div class="collapsible-body"><span id="7d760898c08cb48c396a_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="0898e4854351176c_collapsible-header"><i class="material-icons">person</i>須藤元気 - 参議院</div><div class="collapsible-body"><span id="0898e4854351176c_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a954e075dd75f_collapsible-header"><i class="material-icons">person</i>高井崇志 - 衆議院</div><div class="collapsible-body"><span id="d89a954e075dd75f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="d89a6f8244928e7f_collapsible-header"><i class="material-icons">person</i>高良鉄美 - 参議院</div><div class="collapsible-body"><span id="d89a6f8244928e7f_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="3075ce912c702a595390_collapsible-header"><i class="material-icons">person</i>田野瀬太道 - 衆議院</div><div class="collapsible-body"><span id="3075ce912c702a595390_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="fa5b30755997_collapsible-header"><i class="material-icons">person</i>寺田静 - 参議院</div><div class="collapsible-body"><span id="fa5b30755997_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="6a304c3048305d5b505b_collapsible-header"><i class="material-icons">person</i>ながえ孝子 - 参議院</div><div class="collapsible-body"><span id="6a304c3048305d5b505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="4b6a2c675680505b_collapsible-header"><i class="material-icons">person</i>橋本聖子 - 参議院</div><div class="collapsible-body"><span id="4b6a2c675680505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="735e715c504fe577505b_collapsible-header"><i class="material-icons">person</i>平山佐知子 - 参議院</div><div class="collapsible-body"><span id="735e715c504fe577505b_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="e4532c67384f004ece90_collapsible-header"><i class="material-icons">person</i>古本伸一郎 - 衆議院</div><div class="collapsible-body"><span id="e4532c67384f004ece90_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="7e672c67147d_collapsible-header"><i class="material-icons">person</i>松本純 - 衆議院</div><div class="collapsible-body"><span id="7e672c67147d_collapsible-body"></span></div></li>
+            <li><div class="collapsible-header" id="207b696df253_collapsible-header"><i class="material-icons">person</i>笠浩史 - 衆議院</div><div class="collapsible-body"><span id="207b696df253_collapsible-body"></span></div></li>
+</ul></div>
+
+
+
+    </div>
+  </main>
+
+
+  <footer class="page-footer indigo darken-3 zero-margin padding-5">
+    <div class="row">
+      <div class="col s12 m12 l8 xl8 offset-l4 offset-xl3">
+        <ul>
+          <li>
+            本サイトは 国立国会図書館 <a class="grey-text text-lighten-3" href="https://kokkai.ndl.go.jp/#/">国会議事録検索システム</a> を通じて収集したデータを使用しています。
+          </li>
+          <li>
+            本サイトのデータは単語の使用回数を議事録から機械的に抽出したものであり、該当の単語に関する発言者の主張・賛否、発言の根拠、発言の妥当性を示すものではありません。
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/materialize.min.js"></script>
+  <script src="js/init.js"></script>
+  <script src="js/my.js"></script>
+  <script src="js/aiueo.js"></script>
+  <script src="js/search.js"></script> 
+
+  </body>
+</html>
+
+
