@@ -12,6 +12,10 @@ $(document).ready(function(){
     $('.tabs').tabs();
 });
 
+$(document).ready(function(){
+    $('.modal').modal()
+})
+
 // $("#nav-50on-a").click(function(){
 //     $.ajax("giin_a.html", {
 //         timeout : 1000, // 1000 ms
