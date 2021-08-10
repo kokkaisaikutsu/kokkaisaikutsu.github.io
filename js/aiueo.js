@@ -10,7 +10,7 @@ $("#2290a26c004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -54,7 +54,7 @@ $("#529728671b61_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -98,7 +98,7 @@ $("#52972867004e665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -142,7 +142,7 @@ $("#5297f3677d96004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -186,7 +186,7 @@ $("#5297715c417e7466_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -230,7 +230,7 @@ $("#5297715c6854735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -274,7 +274,7 @@ $("#5297715cc596785e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -318,7 +318,7 @@ $("#5297715c2759ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -362,7 +362,7 @@ $("#648d606ca08ae07a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -406,7 +406,7 @@ $("#648da46fae4e636b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -450,7 +450,7 @@ $("#648dbd7f004e0956_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣<br>水循環政策担当</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -494,7 +494,7 @@ $("#42304b307e308c4ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -538,7 +538,7 @@ $("#648d7e67835e8696_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>副議長</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -582,7 +582,7 @@ $("#648dba5d3f65e28c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -626,7 +626,7 @@ $("#cb79ce916c512090_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -670,7 +670,7 @@ $("#cb794984e28c5f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -714,7 +714,7 @@ $("#42304d3082306830f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境副大臣・内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -758,7 +758,7 @@ $("#cb792c671f772952_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -802,7 +802,7 @@ $("#3f96454e256d785e665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -846,7 +846,7 @@ $("#456d30754757_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -890,7 +890,7 @@ $("#456dce91f254_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -934,7 +934,7 @@ $("#1d67e56565502a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -978,7 +978,7 @@ $("#7167b95f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1066,7 +1066,7 @@ $("#66754351065c3e54_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1110,7 +1110,7 @@ $("#bb9e1f752a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣法第九条の第一順位指定大臣（副総理）<br>財務大臣<br>内閣府特命担当大臣（金融）<br>デフレ脱却担当</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1154,7 +1154,7 @@ $("#895b5490846f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1198,7 +1198,7 @@ $("#b38dcb7ae14f5f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1242,7 +1242,7 @@ $("#b38dcb7a4f654b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1286,7 +1286,7 @@ $("#3f965490c596d75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（経済・外交担当）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1330,7 +1330,7 @@ $("#b38dcb7ab75ef253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1374,7 +1374,7 @@ $("#747a8b897d96004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1418,7 +1418,7 @@ $("#895b0d504b66094e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1462,7 +1462,7 @@ $("#42307930ca4f505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1506,7 +1506,7 @@ $("#3f96e890e577505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1594,7 +1594,7 @@ $("#5283954e7080_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1638,7 +1638,7 @@ $("#09673075b3821f75_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1682,7 +1682,7 @@ $("#09675167bb6c505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1726,7 +1726,7 @@ $("#895be485d89a2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1770,7 +1770,7 @@ $("#895be485d588_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官・復興大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1814,7 +1814,7 @@ $("#606c30751f77007d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1858,7 +1858,7 @@ $("#606c307553905d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1902,7 +1902,7 @@ $("#606c3075734f8696_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1946,7 +1946,7 @@ $("#0a4f504f3290004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1990,7 +1990,7 @@ $("#f377954ee07a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2034,7 +2034,7 @@ $("#f377954e5355004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2078,7 +2078,7 @@ $("#f377954e966e004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2122,7 +2122,7 @@ $("#f377954e696dce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2166,7 +2166,7 @@ $("#f377954e636b185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2210,7 +2210,7 @@ $("#f377954ed782505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2254,7 +2254,7 @@ $("#f377a3576e308a305330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2298,7 +2298,7 @@ $("#f377dd5d2d663f65_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣政務官・内閣府大臣政務官・復興大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2342,7 +2342,7 @@ $("#f377dd5d9999547e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2386,7 +2386,7 @@ $("#f377dd5d27591162_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2430,7 +2430,7 @@ $("#f377dd5d5a53075d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2474,7 +2474,7 @@ $("#f3770e5db95f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2518,7 +2518,7 @@ $("#f37730755d79147a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2562,7 +2562,7 @@ $("#f37730751f774f65_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣・内閣府特命担当大臣（マイナンバー制度）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2606,7 +2606,7 @@ $("#f37730750c668f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2650,7 +2650,7 @@ $("#f37734780283_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2694,7 +2694,7 @@ $("#f3774b6a1a908f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2738,7 +2738,7 @@ $("#f3779f53384f4366_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2782,7 +2782,7 @@ $("#f3779f538f5bd89a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2826,7 +2826,7 @@ $("#c96c65502a59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2870,7 +2870,7 @@ $("#c96c3075d588665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2914,7 +2914,7 @@ $("#12790e5df254f253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2958,7 +2958,7 @@ $("#ef780e5dc14e665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣・内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3002,7 +3002,7 @@ $("#025e3075e05fa97f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3046,7 +3046,7 @@ $("#954efa51b85e1f75_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3090,7 +3090,7 @@ $("#0a4fe485b35c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3134,7 +3134,7 @@ $("#0a4fe485ca4f148f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3178,7 +3178,7 @@ $("#0a4fe485e14f2a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3222,7 +3222,7 @@ $("#0a4fe4855d5b5f6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3266,7 +3266,7 @@ $("#0a4fe4855d5b7560_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3310,7 +3310,7 @@ $("#0a4fe485e05f665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3354,7 +3354,7 @@ $("#0a4fe48554905f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3398,7 +3398,7 @@ $("#0a4f71676f825d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3442,7 +3442,7 @@ $("#0a4fe485096e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3486,7 +3486,7 @@ $("#327a30750b678e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3530,7 +3530,7 @@ $("#327a256d454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3574,7 +3574,7 @@ $("#327acc5bee4f8c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3618,7 +3618,7 @@ $("#954e0a4e004eb35f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3662,7 +3662,7 @@ $("#954e0a4ef254eb58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3706,7 +3706,7 @@ $("#954e0a4ee14fbb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国際博覧会担当<br>内閣府特命担当大臣（消費者及び食品安全 クールジャパン戦略 知的財産戦略 科学技術政策 宇宙政策）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3750,7 +3750,7 @@ $("#954e0a4eb48c5a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3794,7 +3794,7 @@ $("#954e0a4ef1825d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3882,7 +3882,7 @@ $("#2a73e353a690505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3926,7 +3926,7 @@ $("#954ece91ca4fce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3970,7 +3970,7 @@ $("#954e9767b08fb261_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4014,7 +4014,7 @@ $("#0a4fe26c0b6d004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4102,7 +4102,7 @@ $("#ca4e954e757d0674505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4146,7 +4146,7 @@ $("#ca4e954ec596ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4190,7 +4190,7 @@ $("#ca4e9d67975b004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4234,7 +4234,7 @@ $("#ca4e5167c596185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4278,7 +4278,7 @@ $("#a95c954e0283396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣<br>兼内閣府副大臣<br>兼復興副大臣<br>令和２年９月１８日～令和３年４月３０日</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4322,7 +4322,7 @@ $("#a95c30758c54aa89_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4366,7 +4366,7 @@ $("#a95c156ecb53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4410,7 +4410,7 @@ $("#a95c2c675b52ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4454,7 +4454,7 @@ $("#a95c4b5cc56b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4498,7 +4498,7 @@ $("#0a4e4967198b2a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4542,7 +4542,7 @@ $("#0a4e3075056ef853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4586,7 +4586,7 @@ $("#463048306e30e28c004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4630,7 +4630,7 @@ $("#0a4ece918f5bf253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4674,7 +4674,7 @@ $("#0a4ece911a90505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4718,7 +4718,7 @@ $("#6e6df65c7a66505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣・内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4762,7 +4762,7 @@ $("#53628a8d55304f306f82_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4806,7 +4806,7 @@ $("#875bfd908696f253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4850,7 +4850,7 @@ $("#1f75b965785e2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4894,7 +4894,7 @@ $("#856851676180_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4938,7 +4938,7 @@ $("#856851677f305a307b30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4982,7 +4982,7 @@ $("#666dce915697ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5026,7 +5026,7 @@ $("#5f6c0e5d5d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5114,7 +5114,7 @@ $("#5f6cf65c546f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣<br>兼内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5158,7 +5158,7 @@ $("#5f6c3075b261f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5202,7 +5202,7 @@ $("#9d67ce91785e3775_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5246,7 +5246,7 @@ $("#5f6c3075b75e785e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5290,7 +5290,7 @@ $("#5f6c216e6180b35f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5334,7 +5334,7 @@ $("#5b88e4855f66004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府特命担当大臣（沖縄及び北方対策・消費者及び食品安全・少子化対策・海洋政策）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5378,7 +5378,7 @@ $("#5b88e485815feb58ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5422,7 +5422,7 @@ $("#5f6ce485d362_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5466,7 +5466,7 @@ $("#6090e4856c65_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5510,7 +5510,7 @@ $("#6090e48529520e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5554,7 +5554,7 @@ $("#2759b65b4f65d75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5598,7 +5598,7 @@ $("#2759a15c4f655d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5642,7 +5642,7 @@ $("#2759b36c9f53c596505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5686,7 +5686,7 @@ $("#2759324e5a53d75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5730,7 +5730,7 @@ $("#2759324e636b396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5774,7 +5774,7 @@ $("#2759e3538455b35f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5818,7 +5818,7 @@ $("#275988968c54f182_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5862,7 +5862,7 @@ $("#22904257a08a8c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5906,7 +5906,7 @@ $("#2759f65c6665_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5950,7 +5950,7 @@ $("#2759f65c0674ee68_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>議長</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5994,7 +5994,7 @@ $("#2a5930752d668f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6038,7 +6038,7 @@ $("#2a5930753f625f6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6082,7 +6082,7 @@ $("#2a5930750c665d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6126,7 +6126,7 @@ $("#27595a581580735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6170,7 +6170,7 @@ $("#27595a58d89af853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6214,7 +6214,7 @@ $("#27595a58d362_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6258,7 +6258,7 @@ $("#27597f896550cb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6302,7 +6302,7 @@ $("#27597f89f1823775_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6346,7 +6346,7 @@ $("#27597f898f5b785e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6390,7 +6390,7 @@ $("#2759ce916c652a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6434,7 +6434,7 @@ $("#2759ce91f06c636b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6478,7 +6478,7 @@ $("#a15c0b4e0c66735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6522,7 +6522,7 @@ $("#a15cf65c004e636b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6566,7 +6566,7 @@ $("#a15c30754b515f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6610,7 +6610,7 @@ $("#a15c3075f476396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣官房副長官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6654,7 +6654,7 @@ $("#a15c3075835e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6698,7 +6698,7 @@ $("#a15c2c6742304d30505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6742,7 +6742,7 @@ $("#a15c2c67094e1062_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6786,7 +6786,7 @@ $("#a15c2c6745519f52_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6830,7 +6830,7 @@ $("#0f5cdd5d4b51f35d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6874,7 +6874,7 @@ $("#0f5cdd5df36d5f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6918,7 +6918,7 @@ $("#0f5cdd5d4f652b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6962,7 +6962,7 @@ $("#6559ce91e14fae4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7006,7 +7006,7 @@ $("#6559ce91cf7d004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7050,7 +7050,7 @@ $("#0f5c8a714e61f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7094,7 +7094,7 @@ $("#0f5c0950075ce14f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7126,50 +7126,6 @@ $("#0f5c0950075ce14f_collapsible-header").click(function(){
     // })
 })
 
-$("#0f5c646b28676b51ce90_collapsible-header").click(function(){
-    $('#0f5c646b28676b51ce90_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/0f5c646b28676b51ce90.html'>" +
-        "   <img src='giin/wordcloud_0f5c646b28676b51ce90.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/0f5c646b28676b51ce90.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#0f5c646b28676b51ce90_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/0f5c646b28676b51ce90.html'>" +
-    //         "<img src='giin/wordcloud_0f5c646b28676b51ce90.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#0f5ccc91f06c185f_collapsible-header").click(function(){
     $('#0f5ccc91f06c185f_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -7182,7 +7138,7 @@ $("#0f5ccc91f06c185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7270,7 +7226,7 @@ $("#0f5ca26cc596c14e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7314,7 +7270,7 @@ $("#0f5c30759f53546f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7358,7 +7314,7 @@ $("#3d840854b48c4b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7402,7 +7358,7 @@ $("#8a8d7a668696c496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7446,7 +7402,7 @@ $("#3e5cbb8f4b306a30505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7490,7 +7446,7 @@ $("#3e5cbb8fc079454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7534,7 +7490,7 @@ $("#f3979c551a59ff99_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7578,7 +7534,7 @@ $("#3c9b2867a08a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7622,7 +7578,7 @@ $("#0f5cbc6ce75d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7666,7 +7622,7 @@ $("#0f5cce913075007d8e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>法務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7710,7 +7666,7 @@ $("#0f5cce91fa5b944e7851_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7754,7 +7710,7 @@ $("#0f5c156e2a51505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7798,7 +7754,7 @@ $("#3e5cab8e1d67505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7842,7 +7798,7 @@ $("#776d5f6c3075074ecc91_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7886,7 +7842,7 @@ $("#ff67a26c2a671490_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7930,7 +7886,7 @@ $("#207b954eae4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7974,7 +7930,7 @@ $("#b668715c185fd75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣<br>産業競争力担当<br>ロシア経済分野協力担当<br>原子力経済被害担当<br>内閣府特命担当大臣（原子力損害賠償・廃炉等支援機構）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8018,7 +7974,7 @@ $("#a0523075d5884b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8062,7 +8018,7 @@ $("#4772715c553064304d30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府特命担当大臣（規制改革・地方創生・男女共同参画）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8106,7 +8062,7 @@ $("#4772715c2759cb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8150,7 +8106,7 @@ $("#4772715c4e864b4ea952_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8194,7 +8150,7 @@ $("#095630753175007d505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8238,7 +8194,7 @@ $("#dd52e890e28cd75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8282,7 +8238,7 @@ $("#dd52e34f5d5b0e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8326,7 +8282,7 @@ $("#a052e4858e9b505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8370,7 +8326,7 @@ $("#a052e485dd52e14f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣官房長官<br>沖縄基地負担軽減担当<br>拉致問題担当</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8414,7 +8370,7 @@ $("#a052e485db5bbb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8458,7 +8414,7 @@ $("#80955a538765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8502,7 +8458,7 @@ $("#8095715c8f5bf254_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>法務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8546,7 +8502,7 @@ $("#d191505b75608e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8590,7 +8546,7 @@ $("#d191505b9f538c4ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8634,7 +8590,7 @@ $("#d191505bca4f735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8678,7 +8634,7 @@ $("#d191505b074eff5b2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8722,7 +8678,7 @@ $("#d191505b6d604b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8766,7 +8722,7 @@ $("#d1913075dd52745e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8810,7 +8766,7 @@ $("#0a4edd5d7d96505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>法務大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8854,7 +8810,7 @@ $("#5e79378c0766_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣政務官<br>兼内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8898,7 +8854,7 @@ $("#197d7a66505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8942,7 +8898,7 @@ $("#5e79378cd588_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8986,7 +8942,7 @@ $("#5e79715c504f025e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9030,7 +8986,7 @@ $("#804e954e9c4e007d505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9074,7 +9030,7 @@ $("#804ea15c4950116c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9118,7 +9074,7 @@ $("#289d0b4e004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9206,7 +9162,7 @@ $("#dd5d08545d5b7851_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9250,7 +9206,7 @@ $("#dd5d85515a53f253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9294,7 +9250,7 @@ $("#dd5d0e5d8c4ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9338,7 +9294,7 @@ $("#dd5d30758d9f735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9382,7 +9338,7 @@ $("#b36cce91a97f5a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9470,7 +9426,7 @@ $("#c583b65b004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣政務官・内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9514,7 +9470,7 @@ $("#5e793075b261216b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9558,7 +9514,7 @@ $("#5e793075d588_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9602,7 +9558,7 @@ $("#c583f476ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9646,7 +9602,7 @@ $("#ce57954e075d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9690,7 +9646,7 @@ $("#ce5785519f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9734,7 +9690,7 @@ $("#c49edd5d3075c14ed75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9778,7 +9734,7 @@ $("#ca8330751f77007d505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9822,7 +9778,7 @@ $("#b85c30758765c496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9866,7 +9822,7 @@ $("#b85ce14f2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9910,7 +9866,7 @@ $("#b85c1f77007d505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9954,7 +9910,7 @@ $("#b85c2c676854735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9998,7 +9954,7 @@ $("#17537450004ec496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10042,7 +9998,7 @@ $("#17535167a08a3e54_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10086,7 +10042,7 @@ $("#175351674c7d2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10130,7 +10086,7 @@ $("#28673862e353f182f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10174,7 +10130,7 @@ $("#28679f53a08a8c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10218,7 +10174,7 @@ $("#28679f53147a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（国家安全保障に関する重要政策担当）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10262,7 +10218,7 @@ $("#28675167f182505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10306,7 +10262,7 @@ $("#28675167216bce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10350,7 +10306,7 @@ $("#28675167f2545f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10394,7 +10350,7 @@ $("#28675167255f1f75_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10438,7 +10394,7 @@ $("#09546f82de5df853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10482,7 +10438,7 @@ $("#09546f8288305730505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10526,7 +10482,7 @@ $("#324e3075a08a004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10570,7 +10526,7 @@ $("#e55de485705f094e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10614,7 +10570,7 @@ $("#0b57cd91b95f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10658,7 +10614,7 @@ $("#fd564951423084306e30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10702,7 +10658,7 @@ $("#8a71378cd588ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10746,7 +10702,7 @@ $("#8a713075d5881a90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10790,7 +10746,7 @@ $("#8a71ce91636beb58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10834,7 +10790,7 @@ $("#095097670e66505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10878,7 +10834,7 @@ $("#d29ea95c875b0b6d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10922,7 +10878,7 @@ $("#e190f853705f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>副議長</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10966,7 +10922,7 @@ $("#847349844951004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11010,7 +10966,7 @@ $("#906eac99198b2a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11054,7 +11010,7 @@ $("#0f5c606c4366_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11098,7 +11054,7 @@ $("#0f5cc96c3290216bce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣<br>内閣府特命担当大臣（原子力防災）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11186,7 +11142,7 @@ $("#0a4e08676f825079_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11230,7 +11186,7 @@ $("#b36cce912a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>行政改革担当<br>国家公務員制度担当<br>内閣府特命担当大臣（沖縄及び北方対策 規制改革）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11274,7 +11230,7 @@ $("#d89a5167636b2759_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11318,7 +11274,7 @@ $("#e453c08ce47b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11362,7 +11318,7 @@ $("#e453c08ccb53004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官・内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11406,7 +11362,7 @@ $("#e453c08c4b4eeb58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11450,7 +11406,7 @@ $("#407a307575608c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11494,7 +11450,7 @@ $("#0b573458785e4b4ea952_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11538,7 +11494,7 @@ $("#0f5cf65c4f658765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11582,7 +11538,7 @@ $("#0f5cfa5bd588c496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11626,7 +11582,7 @@ $("#8c5fe48502834b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11670,7 +11626,7 @@ $("#8c5fe4853075636b147d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11714,7 +11670,7 @@ $("#8c5fe4855079004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11758,7 +11714,7 @@ $("#0f5c7f890b6d4b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11802,7 +11758,7 @@ $("#0f5c97670283396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11846,7 +11802,7 @@ $("#0f5c9767f99d4b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11890,7 +11846,7 @@ $("#0f5c9767f2530e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11934,7 +11890,7 @@ $("#0f5c9767636b2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11978,7 +11934,7 @@ $("#0f5cae5b715cf06c505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12022,7 +11978,7 @@ $("#533084308a308696f253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12066,7 +12022,7 @@ $("#d18fe4858c545f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12110,7 +12066,7 @@ $("#d18fe4852d66004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12154,7 +12110,7 @@ $("#89652867666bd75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12198,7 +12154,7 @@ $("#4b9fe4856550_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12242,7 +12198,7 @@ $("#8965e48544922b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12286,7 +12242,7 @@ $("#8e65e4850b6d0e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12330,7 +12286,7 @@ $("#8e65e48509568696_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12374,7 +12330,7 @@ $("#4257954e665b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣官房副長官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12418,7 +12374,7 @@ $("#5291954eb85e4c88_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12462,7 +12418,7 @@ $("#42572c67f254d75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>一億総活躍担当<br>まち・ひと・しごと創生担当<br>内閣府特命担当大臣（少子化対策 地方創生）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12506,7 +12462,7 @@ $("#fb6a954e6854_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12550,7 +12506,7 @@ $("#fb6a954e4551_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12594,7 +12550,7 @@ $("#fb6a3075a97f5d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国務大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12638,7 +12594,7 @@ $("#397bdd5d5a53a97f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12682,7 +12638,7 @@ $("#504f05302867553084304b30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12726,7 +12682,7 @@ $("#504f0530286786965a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12770,7 +12726,7 @@ $("#504f05302867007d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12814,7 +12770,7 @@ $("#504fe4850e663775_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12858,7 +12814,7 @@ $("#e65de485e07a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12902,7 +12858,7 @@ $("#504fe4855355_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣政務官<br>兼内閣府大臣政務官<br>兼復興大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12946,7 +12902,7 @@ $("#504fe4856c51bb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12990,7 +12946,7 @@ $("#504fe4850283396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13034,7 +12990,7 @@ $("#504fe485c952_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13078,7 +13034,7 @@ $("#504fe485e14fcb79_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13122,7 +13078,7 @@ $("#504fe485f1825390_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13166,7 +13122,7 @@ $("#504fe485636b454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13210,7 +13166,7 @@ $("#504fe48586304b308a30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務副大臣・内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13254,7 +13210,7 @@ $("#cc918b898696bb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13298,7 +13254,7 @@ $("#715c71672d66505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>議長</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13342,7 +13298,7 @@ $("#d75f4d4f8c542b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13386,7 +13342,7 @@ $("#6958dd5d44925f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13474,7 +13430,7 @@ $("#695830755a532d66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13518,7 +13474,7 @@ $("#6958378ccb7a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13562,7 +13518,7 @@ $("#69585167423084304b30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13606,7 +13562,7 @@ $("#cd91b35f8c54665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13650,7 +13606,7 @@ $("#417e2c67778b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13694,7 +13650,7 @@ $("#8e961b73_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13738,7 +13694,7 @@ $("#e07b9f536a8c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13782,7 +13738,7 @@ $("#e07b9f535d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13826,7 +13782,7 @@ $("#f4673075e75d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13870,7 +13826,7 @@ $("#9d825a53004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13914,7 +13870,7 @@ $("#f467715c0c66665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13958,7 +13914,7 @@ $("#f65c51672759_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14002,7 +13958,7 @@ $("#056e346cb48c4b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14046,7 +14002,7 @@ $("#056e346ce05ff253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14090,7 +14046,7 @@ $("#056e346c1f77ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14134,7 +14090,7 @@ $("#ea818b896f306a305330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14178,7 +14134,7 @@ $("#0b4e3057795ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14222,7 +14178,7 @@ $("#0b4e61677f306430_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14266,7 +14222,7 @@ $("#0b4ece916d512a59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14310,7 +14266,7 @@ $("#0b4e51675a538765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14354,7 +14310,7 @@ $("#7d76f3770b6d004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14398,7 +14354,7 @@ $("#7d760898c08cb48c396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣政務官・内閣府大臣政務官・復興大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14442,7 +14398,7 @@ $("#b065378c636ba97f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14486,7 +14442,7 @@ $("#3290e485d191e565505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14530,7 +14486,7 @@ $("#b065e485a97f5d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14574,7 +14530,7 @@ $("#9b694984c08c256d5f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14618,7 +14574,7 @@ $("#2b677e67e14fcb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14662,7 +14618,7 @@ $("#2b677e67a97f8f89_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14706,7 +14662,7 @@ $("#c583a97f4950_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14750,7 +14706,7 @@ $("#49673e5cc079c954_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14794,7 +14750,7 @@ $("#49673075346c0881_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14838,7 +14794,7 @@ $("#4967454e666b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14882,7 +14838,7 @@ $("#49672c678c54f35d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14926,7 +14882,7 @@ $("#34922867a8995079_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14970,7 +14926,7 @@ $("#34922867ca4f004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国務大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15014,7 +14970,7 @@ $("#34922867f36df853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15058,7 +15014,7 @@ $("#34922867b48c505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15102,7 +15058,7 @@ $("#34922867b2618c54_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15146,7 +15102,7 @@ $("#34922867bc96ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15190,7 +15146,7 @@ $("#34922867975b3775_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15234,7 +15190,7 @@ $("#0898e4854351176c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15278,7 +15234,7 @@ $("#a295e3530c66004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15322,7 +15278,7 @@ $("#a2956550004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15366,7 +15322,7 @@ $("#a295b382185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15410,7 +15366,7 @@ $("#164e1580185f1062_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣・内閣府特命担当大臣（原子力損害賠償・廃炉等支援機構）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15454,7 +15410,7 @@ $("#9785666d65502a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15498,7 +15454,7 @@ $("#5d306e306030ee4f4951_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15542,7 +15498,7 @@ $("#275980959f5b007df253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15586,7 +15542,7 @@ $("#735e065c0e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15630,7 +15586,7 @@ $("#d89a954e075dd75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15674,7 +15630,7 @@ $("#d89a025ee965d782_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15718,7 +15674,7 @@ $("#d89a8e9675608e7f505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15762,7 +15718,7 @@ $("#d89a28674b304a308a30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15806,7 +15762,7 @@ $("#d89a28675355_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15850,7 +15806,7 @@ $("#d89a2867c56b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15894,7 +15850,7 @@ $("#d89a28678e7f7a66e34e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15982,7 +15938,7 @@ $("#d89a28672c932a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16026,7 +15982,7 @@ $("#d89a2c70185f8e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16070,7 +16026,7 @@ $("#d89ae59cee4f004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16114,7 +16070,7 @@ $("#d89ace9149518c4ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16158,7 +16114,7 @@ $("#d89a4b6a4b51d56c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16202,7 +16158,7 @@ $("#d89a4b6a4353b49d505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16246,7 +16202,7 @@ $("#d89a4b6a6f308b307f30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16290,7 +16246,7 @@ $("#d89a4b6a72306a305330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16334,7 +16290,7 @@ $("#d89a4b6a49513775_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16378,7 +16334,7 @@ $("#d89a6f8244928e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16422,7 +16378,7 @@ $("#dd6ea26c426c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16466,7 +16422,7 @@ $("#dd6ee26c8f5b8765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16510,7 +16466,7 @@ $("#666b954eca4f148f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16554,7 +16510,7 @@ $("#f97a85511f778c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16598,7 +16554,7 @@ $("#666b855147523775_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16642,7 +16598,7 @@ $("#f97a8551728b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16730,7 +16686,7 @@ $("#666b30756f82cb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16774,7 +16730,7 @@ $("#666b30756f822a59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16818,7 +16774,7 @@ $("#666be890b065_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16862,7 +16818,7 @@ $("#666b8b896c65094e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16906,7 +16862,7 @@ $("#666b5167555cf182_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16950,7 +16906,7 @@ $("#f97a2c67f476004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16994,7 +16950,7 @@ $("#f97a378c68305730505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17038,7 +16994,7 @@ $("#30758b5d8189_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17082,7 +17038,7 @@ $("#3075f65cbb9e6388505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17126,7 +17082,7 @@ $("#586a7661004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17170,7 +17126,7 @@ $("#307540620956b35f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17214,7 +17170,7 @@ $("#30752d4e8c54b35f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17258,7 +17214,7 @@ $("#30752d4ef1824b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17302,7 +17258,7 @@ $("#30752d4e6f821f75_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17346,7 +17302,7 @@ $("#da684b6af06c8765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国家公安委員会委員長<br>国土強靱化担当<br>領土問題担当<br>内閣府特命担当大臣（防災 海洋政策）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17390,7 +17346,7 @@ $("#30750d54e8902153e34e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17434,7 +17390,7 @@ $("#378c0854636b0e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17478,7 +17434,7 @@ $("#378cdd5d68308030_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17522,7 +17478,7 @@ $("#378cdd5d255f004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17566,7 +17522,7 @@ $("#378c6c51004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17610,7 +17566,7 @@ $("#3075ce912c702a595390_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣<br>兼内閣府副大臣<br>令和２年９月１８日～令和３年２月１日</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17654,7 +17610,7 @@ $("#30755175d5880e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17698,7 +17654,7 @@ $("#89732867c496004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17742,7 +17698,7 @@ $("#30755167b48c2d66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17786,7 +17742,7 @@ $("#307551677a66505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17830,7 +17786,7 @@ $("#30755167b261454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣<br>働き方改革担当</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17874,7 +17830,7 @@ $("#307551677e307f30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17918,7 +17874,7 @@ $("#d8670d69b3828765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17962,7 +17918,7 @@ $("#bb8f056eba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18006,7 +17962,7 @@ $("#256df65cf36d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18050,7 +18006,7 @@ $("#bb8f4351056e8e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18094,7 +18050,7 @@ $("#1f574b5cc154505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18138,7 +18094,7 @@ $("#256d51675355cb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18182,7 +18138,7 @@ $("#b49ddd4fb85ecb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18226,7 +18182,7 @@ $("#4b625a58c14ec496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18314,7 +18270,7 @@ $("#fa5b30755997_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18358,7 +18314,7 @@ $("#fa5b3075665b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18402,7 +18358,7 @@ $("#fa5b3075147a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務副大臣・内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18446,7 +18402,7 @@ $("#67714b5cdb5bb35f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18490,7 +18446,7 @@ $("#1f57954ea84e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18534,7 +18490,7 @@ $("#025845650283_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18578,7 +18534,7 @@ $("#216e776d007d094e1767_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18622,7 +18578,7 @@ $("#68304b3057304d306a304a307f30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18666,7 +18622,7 @@ $("#a8512b6a5a534b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18710,7 +18666,7 @@ $("#b35f0283c5964b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18754,7 +18710,7 @@ $("#b35f386ca830ea30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18798,7 +18754,7 @@ $("#a851a15cc952_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18842,7 +18798,7 @@ $("#cc5b307502834b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18886,7 +18842,7 @@ $("#4a8c3075ca4fce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18930,7 +18886,7 @@ $("#6a304c3048305d5b505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18974,7 +18930,7 @@ $("#386ca15c4268505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19018,7 +18974,7 @@ $("#77953e5c6c65_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19062,7 +19018,7 @@ $("#77953e5cc079396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19094,50 +19050,6 @@ $("#77953e5cc079396a_collapsible-header").click(function(){
     // })
 })
 
-$("#2d4edd5d636b2566_collapsible-header").click(function(){
-    $('#2d4edd5d636b2566_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/2d4edd5d636b2566.html'>" +
-        "   <img src='giin/wordcloud_2d4edd5d636b2566.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/2d4edd5d636b2566.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#2d4edd5d636b2566_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/2d4edd5d636b2566.html'>" +
-    //         "<img src='giin/wordcloud_2d4edd5d636b2566.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#2d4edd5dc596bb6c_collapsible-header").click(function(){
     $('#2d4edd5dc596bb6c_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -19150,7 +19062,7 @@ $("#2d4edd5dc596bb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19182,6 +19094,50 @@ $("#2d4edd5dc596bb6c_collapsible-header").click(function(){
     // })
 })
 
+$("#2d4edd5d636b2566_collapsible-header").click(function(){
+    $('#2d4edd5d636b2566_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/2d4edd5d636b2566.html'>" +
+        "   <img src='giin/wordcloud_2d4edd5d636b2566.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/2d4edd5d636b2566.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#2d4edd5d636b2566_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/2d4edd5d636b2566.html'>" +
+    //         "<img src='giin/wordcloud_2d4edd5d636b2566.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#77954257b75e636b_collapsible-header").click(function(){
     $('#77954257b75e636b_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -19194,7 +19150,7 @@ $("#77954257b75e636b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣<br>兼内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19238,7 +19194,7 @@ $("#7795f65c2d66454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19282,7 +19238,7 @@ $("#2d4ef65c4b51c14e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19326,7 +19282,7 @@ $("#2d4efd663968185f8765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19370,7 +19326,7 @@ $("#2d4efd663968b75e8696_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19414,7 +19370,7 @@ $("#2d4e378c004eac99_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19458,7 +19414,7 @@ $("#2d4e378c4351_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19502,7 +19458,7 @@ $("#2d4e378c1f77004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19546,7 +19502,7 @@ $("#7795bb592d66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19590,7 +19546,7 @@ $("#2d4e7f896550bb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19634,7 +19590,7 @@ $("#2d4e7f89f254_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19678,7 +19634,7 @@ $("#2d4e7f895079cb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19722,7 +19678,7 @@ $("#2d4e3968004e785e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19766,7 +19722,7 @@ $("#2d4ece910b6d0c66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19810,7 +19766,7 @@ $("#77955c6d5a534c88_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19854,7 +19810,7 @@ $("#7795ef5ca08a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19942,7 +19898,7 @@ $("#2d4e5167d5884b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20030,7 +19986,7 @@ $("#2d4e715c555c8f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20074,7 +20030,7 @@ $("#2d4e715cf06cc079_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛副大臣<br>兼内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20118,7 +20074,7 @@ $("#a390378c4b5c636ba97f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20162,7 +20118,7 @@ $("#e396e26c68598c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20206,7 +20162,7 @@ $("#b065bb59c0798f89_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20250,7 +20206,7 @@ $("#8c4e8e96ca4f5a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20294,7 +20250,7 @@ $("#7f89a15cc079505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20338,7 +20294,7 @@ $("#7f8930752d668c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20382,7 +20338,7 @@ $("#7f8930750c66f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20426,7 +20382,7 @@ $("#7f8930759f5bc14e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20470,7 +20426,7 @@ $("#7f8951670e668f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20514,7 +20470,7 @@ $("#7f8951677a6648598e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20558,7 +20514,7 @@ $("#7f895167b75e147a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済再生担当<br>全世代型社会保障改革担当<br>内閣府特命担当大臣（経済財政政策）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20602,7 +20558,7 @@ $("#7f8998925260094ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20646,7 +20602,7 @@ $("#8c4e4b4e6f6e7a66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20690,7 +20646,7 @@ $("#394ebd7fc079396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣<br>兼内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20734,7 +20690,7 @@ $("#4d98c08c8f79d75fce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20778,7 +20734,7 @@ $("#39682c672053_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20822,7 +20778,7 @@ $("#39682c67785e7851_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20866,7 +20822,7 @@ $("#ce910a4e696d2a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20910,7 +20866,7 @@ $("#ce913075fd56a97f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20954,7 +20910,7 @@ $("#ce9130755680505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20998,7 +20954,7 @@ $("#ce913075c56b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21042,7 +20998,7 @@ $("#ce913075734f665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21086,7 +21042,7 @@ $("#ce912d4e9a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21130,7 +21086,7 @@ $("#ce915167f254ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21174,7 +21130,7 @@ $("#b382c08c53905f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21218,7 +21174,7 @@ $("#29841f7530754951004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣<br>教育再生担当</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21262,7 +21218,7 @@ $("#7d761e77f252_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21306,7 +21262,7 @@ $("#4b6a2c67b35c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21350,7 +21306,7 @@ $("#4b6a2c675680505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>東京オリンピック競技大会・東京パラリンピック競技大会担当<br>女性活躍担当<br>内閣府特命担当大臣（男女共同参画）<br>令和２年９月１６日～令和３年２月１８日</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21394,7 +21350,7 @@ $("#7795378cdd5d0956004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21438,7 +21394,7 @@ $("#7795378cdd5db35c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21482,7 +21438,7 @@ $("#b399696d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21514,12 +21470,12 @@ $("#b399696d_collapsible-header").click(function(){
     // })
 })
 
-$("#5175ce919d67_collapsible-header").click(function(){
-    $('#5175ce919d67_collapsible-body').empty().append(
+$("#5175ce911b549d67_collapsible-header").click(function(){
+    $('#5175ce911b549d67_collapsible-body').empty().append(
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/5175ce919d67.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  <a href='giin/5175ce911b549d67.html'>" +
+        "   <img src='giin/wordcloud_5175ce911b549d67.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -21531,16 +21487,16 @@ $("#5175ce919d67_collapsible-header").click(function(){
         " </div>" +
         "</div>"
     )
-    // $.ajax("giin/5175ce919d67.html", {
+    // $.ajax("giin/5175ce911b549d67.html", {
     //     timeout : 1000, // 1000 ms
     //     datatype:'html'
     // }).then(function(data){
     //     var out_html = $($.parseHTML(data));//parse
-    //     $('#5175ce919d67_collapsible-body').empty().append(
+    //     $('#5175ce911b549d67_collapsible-body').empty().append(
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/5175ce919d67.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<a href='giin/5175ce911b549d67.html'>" +
+    //         "<img src='giin/wordcloud_5175ce911b549d67.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -21570,7 +21526,7 @@ $("#bd7f3075c496004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21614,7 +21570,7 @@ $("#629242540954c496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21658,7 +21614,7 @@ $("#e99c715c8c4ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官<br>兼内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21702,7 +21658,7 @@ $("#4984a868b75e185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21746,7 +21702,7 @@ $("#bd7f1f753075ca4f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21790,7 +21746,7 @@ $("#ac9934581062d75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21834,7 +21790,7 @@ $("#ac993458384f785e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21878,7 +21834,7 @@ $("#5c6de353a08a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21922,7 +21878,7 @@ $("#5c6d30756180_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21966,7 +21922,7 @@ $("#5c6d30750c666f82_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22010,7 +21966,7 @@ $("#5c6d30755697004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22054,7 +22010,7 @@ $("#5c6d3057c596004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22098,7 +22054,7 @@ $("#5c6dce919c55f253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22142,7 +22098,7 @@ $("#f16f51673290_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22186,7 +22142,7 @@ $("#9767795ec496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22230,7 +22186,7 @@ $("#9767b382636b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22274,7 +22230,7 @@ $("#9f53e353004e5a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22318,7 +22274,7 @@ $("#9f533075b261bb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛副大臣・内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22362,7 +22318,7 @@ $("#9f533075a97f2d66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣・内閣府特命担当大臣（原子力防災）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22450,7 +22406,7 @@ $("#e5650954c4962a59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22494,7 +22450,7 @@ $("#735e954e53535f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>デジタル改革担当<br>情報通信技術（ＩＴ）政策担当<br>内閣府特命担当大臣（マイナンバー制度）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22538,7 +22494,7 @@ $("#735e286727595c4f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22582,7 +22538,7 @@ $("#735ee3530b6d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>法務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22626,7 +22582,7 @@ $("#735ea26cdd520468_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興大臣<br>福島原発事故再生総括担当</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22670,7 +22626,7 @@ $("#735ece915a538765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22714,7 +22670,7 @@ $("#735e715c504fe577505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22758,7 +22714,7 @@ $("#835e3075004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22802,7 +22758,7 @@ $("#f16da46f7d96004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22846,7 +22802,7 @@ $("#8f79954e6771_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22890,7 +22846,7 @@ $("#8f79a15cc78cbf9e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22934,7 +22890,7 @@ $("#8f79f65c7f305a307b30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22978,7 +22934,7 @@ $("#8f7930752d662b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23022,7 +22978,7 @@ $("#8f79307554902b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23066,7 +23022,7 @@ $("#8f79715cf254ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23110,7 +23066,7 @@ $("#8f79715c885b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23154,7 +23110,7 @@ $("#e485954ed46be9654b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23198,7 +23154,7 @@ $("#e485954efa574b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23242,7 +23198,7 @@ $("#e485dd5d3f65ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23286,7 +23242,7 @@ $("#e48528671e775f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23330,7 +23286,7 @@ $("#e4852b676550094e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23374,7 +23330,7 @@ $("#e48530758765666b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23418,7 +23374,7 @@ $("#e485ce91dd4ff253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23462,7 +23418,7 @@ $("#e485384e4f65_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23506,7 +23462,7 @@ $("#e4859f53075d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23550,7 +23506,7 @@ $("#29828c5f5697665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23594,7 +23550,7 @@ $("#398230754351_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23638,7 +23594,7 @@ $("#39824b6a29529f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23682,7 +23638,7 @@ $("#1f82715cb75e5f6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23726,7 +23682,7 @@ $("#e453dd5dca4fbb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23770,7 +23726,7 @@ $("#e453dd5d4351454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23814,7 +23770,7 @@ $("#e453dd5db75e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23858,7 +23814,7 @@ $("#e453dd5d8e79454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23902,7 +23858,7 @@ $("#e45330752d57004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23946,7 +23902,7 @@ $("#e4532c67384f004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24034,7 +23990,7 @@ $("#e4534b5cc47b505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24078,7 +24034,7 @@ $("#427a4257f06c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24122,7 +24078,7 @@ $("#1f66ce915b52eb58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24166,7 +24122,7 @@ $("#307d30756550004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24210,7 +24166,7 @@ $("#307d30755a534b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24254,7 +24210,7 @@ $("#307dce916a8cd75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24298,7 +24254,7 @@ $("#0058954ecc5d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24342,7 +24298,7 @@ $("#0058954e665b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24386,7 +24342,7 @@ $("#00588551548a505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境副大臣<br>兼内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24430,7 +24386,7 @@ $("#00588a8d5355c14e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24474,7 +24430,7 @@ $("#2c6730755598505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24518,7 +24474,7 @@ $("#2c6730752a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24550,50 +24506,6 @@ $("#2c6730752a59ce90_collapsible-header").click(function(){
     // })
 })
 
-$("#2c671a59735ef476_collapsible-header").click(function(){
-    $('#2c671a59735ef476_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/2c671a59735ef476.html'>" +
-        "   <img src='giin/wordcloud_2c671a59735ef476.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/2c671a59735ef476.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#2c671a59735ef476_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/2c671a59735ef476.html'>" +
-    //         "<img src='giin/wordcloud_2c671a59735ef476.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#1e82cb7a0766bb6c_collapsible-header").click(function(){
     $('#1e82cb7a0766bb6c_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -24606,7 +24518,7 @@ $("#1e82cb7a0766bb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24650,7 +24562,7 @@ $("#4d529f53a08af853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24694,7 +24606,7 @@ $("#6772f65c4b308c309330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24738,7 +24650,7 @@ $("#6772ce915f304b304a30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣・内閣府副大臣・復興副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24782,7 +24694,7 @@ $("#67729f53c079396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24826,7 +24738,7 @@ $("#6772715c72308d304830_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24870,7 +24782,7 @@ $("#6772a97f2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24914,7 +24826,7 @@ $("#9758505b1d8f665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24958,7 +24870,7 @@ $("#5d684b5c6c659f60_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25002,7 +24914,7 @@ $("#7e673e5c0e66185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25046,7 +24958,7 @@ $("#7e67dd5d8b304430_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣政務官<br>兼内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25134,7 +25046,7 @@ $("#7e67a26c10628765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25178,7 +25090,7 @@ $("#7e670b4eb065735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25222,7 +25134,7 @@ $("#7e67f65c7f3069308a30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25266,7 +25178,7 @@ $("#7e6730759f52_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25310,7 +25222,7 @@ $("#7e67735e696d004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25354,7 +25266,7 @@ $("#7e67ce915a53004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25398,7 +25310,7 @@ $("#7e679f53c14e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25442,7 +25354,7 @@ $("#7e6751676579f253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25530,7 +25442,7 @@ $("#7e672c675b520e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25574,7 +25486,7 @@ $("#7e672c6787650e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25618,7 +25530,7 @@ $("#7e672c670b6d735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣・内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25662,7 +25574,7 @@ $("#7e67715c3f65f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25706,7 +25618,7 @@ $("#ac99f56d846f2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25750,7 +25662,7 @@ $("#1f77715cc752004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25794,7 +25706,7 @@ $("#384edd5de073e34e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>東京オリンピック競技大会・東京パラリンピック競技大会担当<br>女性活躍担当<br>内閣府特命担当大臣（男女共同参画）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25838,7 +25750,7 @@ $("#384e715c427ad89a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25882,7 +25794,7 @@ $("#094e666de14f5079_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25926,7 +25838,7 @@ $("#094e666d5697_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25970,7 +25882,7 @@ $("#094e2867a84e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26014,7 +25926,7 @@ $("#346ca15cca4f004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26058,7 +25970,7 @@ $("#346c3d844f650468_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26102,7 +26014,7 @@ $("#094e378cf182185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣政務官<br>兼内閣府大臣政務官<br>兼復興大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26146,7 +26058,7 @@ $("#53900b4e2759396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26190,7 +26102,7 @@ $("#094ec3309767d588f35d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26278,7 +26190,7 @@ $("#d17ddd5db48ceb58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26322,7 +26234,7 @@ $("#8e7ff65e20662b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26366,7 +26278,7 @@ $("#a15fd56cdd5de14ff182_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26410,7 +26322,7 @@ $("#094e9f531d67665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26454,7 +26366,7 @@ $("#094e9f53583085309330505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26498,7 +26410,7 @@ $("#ae5b8551c079396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26542,7 +26454,7 @@ $("#ae5bdd5d384f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26586,7 +26498,7 @@ $("#094e855b384f3e54_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26630,7 +26542,7 @@ $("#ae5b70814951db5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府特命担当大臣（沖縄及び北方対策・消費者及び食品安全・少子化対策・海洋政策）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26674,7 +26586,7 @@ $("#ae5b0e5dc5962b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26718,7 +26630,7 @@ $("#ae5b0e5d3f65454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26762,7 +26674,7 @@ $("#ae5b0e5ddd52_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26806,7 +26718,7 @@ $("#ae5ba46f5a534c88_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26850,7 +26762,7 @@ $("#ae5ba26c3175734f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26894,7 +26806,7 @@ $("#ae5ba26c0b6d004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26938,7 +26850,7 @@ $("#ae5b0b4e004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26982,7 +26894,7 @@ $("#ae5bef8dd362ac99_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27026,7 +26938,7 @@ $("#ae5bf65c9c558765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27070,7 +26982,7 @@ $("#ae5b2c676854f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27114,7 +27026,7 @@ $("#ae5b2c67b95f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27158,7 +27070,7 @@ $("#d952f053ca4fcb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27202,7 +27114,7 @@ $("#666be485b95bbb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27246,7 +27158,7 @@ $("#975b056e8776004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣政務官<br>兼内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27290,7 +27202,7 @@ $("#5167954ef182396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27378,7 +27290,7 @@ $("#51670a4ef2537d59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27422,7 +27334,7 @@ $("#a45b954ea690665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27466,7 +27378,7 @@ $("#028328674f654551_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27510,7 +27422,7 @@ $("#4351ae692a59004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27554,7 +27466,7 @@ $("#2c675167384f505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27598,7 +27510,7 @@ $("#ee68f182cb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27642,7 +27554,7 @@ $("#ee683075ca4f8c54_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27686,7 +27598,7 @@ $("#ee680f599d67_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27730,7 +27642,7 @@ $("#ee687e3055305330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27774,7 +27686,7 @@ $("#ee682c671f77bb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27818,7 +27730,7 @@ $("#ee684b5c8696_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27862,7 +27774,7 @@ $("#ee684b5c8f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27950,7 +27862,7 @@ $("#ee68715c696d4c88_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27994,7 +27906,7 @@ $("#db76715c636bc14e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28038,7 +27950,7 @@ $("#ee68863046305330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28082,7 +27994,7 @@ $("#e2770a4ec596a97f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28126,7 +28038,7 @@ $("#6b512867f2545f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28170,7 +28082,7 @@ $("#e27709504b512b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28214,7 +28126,7 @@ $("#895b5f6c384f2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28258,7 +28170,7 @@ $("#378c3075dd5d4351_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28302,7 +28214,7 @@ $("#e27730758f304b30505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28346,7 +28258,7 @@ $("#177c8c541f75_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28390,7 +28302,7 @@ $("#f367f6302c70d5888765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28434,7 +28346,7 @@ $("#f3673075147a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28478,7 +28390,7 @@ $("#715c8551b75e004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28522,7 +28434,7 @@ $("#715ca15c5490384e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28566,7 +28478,7 @@ $("#715c3e5cd75f5c68cc91_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28610,7 +28522,7 @@ $("#715cdd5d7e760854505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28654,7 +28566,7 @@ $("#715c9b962759d75fce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28698,7 +28610,7 @@ $("#715ce353ca4f004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28786,7 +28698,7 @@ $("#715ce353ef58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28830,7 +28742,7 @@ $("#715ce353a390256d3775_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28874,7 +28786,7 @@ $("#715c0e5da08a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28918,7 +28830,7 @@ $("#715c0e5d636b2d66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28962,7 +28874,7 @@ $("#715c0b4eb48cf853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>法務大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29006,7 +28918,7 @@ $("#715c0b4ec496735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29050,7 +28962,7 @@ $("#715c0b4eb3821f75_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29094,7 +29006,7 @@ $("#715cfb6dd362_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29138,7 +29050,7 @@ $("#715c3075e28cf853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29182,7 +29094,7 @@ $("#715c3075ee4fef8d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29226,7 +29138,7 @@ $("#715c30752a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29270,7 +29182,7 @@ $("#715c3075ca4f3775_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29314,7 +29226,7 @@ $("#715c378c48308a30505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29358,7 +29270,7 @@ $("#715c30758f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣政務官・内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29402,7 +29314,7 @@ $("#715c30758e7f396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29446,7 +29358,7 @@ $("#715c954e8c544752_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29490,7 +29402,7 @@ $("#715cb182c1902b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29534,7 +29446,7 @@ $("#715c2c679999d782_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29622,7 +29534,7 @@ $("#715c2c67785e094e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29666,7 +29578,7 @@ $("#715c2c670698094e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国家公安委員会委員長・内閣府特命担当大臣（防災）</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29710,7 +29622,7 @@ $("#715c2c67d362_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29754,7 +29666,7 @@ $("#715c2c676830823072308d30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29798,7 +29710,7 @@ $("#715c2c675a53f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働副大臣<br>兼内閣府副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29886,7 +29798,7 @@ $("#715c2c678c540956505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29930,7 +29842,7 @@ $("#4b5c6f821d675a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29974,7 +29886,7 @@ $("#da6728675390a97f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30018,7 +29930,7 @@ $("#2a6aa26cd89ab35f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30062,7 +29974,7 @@ $("#2a6a49514b51665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30106,7 +30018,7 @@ $("#2a6a715ce14f004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30150,7 +30062,7 @@ $("#a97fb65b185fcb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30194,7 +30106,7 @@ $("#0954dd5d996c547e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30238,7 +30150,7 @@ $("#0954dd5d738d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30282,7 +30194,7 @@ $("#0954dd5d4351_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30326,7 +30238,7 @@ $("#0954dd5d863046307f30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30370,7 +30282,7 @@ $("#09543075e05f7a66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30414,7 +30326,7 @@ $("#09543075717d665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30458,7 +30370,7 @@ $("#09543075a35b185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30502,7 +30414,7 @@ $("#0954ce91636bb382_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30546,7 +30458,7 @@ $("#207b696df253_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30590,7 +30502,7 @@ $("#ee842b82_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30634,7 +30546,7 @@ $("#e5827e67198bad7d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30678,7 +30590,7 @@ $("#e582ae5b6550e355_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30722,7 +30634,7 @@ $("#f29d3e5cf182004ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30766,7 +30678,7 @@ $("#e965327a30751559635b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30810,7 +30722,7 @@ $("#216eba8f5d5b004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30854,7 +30766,7 @@ $("#216eba8f6854_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30898,7 +30810,7 @@ $("#216eba8f1b734b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣<br>兼内閣府副大臣<br>兼復興副大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30942,7 +30854,7 @@ $("#216eba8f5a535390_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興大臣</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30986,7 +30898,7 @@ $("#216eba8f9c558e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -31030,7 +30942,7 @@ $("#8c5430753f65975b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'></div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -31074,7 +30986,7 @@ $("#8c543075a97f0e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -31118,7 +31030,7 @@ $("#109cf56d0b6d505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣政務官</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
