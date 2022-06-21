@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+7<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -18,13 +19,13 @@
   <meta property="og:title" content="国会採掘 - 石原正敬 議員" />
   <meta property="og:description" content="衆議院 石原正敬 議員（自由民主党）の国会議事録 採掘結果" />
   <meta property="og:site_name" content="国会採掘" />
-  <meta property="og:image" content="https://kokkaisaikutsu.github.io/giin/wordcloud_few_speech.png" />
+  <meta property="og:image" content="https://kokkaisaikutsu.github.io/giin/wordcloud_f3779f53636b6c65.png" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@kokkaisaikutsu" />
   <meta name="twitter:title" content="国会採掘 - 石原正敬議員" />
   <meta name="twitter:description" content="衆議院 石原正敬議員（自由民主党）の国会議事録 採掘結果" />
-  <meta name="twitter:image" content="https://kokkaisaikutsu.github.io/giin/wordcloud_few_speech.png" />
+  <meta name="twitter:image" content="https://kokkaisaikutsu.github.io/giin/wordcloud_f3779f53636b6c65.png" />
 
   <meta property=”fb:app_id” content="2887131144935248">
 
@@ -188,7 +189,7 @@
         <div class="col s12 m12 l12 xl7">
           <div id="giin-wordcloud">
             
-            <img src="./wordcloud_few_speech.png" class='responsive-img'>
+            <img src="./wordcloud_f3779f53636b6c65.png" class='responsive-img'>
           </div>
         </div>    
         <div class="col s12 m8 l8 xl5 offset-m2 offset-l2">
@@ -263,7 +264,7 @@
             <div class="col s4 m4 l4 xl4">院内会派</div>
             <div class="col s6 m7 l7 xl6">
               
-              自民
+              自由民主党
             </div>
           </div>
 
@@ -306,7 +307,7 @@
     </div>
     <div id="feature_words" class="col s12 m12 l10 offset-l1 cyan lighten-5 height-min100">
       <p class="flow-text">
-        発言が少ないため集計できませんでした。
+        発言が少ないため集計できませんでした
       </p>
     </div>
 
@@ -340,6 +341,67 @@
   <script src="../js/materialize.min.js"></script>
   <script src="../js/init.js"></script>
   <script src="../js/my.js"></script>
+  <script type="text/javascript">
+    const date_title = "<h5 class=\"card-panel white padding-5\">$date$</h5>"
+    const remark_html = "<p>$remark$</p>"
+    const devider = "<div class=\"divider\"></div>"
+
+    const target_giin = "f3779f53636b6c65"
+
+
+
+  function show_modal(giin, word, word_plain, post_fix) {
+      $.ajax({
+        url: "../js/" + giin + "/" + giin + "_" + word + ".json",
+        type: "GET",
+        datatype: "json",
+        async: false,
+        cache: false,
+        success: function (data) {
+          const data_stringify = JSON.stringify(data);
+          const data_json = JSON.parse(data_stringify);
+
+          let modal_body_html = ""
+
+          data_json.forEach(date_elm => {
+            modal_body_html += date_title.replace("$date$", date_elm["date"])
+            date_elm["meeting"].forEach(meeting_elm => {
+              meeting_elm["remarks"].forEach(remark_elm => {
+                if (remark_elm["sentence"].length == 0) {
+                  return;
+                }
+
+                remark_url = remark_elm["url"];
+
+                remark_elm["sentence"].forEach(sentence_elm => {
+                  modal_body_html += 
+                  remark_html.replace(
+                    "$remark$", 
+                    sentence_elm.replace(
+                      word_plain, 
+                      "<span style=\"font-weight: bolder;\">" + word_plain + "</span>"
+                    )
+                    + " <a href=\"" + remark_url + "\">"
+                    + "[議事録を見る]"
+                    + "</a>"                      
+
+                  )
+                  modal_body_html += devider
+                })
+              })
+            })
+          });
+
+          $("#" + target_giin + "_" + target_word + "_" + post_fix + "_text").html(
+            modal_body_html
+          )
+        },
+        error: function(xhr, textStatus, errorThrown){
+          alert('Error! ' + textStatus + ' ' + errorThrown + ' ' + giin + '_' + word);
+        }
+      })
+    }
+  </script>
 
   </body>
 </html>
