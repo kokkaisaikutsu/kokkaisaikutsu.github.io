@@ -130,6 +130,50 @@ $("#52972867004e665f_collapsible-header").click(function(){
     // })
 })
 
+$("#5297f65c65502a59_collapsible-header").click(function(){
+    $('#5297f65c65502a59_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/5297f65c65502a59.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/5297f65c65502a59.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#5297f65c65502a59_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/5297f65c65502a59.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#5297f367c14eeb58_collapsible-header").click(function(){
     $('#5297f367c14eeb58_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -362,7 +406,7 @@ $("#648d606ca08ae07a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -570,6 +614,50 @@ $("#42304b307e308c4ece90_collapsible-header").click(function(){
     // })
 })
 
+$("#648d7e676550_collapsible-header").click(function(){
+    $('#648d7e676550_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/648d7e676550.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/648d7e676550.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#648d7e676550_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/648d7e676550.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#648dba5d3f65e28c_collapsible-header").click(function(){
     $('#648dba5d3f65e28c_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -626,7 +714,7 @@ $("#cb79ce916c512090_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -670,7 +758,7 @@ $("#cb794984e28c5f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興大臣<br>福島原発事故再生総括担当[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -714,7 +802,7 @@ $("#cb792c671f772952_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -729,6 +817,50 @@ $("#cb792c671f772952_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/cb792c671f772952.html'>" +
     //         "<img src='giin/wordcloud_cb792c671f772952.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#456d3e5c7661004ece90_collapsible-header").click(function(){
+    $('#456d3e5c7661004ece90_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/456d3e5c7661004ece90.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/456d3e5c7661004ece90.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#456d3e5c7661004ece90_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/456d3e5c7661004ece90.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -1066,7 +1198,7 @@ $("#66754351065c3e54_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -1169,50 +1301,6 @@ $("#895b5490846f_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/895b5490846f.html'>" +
     //         "<img src='giin/wordcloud_895b5490846f.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#b38dcb7ae14f5f4e_collapsible-header").click(function(){
-    $('#b38dcb7ae14f5f4e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/b38dcb7ae14f5f4e.html'>" +
-        "   <img src='giin/wordcloud_b38dcb7ae14f5f4e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/b38dcb7ae14f5f4e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#b38dcb7ae14f5f4e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/b38dcb7ae14f5f4e.html'>" +
-    //         "<img src='giin/wordcloud_b38dcb7ae14f5f4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -1345,50 +1433,6 @@ $("#b38dcb7ab75ef253_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/b38dcb7ab75ef253.html'>" +
     //         "<img src='giin/wordcloud_b38dcb7ab75ef253.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#895b0d504b66094e_collapsible-header").click(function(){
-    $('#895b0d504b66094e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/895b0d504b66094e.html'>" +
-        "   <img src='giin/wordcloud_895b0d504b66094e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/895b0d504b66094e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#895b0d504b66094e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/895b0d504b66094e.html'>" +
-    //         "<img src='giin/wordcloud_895b0d504b66094e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -1714,50 +1758,6 @@ $("#b065a357a6903775_collapsible-header").click(function(){
     // })
 })
 
-$("#09673075b3821f75_collapsible-header").click(function(){
-    $('#09673075b3821f75_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/09673075b3821f75.html'>" +
-        "   <img src='giin/wordcloud_09673075b3821f75.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/09673075b3821f75.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#09673075b3821f75_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/09673075b3821f75.html'>" +
-    //         "<img src='giin/wordcloud_09673075b3821f75.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#09675167bb6c505b_collapsible-header").click(function(){
     $('#09675167bb6c505b_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -1846,6 +1846,50 @@ $("#944e4153505d056e_collapsible-header").click(function(){
     // })
 })
 
+$("#1f75327a4366505b_collapsible-header").click(function(){
+    $('#1f75327a4366505b_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/1f75327a4366505b.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/1f75327a4366505b.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#1f75327a4366505b_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/1f75327a4366505b.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#606c0b4e5353_collapsible-header").click(function(){
     $('#606c0b4e5353_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -1902,7 +1946,7 @@ $("#606c3075734f8696_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣<br>兼内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2034,7 +2078,7 @@ $("#0a4f504f3290004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働副大臣<br>兼内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2254,7 +2298,7 @@ $("#f377954e696dce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣<br>兼内閣府副大臣<br>兼復興副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2298,7 +2342,7 @@ $("#f377954e636b185f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣<br>兼内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -2958,7 +3002,7 @@ $("#c96c3075d588665f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官<br>兼内閣府大臣政務官<br>兼復興大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3078,50 +3122,6 @@ $("#ef780e5dc14e665f_collapsible-header").click(function(){
     // })
 })
 
-$("#025e3075e05fa97f_collapsible-header").click(function(){
-    $('#025e3075e05fa97f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/025e3075e05fa97f.html'>" +
-        "   <img src='giin/wordcloud_025e3075e05fa97f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/025e3075e05fa97f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#025e3075e05fa97f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/025e3075e05fa97f.html'>" +
-    //         "<img src='giin/wordcloud_025e3075e05fa97f.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#004e378cc752004ece90_collapsible-header").click(function(){
     $('#004e378cc752004ece90_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -3222,7 +3222,7 @@ $("#954efa51b85e1f75_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3386,50 +3386,6 @@ $("#0a4fe485e14f2a59ce90_collapsible-header").click(function(){
     // })
 })
 
-$("#0a4fe4855d5b5f6c_collapsible-header").click(function(){
-    $('#0a4fe4855d5b5f6c_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/0a4fe4855d5b5f6c.html'>" +
-        "   <img src='giin/wordcloud_0a4fe4855d5b5f6c.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/0a4fe4855d5b5f6c.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#0a4fe4855d5b5f6c_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/0a4fe4855d5b5f6c.html'>" +
-    //         "<img src='giin/wordcloud_0a4fe4855d5b5f6c.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#0a4fe4855d5b7560_collapsible-header").click(function(){
     $('#0a4fe4855d5b7560_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -3457,6 +3413,50 @@ $("#0a4fe4855d5b7560_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/0a4fe4855d5b7560.html'>" +
     //         "<img src='giin/wordcloud_0a4fe4855d5b7560.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#0a4fe4855d5b5f6c_collapsible-header").click(function(){
+    $('#0a4fe4855d5b5f6c_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/0a4fe4855d5b5f6c.html'>" +
+        "   <img src='giin/wordcloud_0a4fe4855d5b5f6c.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣政務官[現職]</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/0a4fe4855d5b5f6c.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#0a4fe4855d5b5f6c_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/0a4fe4855d5b5f6c.html'>" +
+    //         "<img src='giin/wordcloud_0a4fe4855d5b5f6c.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -3662,7 +3662,7 @@ $("#0a4fe485096e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>財務副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -3926,7 +3926,7 @@ $("#954e0a4eb48c5a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4002,6 +4002,50 @@ $("#954e0a4ef1825d5b_collapsible-header").click(function(){
     // })
 })
 
+$("#954e0a4ea97f4c88_collapsible-header").click(function(){
+    $('#954e0a4ea97f4c88_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/954e0a4ea97f4c88.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/954e0a4ea97f4c88.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#954e0a4ea97f4c88_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/954e0a4ea97f4c88.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#2a73e353a690505b_collapsible-header").click(function(){
     $('#2a73e353a690505b_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -4046,6 +4090,50 @@ $("#2a73e353a690505b_collapsible-header").click(function(){
     // })
 })
 
+$("#2a732c70f476396a_collapsible-header").click(function(){
+    $('#2a732c70f476396a_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/2a732c70f476396a.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/2a732c70f476396a.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#2a732c70f476396a_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/2a732c70f476396a.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#954ece91ca4fce90_collapsible-header").click(function(){
     $('#954ece91ca4fce90_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -4058,7 +4146,7 @@ $("#954ece91ca4fce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛副大臣<br>兼内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4366,7 +4454,7 @@ $("#a95c30758c54aa89_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>経済産業大臣政務官<br>兼内閣府大臣政務官<br>兼復興大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4498,7 +4586,7 @@ $("#a95c2c675b52ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>防衛大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4586,7 +4674,7 @@ $("#0a4e4967198b2a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -4601,6 +4689,50 @@ $("#0a4e4967198b2a59ce90_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/0a4e4967198b2a59ce90.html'>" +
     //         "<img src='giin/wordcloud_0a4e4967198b2a59ce90.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#0a4e3075c752_collapsible-header").click(function(){
+    $('#0a4e3075c752_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/0a4e3075c752.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/0a4e3075c752.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#0a4e3075c752_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/0a4e3075c752.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -4838,6 +4970,50 @@ $("#6e6df65c7a66505b_collapsible-header").click(function(){
     // })
 })
 
+$("#fc81954e636b004e_collapsible-header").click(function(){
+    $('#fc81954e636b004e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/fc81954e636b004e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/fc81954e636b004e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#fc81954e636b004e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/fc81954e636b004e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#53628a8d55304f306f82_collapsible-header").click(function(){
     $('#53628a8d55304f306f82_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -4865,50 +5041,6 @@ $("#53628a8d55304f306f82_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/53628a8d55304f306f82.html'>" +
     //         "<img src='giin/wordcloud_53628a8d55304f306f82.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#875bfd908696f253_collapsible-header").click(function(){
-    $('#875bfd908696f253_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/875bfd908696f253.html'>" +
-        "   <img src='giin/wordcloud_875bfd908696f253.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/875bfd908696f253.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#875bfd908696f253_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/875bfd908696f253.html'>" +
-    //         "<img src='giin/wordcloud_875bfd908696f253.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -5129,50 +5261,6 @@ $("#066f9395728bf853_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/066f9395728bf853.html'>" +
     //         "<img src='giin/wordcloud_066f9395728bf853.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#5f6c0e5d5d5b_collapsible-header").click(function(){
-    $('#5f6c0e5d5d5b_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/5f6c0e5d5d5b.html'>" +
-        "   <img src='giin/wordcloud_5f6c0e5d5d5b.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/5f6c0e5d5d5b.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#5f6c0e5d5d5b_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/5f6c0e5d5d5b.html'>" +
-    //         "<img src='giin/wordcloud_5f6c0e5d5d5b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -5686,7 +5774,7 @@ $("#2759b65b4f65d75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>財務副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5774,7 +5862,7 @@ $("#2759a15c4f655d5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>環境副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -5906,7 +5994,7 @@ $("#2759324e636b396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>デジタル副大臣<br>兼内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6082,7 +6170,7 @@ $("#2a5930753f625f6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣<br>兼内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6346,7 +6434,7 @@ $("#2759ce916c652a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6478,7 +6566,7 @@ $("#a15c3075f476396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府特命担当大臣（沖縄及び北方対策 地方創生 規制改革 クールジャパン戦略 アイヌ施策）<br>デジタル田園都市国家構想担当<br>国際博覧会担当<br>行政改革担当[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -6493,50 +6581,6 @@ $("#a15c3075f476396a_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/a15c3075f476396a.html'>" +
     //         "<img src='giin/wordcloud_a15c3075f476396a.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#a15c3075835e_collapsible-header").click(function(){
-    $('#a15c3075835e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/a15c3075835e.html'>" +
-        "   <img src='giin/wordcloud_a15c3075835e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/a15c3075835e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#a15c3075835e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/a15c3075835e.html'>" +
-    //         "<img src='giin/wordcloud_a15c3075835e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -6686,50 +6730,6 @@ $("#a15c2c67094e1062_collapsible-header").click(function(){
     // })
 })
 
-$("#0f5cdd5d4b51f35d_collapsible-header").click(function(){
-    $('#0f5cdd5d4b51f35d_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/0f5cdd5d4b51f35d.html'>" +
-        "   <img src='giin/wordcloud_0f5cdd5d4b51f35d.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/0f5cdd5d4b51f35d.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#0f5cdd5d4b51f35d_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/0f5cdd5d4b51f35d.html'>" +
-    //         "<img src='giin/wordcloud_0f5cdd5d4b51f35d.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#0f5cdd5df36d5f4e_collapsible-header").click(function(){
     $('#0f5cdd5df36d5f4e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -6757,50 +6757,6 @@ $("#0f5cdd5df36d5f4e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/0f5cdd5df36d5f4e.html'>" +
     //         "<img src='giin/wordcloud_0f5cdd5df36d5f4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#0f5cdd5d4f652b59_collapsible-header").click(function(){
-    $('#0f5cdd5d4f652b59_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/0f5cdd5d4f652b59.html'>" +
-        "   <img src='giin/wordcloud_0f5cdd5d4f652b59.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/0f5cdd5d4f652b59.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#0f5cdd5d4f652b59_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/0f5cdd5d4f652b59.html'>" +
-    //         "<img src='giin/wordcloud_0f5cdd5d4f652b59.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -7006,7 +6962,7 @@ $("#0f5c0950075ce14f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>こども政策担当<br>共生社会担当<br>女性活躍担当<br>孤独・孤立対策担当<br>内閣府特命担当大臣（少子化対策 男女共同参画）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7226,7 +7182,7 @@ $("#0f5c30759f53546f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>外務副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7346,6 +7302,50 @@ $("#8a8d7a668696c496_collapsible-header").click(function(){
     // })
 })
 
+$("#8a8d7a66ca4f4b4e_collapsible-header").click(function(){
+    $('#8a8d7a66ca4f4b4e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/8a8d7a66ca4f4b4e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/8a8d7a66ca4f4b4e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#8a8d7a66ca4f4b4e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/8a8d7a66ca4f4b4e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#3e5cbb8fc079454e_collapsible-header").click(function(){
     $('#3e5cbb8fc079454e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -7446,7 +7446,7 @@ $("#3c9b2867a08a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>防衛副大臣<br>兼内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7578,7 +7578,7 @@ $("#0f5cce913075007d8e7f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7710,7 +7710,7 @@ $("#3e5cab8e1d67505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7918,6 +7918,50 @@ $("#b36c7f898f5b004e_collapsible-header").click(function(){
     // })
 })
 
+$("#b6689f532759cb4e_collapsible-header").click(function(){
+    $('#b6689f532759cb4e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/b6689f532759cb4e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/b6689f532759cb4e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#b6689f532759cb4e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/b6689f532759cb4e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#b668715c185fd75f_collapsible-header").click(function(){
     $('#b668715c185fd75f_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -7974,7 +8018,7 @@ $("#a0523075d5884b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>法務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8094,50 +8138,6 @@ $("#4772715c2759cb4e_collapsible-header").click(function(){
     // })
 })
 
-$("#4772715c4e864b4ea952_collapsible-header").click(function(){
-    $('#4772715c4e864b4ea952_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/4772715c4e864b4ea952.html'>" +
-        "   <img src='giin/wordcloud_4772715c4e864b4ea952.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/4772715c4e864b4ea952.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#4772715c4e864b4ea952_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/4772715c4e864b4ea952.html'>" +
-    //         "<img src='giin/wordcloud_4772715c4e864b4ea952.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#095630753175007d505b_collapsible-header").click(function(){
     $('#095630753175007d505b_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -8238,7 +8238,7 @@ $("#dd52e34f5d5b0e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8314,6 +8314,50 @@ $("#dd52ee76b75e_collapsible-header").click(function(){
     // })
 })
 
+$("#a052e4850e666f82_collapsible-header").click(function(){
+    $('#a052e4850e666f82_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/a052e4850e666f82.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/a052e4850e666f82.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#a052e4850e666f82_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/a052e4850e666f82.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#a052e4858e9b505b_collapsible-header").click(function(){
     $('#a052e4858e9b505b_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -8326,7 +8370,7 @@ $("#a052e4858e9b505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8370,7 +8414,7 @@ $("#a052e485dd52e14f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8458,7 +8502,7 @@ $("#8095715c8f5bf254_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>法務副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8534,50 +8578,6 @@ $("#d191505b75608e7f_collapsible-header").click(function(){
     // })
 })
 
-$("#d191505b9f538c4ece90_collapsible-header").click(function(){
-    $('#d191505b9f538c4ece90_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/d191505b9f538c4ece90.html'>" +
-        "   <img src='giin/wordcloud_d191505b9f538c4ece90.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>農林水産大臣[現職]</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/d191505b9f538c4ece90.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#d191505b9f538c4ece90_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/d191505b9f538c4ece90.html'>" +
-    //         "<img src='giin/wordcloud_d191505b9f538c4ece90.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#d191505bca4f735e_collapsible-header").click(function(){
     $('#d191505bca4f735e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -8590,7 +8590,7 @@ $("#d191505bca4f735e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8622,6 +8622,50 @@ $("#d191505bca4f735e_collapsible-header").click(function(){
     // })
 })
 
+$("#d191505b5390c14e_collapsible-header").click(function(){
+    $('#d191505b5390c14e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/d191505b5390c14e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/d191505b5390c14e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#d191505b5390c14e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/d191505b5390c14e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#d191505b6d604b4e_collapsible-header").click(function(){
     $('#d191505b6d604b4e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -8634,7 +8678,7 @@ $("#d191505b6d604b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>総務大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -8886,6 +8930,50 @@ $("#197d7a66505b_collapsible-header").click(function(){
     // })
 })
 
+$("#5e79378c975b635e_collapsible-header").click(function(){
+    $('#5e79378c975b635e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/5e79378c975b635e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/5e79378c975b635e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#5e79378c975b635e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/5e79378c975b635e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#5e79378cd588_collapsible-header").click(function(){
     $('#5e79378cd588_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -8913,6 +9001,50 @@ $("#5e79378cd588_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/5e79378cd588.html'>" +
     //         "<img src='giin/wordcloud_5e79378cd588.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#5e79378c3f65785e_collapsible-header").click(function(){
+    $('#5e79378c3f65785e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/5e79378c3f65785e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/5e79378c3f65785e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#5e79378c3f65785e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/5e79378c3f65785e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -9326,6 +9458,50 @@ $("#c583f476ba4e_collapsible-header").click(function(){
     // })
 })
 
+$("#ac30fc30b730fc30_collapsible-header").click(function(){
+    $('#ac30fc30b730fc30_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/ac30fc30b730fc30.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/ac30fc30b730fc30.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#ac30fc30b730fc30_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/ac30fc30b730fc30.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#ce57954e075d_collapsible-header").click(function(){
     $('#ce57954e075d_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -9426,7 +9602,7 @@ $("#c49edd5d3075c14ed75f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9514,7 +9690,7 @@ $("#b85c30758765c496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣<br>外務大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9558,7 +9734,7 @@ $("#b85ce14f2b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>防衛大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（国家安全保障に関する重要政策及び核軍縮・不拡散問題担当）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -9617,50 +9793,6 @@ $("#b85c1f77007d505b_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/b85c1f77007d505b.html'>" +
     //         "<img src='giin/wordcloud_b85c1f77007d505b.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#b85c2c676854735e_collapsible-header").click(function(){
-    $('#b85c2c676854735e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/b85c2c676854735e.html'>" +
-        "   <img src='giin/wordcloud_b85c2c676854735e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/b85c2c676854735e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#b85c2c676854735e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/b85c2c676854735e.html'>" +
-    //         "<img src='giin/wordcloud_b85c2c676854735e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -9854,50 +9986,6 @@ $("#175351674c7d2b59_collapsible-header").click(function(){
     // })
 })
 
-$("#28673862e353f182f853_collapsible-header").click(function(){
-    $('#28673862e353f182f853_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/28673862e353f182f853.html'>" +
-        "   <img src='giin/wordcloud_28673862e353f182f853.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/28673862e353f182f853.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#28673862e353f182f853_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/28673862e353f182f853.html'>" +
-    //         "<img src='giin/wordcloud_28673862e353f182f853.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#28679f53a08a8c4e_collapsible-header").click(function(){
     $('#28679f53a08a8c4e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -9910,7 +9998,7 @@ $("#28679f53a08a8c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣官房副長官<br>内閣総理大臣補佐官（国家安全保障に関する重要政策担当）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣官房副長官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10042,7 +10130,7 @@ $("#28675167216bce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣政務官<br>兼内閣府大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10250,6 +10338,94 @@ $("#e5650b4e636b9c55_collapsible-header").click(function(){
     // })
 })
 
+$("#324e3075a08a004e_collapsible-header").click(function(){
+    $('#324e3075a08a004e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/324e3075a08a004e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/324e3075a08a004e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#324e3075a08a004e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/324e3075a08a004e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#db6a156e074ecc91_collapsible-header").click(function(){
+    $('#db6a156e074ecc91_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/db6a156e074ecc91.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/db6a156e074ecc91.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#db6a156e074ecc91_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/db6a156e074ecc91.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#e55de485705f094e_collapsible-header").click(function(){
     $('#e55de485705f094e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -10306,7 +10482,7 @@ $("#fd569a5bc752ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10394,7 +10570,7 @@ $("#fd564951423084306e30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10409,6 +10585,50 @@ $("#fd564951423084306e30_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/fd564951423084306e30.html'>" +
     //         "<img src='giin/wordcloud_fd564951423084306e30.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#aa7a3075f2545f4e_collapsible-header").click(function(){
+    $('#aa7a3075f2545f4e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/aa7a3075f2545f4e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/aa7a3075f2545f4e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#aa7a3075f2545f4e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/aa7a3075f2545f4e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -10526,7 +10746,7 @@ $("#8a71ce91636beb58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>農林水産大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10585,50 +10805,6 @@ $("#095097670e66505b_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/095097670e66505b.html'>" +
     //         "<img src='giin/wordcloud_095097670e66505b.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#e190f853705f_collapsible-header").click(function(){
-    $('#e190f853705f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/e190f853705f.html'>" +
-        "   <img src='giin/wordcloud_e190f853705f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/e190f853705f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#e190f853705f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/e190f853705f.html'>" +
-    //         "<img src='giin/wordcloud_e190f853705f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -10966,7 +11142,7 @@ $("#b36cce912a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>デジタル大臣<br>内閣府特命担当大臣（デジタル改革 消費者及び食品安全）<br>国家公務員制度担当[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11010,7 +11186,7 @@ $("#d89a5167636b2759_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>財務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11054,7 +11230,7 @@ $("#e453c08ce47b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>厚生労働副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11069,6 +11245,50 @@ $("#e453c08ce47b_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/e453c08ce47b.html'>" +
     //         "<img src='giin/wordcloud_e453c08ce47b.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#e453c08c43536f66_collapsible-header").click(function(){
+    $('#e453c08c43536f66_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/e453c08c43536f66.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/e453c08c43536f66.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#e453c08c43536f66_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/e453c08c43536f66.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -11274,7 +11494,7 @@ $("#0f5cf65c4f658765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11350,6 +11570,50 @@ $("#3f8f346c7560004e_collapsible-header").click(function(){
     // })
 })
 
+$("#e453845e8473e577_collapsible-header").click(function(){
+    $('#e453845e8473e577_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/e453845e8473e577.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/e453845e8473e577.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#e453845e8473e577_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/e453845e8473e577.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#0f5cfa5bd588c496_collapsible-header").click(function(){
     $('#0f5cfa5bd588c496_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -11362,7 +11626,7 @@ $("#0f5cfa5bd588c496_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11406,7 +11670,7 @@ $("#8c5fe48502834b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11570,6 +11834,50 @@ $("#0f5c7f890b6d4b4e_collapsible-header").click(function(){
     // })
 })
 
+$("#0f5c9767004e2759_collapsible-header").click(function(){
+    $('#0f5c9767004e2759_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/0f5c9767004e2759.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/0f5c9767004e2759.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#0f5c9767004e2759_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/0f5c9767004e2759.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#0f5c97670283396a_collapsible-header").click(function(){
     $('#0f5c97670283396a_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -11582,7 +11890,7 @@ $("#0f5c97670283396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境副大臣<br>兼内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11626,7 +11934,7 @@ $("#0f5c9767f99d4b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>経済安全保障担当<br>内閣府特命担当大臣（科学技術政策 宇宙政策）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11670,7 +11978,7 @@ $("#0f5c9767f2530e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>デジタル副大臣<br>兼内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11685,50 +11993,6 @@ $("#0f5c9767f2530e66_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/0f5c9767f2530e66.html'>" +
     //         "<img src='giin/wordcloud_0f5c9767f2530e66.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#0f5c9767636b2b59_collapsible-header").click(function(){
-    $('#0f5c9767636b2b59_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/0f5c9767636b2b59.html'>" +
-        "   <img src='giin/wordcloud_0f5c9767636b2b59.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/0f5c9767636b2b59.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#0f5c9767636b2b59_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/0f5c9767636b2b59.html'>" +
-    //         "<img src='giin/wordcloud_0f5c9767636b2b59.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -12110,7 +12374,7 @@ $("#8965e48544922b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>国土交通大臣<br>水循環政策担当[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣<br>水循環政策担当<br>国際園芸博覧会担当[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12990,7 +13254,7 @@ $("#cc918b898696bb6c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣政務官<br>兼内閣府大臣政務官<br>兼復興大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13550,6 +13814,50 @@ $("#e07b9f535d5b_collapsible-header").click(function(){
     // })
 })
 
+$("#f4673c61004e_collapsible-header").click(function(){
+    $('#f4673c61004e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/f4673c61004e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/f4673c61004e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#f4673c61004e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/f4673c61004e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#f4673075e75d_collapsible-header").click(function(){
     $('#f4673075e75d_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -13577,50 +13885,6 @@ $("#f4673075e75d_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/f4673075e75d.html'>" +
     //         "<img src='giin/wordcloud_f4673075e75d.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#9d825a53004e_collapsible-header").click(function(){
-    $('#9d825a53004e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/9d825a53004e.html'>" +
-        "   <img src='giin/wordcloud_9d825a53004e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/9d825a53004e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#9d825a53004e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/9d825a53004e.html'>" +
-    //         "<img src='giin/wordcloud_9d825a53004e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -13738,7 +14002,7 @@ $("#f65c51672759_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣政務官<br>兼内閣府大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13826,7 +14090,7 @@ $("#056e346c1f77ba4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -13870,7 +14134,7 @@ $("#ea818b896f306a305330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14298,6 +14562,50 @@ $("#9b694984c08c256d5f4e_collapsible-header").click(function(){
     // })
 })
 
+$("#346c53904b6a5a53eb58_collapsible-header").click(function(){
+    $('#346c53904b6a5a53eb58_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/346c53904b6a5a53eb58.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/346c53904b6a5a53eb58.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#346c53904b6a5a53eb58_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/346c53904b6a5a53eb58.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#2b67216bbe7c004e_collapsible-header").click(function(){
     $('#2b67216bbe7c004e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -14354,7 +14662,7 @@ $("#2b677e67e14fcb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>文部科学大臣<br>教育再生担当[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14530,7 +14838,7 @@ $("#49673075346c0881_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14706,7 +15014,7 @@ $("#34922867f1826c65_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -14882,7 +15190,7 @@ $("#34922867b48c505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>外務副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15398,50 +15706,6 @@ $("#9785666d65502a59ce90_collapsible-header").click(function(){
     // })
 })
 
-$("#5d306e306030ee4f4951_collapsible-header").click(function(){
-    $('#5d306e306030ee4f4951_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/5d306e306030ee4f4951.html'>" +
-        "   <img src='giin/wordcloud_5d306e306030ee4f4951.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/5d306e306030ee4f4951.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#5d306e306030ee4f4951_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/5d306e306030ee4f4951.html'>" +
-    //         "<img src='giin/wordcloud_5d306e306030ee4f4951.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#7a7a2c67a08a9c55_collapsible-header").click(function(){
     $('#7a7a2c67a08a9c55_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -15469,50 +15733,6 @@ $("#7a7a2c67a08a9c55_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/7a7a2c67a08a9c55.html'>" +
     //         "<img src='giin/wordcloud_7a7a2c67a08a9c55.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#275980959f5b007df253_collapsible-header").click(function(){
-    $('#275980959f5b007df253_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/275980959f5b007df253.html'>" +
-        "   <img src='giin/wordcloud_275980959f5b007df253.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/275980959f5b007df253.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#275980959f5b007df253_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/275980959f5b007df253.html'>" +
-    //         "<img src='giin/wordcloud_275980959f5b007df253.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -15586,7 +15806,7 @@ $("#d89a025ee965d782_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済安全保障担当<br>内閣府特命担当大臣（知的財産戦略 科学技術政策 宇宙政策 経済安全保障）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15838,6 +16058,50 @@ $("#d89a28678f5bfd58_collapsible-header").click(function(){
     // })
 })
 
+$("#d89a28671f770674_collapsible-header").click(function(){
+    $('#d89a28671f770674_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/d89a28671f770674.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/d89a28671f770674.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#d89a28671f770674_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/d89a28671f770674.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#d89a28677d96cb4e_collapsible-header").click(function(){
     $('#d89a28677d96cb4e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -15865,50 +16129,6 @@ $("#d89a28677d96cb4e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/d89a28677d96cb4e.html'>" +
     //         "<img src='giin/wordcloud_d89a28677d96cb4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#d89a2c70185f8e7f_collapsible-header").click(function(){
-    $('#d89a2c70185f8e7f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/d89a2c70185f8e7f.html'>" +
-        "   <img src='giin/wordcloud_d89a2c70185f8e7f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/d89a2c70185f8e7f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#d89a2c70185f8e7f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/d89a2c70185f8e7f.html'>" +
-    //         "<img src='giin/wordcloud_d89a2c70185f8e7f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -16114,7 +16334,7 @@ $("#d89a4b6a6f308b307f30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>文部科学大臣政務官<br>兼内閣府大臣政務官<br>兼復興大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16246,7 +16466,7 @@ $("#d89a8b89b75ed588_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>法務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16466,7 +16686,7 @@ $("#666b954eca4f148f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16481,50 +16701,6 @@ $("#666b954eca4f148f_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/666b954eca4f148f.html'>" +
     //         "<img src='giin/wordcloud_666b954eca4f148f.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#f97a85519f52_collapsible-header").click(function(){
-    $('#f97a85519f52_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/f97a85519f52.html'>" +
-        "   <img src='giin/wordcloud_f97a85519f52.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/f97a85519f52.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#f97a85519f52_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/f97a85519f52.html'>" +
-    //         "<img src='giin/wordcloud_f97a85519f52.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -16630,50 +16806,6 @@ $("#f97a8551728b_collapsible-header").click(function(){
     // })
 })
 
-$("#666b30756f82cb4e_collapsible-header").click(function(){
-    $('#666b30756f82cb4e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/666b30756f82cb4e.html'>" +
-        "   <img src='giin/wordcloud_666b30756f82cb4e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/666b30756f82cb4e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#666b30756f82cb4e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/666b30756f82cb4e.html'>" +
-    //         "<img src='giin/wordcloud_666b30756f82cb4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#666b30756f822a59_collapsible-header").click(function(){
     $('#666b30756f822a59_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -16718,6 +16850,50 @@ $("#666b30756f822a59_collapsible-header").click(function(){
     // })
 })
 
+$("#f97a708ac14e_collapsible-header").click(function(){
+    $('#f97a708ac14e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/f97a708ac14e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/f97a708ac14e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#f97a708ac14e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/f97a708ac14e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#666be890b065_collapsible-header").click(function(){
     $('#666be890b065_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -16730,7 +16906,7 @@ $("#666be890b065_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>農林水産副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16862,7 +17038,7 @@ $("#f97a378c68305730505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17170,7 +17346,7 @@ $("#30752d4ef1824b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17478,7 +17654,7 @@ $("#378c6c51004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国家公安委員会委員長<br>国土強靱化担当<br>領土問題担当<br>内閣府特命担当大臣（防災 海洋政策）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17566,7 +17742,7 @@ $("#30755175d5880e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>総務副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17874,7 +18050,7 @@ $("#d8670d69b3828765_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17962,7 +18138,7 @@ $("#256df65cf36d_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>法務副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -17977,6 +18153,50 @@ $("#256df65cf36d_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/256df65cf36d.html'>" +
     //         "<img src='giin/wordcloud_256df65cf36d.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#bb8f4351056e8e7f_collapsible-header").click(function(){
+    $('#bb8f4351056e8e7f_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/bb8f4351056e8e7f.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/bb8f4351056e8e7f.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#bb8f4351056e8e7f_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/bb8f4351056e8e7f.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -18358,7 +18578,7 @@ $("#fa5b3075147a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18373,6 +18593,50 @@ $("#fa5b3075147a_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/fa5b3075147a.html'>" +
     //         "<img src='giin/wordcloud_fa5b3075147a.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#295960752759148f_collapsible-header").click(function(){
+    $('#295960752759148f_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/295960752759148f.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/295960752759148f.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#295960752759148f_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/295960752759148f.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -18478,6 +18742,50 @@ $("#025845650283_collapsible-header").click(function(){
     // })
 })
 
+$("#0258bc8fbb9e007d505b_collapsible-header").click(function(){
+    $('#0258bc8fbb9e007d505b_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/0258bc8fbb9e007d505b.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/0258bc8fbb9e007d505b.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#0258bc8fbb9e007d505b_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/0258bc8fbb9e007d505b.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#216e776d007d094e1767_collapsible-header").click(function(){
     $('#216e776d007d094e1767_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -18534,7 +18842,7 @@ $("#a8512b6a5a534b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>復興副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18549,50 +18857,6 @@ $("#a8512b6a5a534b4e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/a8512b6a5a534b4e.html'>" +
     //         "<img src='giin/wordcloud_a8512b6a5a534b4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#b35f0283c5964b4e_collapsible-header").click(function(){
-    $('#b35f0283c5964b4e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/b35f0283c5964b4e.html'>" +
-        "   <img src='giin/wordcloud_b35f0283c5964b4e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/b35f0283c5964b4e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#b35f0283c5964b4e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/b35f0283c5964b4e.html'>" +
-    //         "<img src='giin/wordcloud_b35f0283c5964b4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -18698,6 +18962,50 @@ $("#b35f386c454ed75f_collapsible-header").click(function(){
     // })
 })
 
+$("#cb530d7d0674d27d_collapsible-header").click(function(){
+    $('#cb530d7d0674d27d_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/cb530d7d0674d27d.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/cb530d7d0674d27d.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#cb530d7d0674d27d_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/cb530d7d0674d27d.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#4a8c3075ca4fce90_collapsible-header").click(function(){
     $('#4a8c3075ca4fce90_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -18710,7 +19018,7 @@ $("#4a8c3075ca4fce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18725,6 +19033,50 @@ $("#4a8c3075ca4fce90_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/4a8c3075ca4fce90.html'>" +
     //         "<img src='giin/wordcloud_4a8c3075ca4fce90.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#386c954e665b_collapsible-header").click(function(){
+    $('#386c954e665b_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/386c954e665b.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/386c954e665b.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#386c954e665b_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/386c954e665b.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -18798,7 +19150,7 @@ $("#386ca15c4268505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣<br>教育未来創造担当[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18842,7 +19194,7 @@ $("#2d4edd5db48c4351_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18945,50 +19297,6 @@ $("#2d4edd5d636b2566_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/2d4edd5d636b2566.html'>" +
     //         "<img src='giin/wordcloud_2d4edd5d636b2566.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#2d4edd5dc596bb6c_collapsible-header").click(function(){
-    $('#2d4edd5dc596bb6c_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/2d4edd5dc596bb6c.html'>" +
-        "   <img src='giin/wordcloud_2d4edd5dc596bb6c.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/2d4edd5dc596bb6c.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#2d4edd5dc596bb6c_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/2d4edd5dc596bb6c.html'>" +
-    //         "<img src='giin/wordcloud_2d4edd5dc596bb6c.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -19226,6 +19534,50 @@ $("#2d4ef65c4b51c14e_collapsible-header").click(function(){
     // })
 })
 
+$("#2d4e61674d3088305730_collapsible-header").click(function(){
+    $('#2d4e61674d3088305730_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/2d4e61674d3088305730.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/2d4e61674d3088305730.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#2d4e61674d3088305730_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/2d4e61674d3088305730.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#2d4efd663968185f8765_collapsible-header").click(function(){
     $('#2d4efd663968185f8765_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -19370,7 +19722,7 @@ $("#2d4e378c4351_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（国際人権問題担当）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19414,7 +19766,7 @@ $("#2d4e378c1f77004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣<br>兼内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19429,6 +19781,50 @@ $("#2d4e378c1f77004e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/2d4e378c1f77004e.html'>" +
     //         "<img src='giin/wordcloud_2d4e378c1f77004e.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#2d4e30758f5b_collapsible-header").click(function(){
+    $('#2d4e30758f5b_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/2d4e30758f5b.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/2d4e30758f5b.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#2d4e30758f5b_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/2d4e30758f5b.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -19622,50 +20018,6 @@ $("#2d4e7f896550bb6c_collapsible-header").click(function(){
     // })
 })
 
-$("#2d4e7f89f254_collapsible-header").click(function(){
-    $('#2d4e7f89f254_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/2d4e7f89f254.html'>" +
-        "   <img src='giin/wordcloud_2d4e7f89f254.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/2d4e7f89f254.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#2d4e7f89f254_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/2d4e7f89f254.html'>" +
-    //         "<img src='giin/wordcloud_2d4e7f89f254.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#2d4e7f895079cb4e_collapsible-header").click(function(){
     $('#2d4e7f895079cb4e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -19678,7 +20030,7 @@ $("#2d4e7f895079cb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>総務副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19766,7 +20118,7 @@ $("#2d4ece91f182785e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官<br>兼復興大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19898,7 +20250,7 @@ $("#7795ef5ca08a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣政務官<br>兼内閣府大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -19986,7 +20338,7 @@ $("#2d4e5167d5884b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>農林水産副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20030,7 +20382,7 @@ $("#2d4e715c555c8f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20045,94 +20397,6 @@ $("#2d4e715c555c8f5b_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/2d4e715c555c8f5b.html'>" +
     //         "<img src='giin/wordcloud_2d4e715c555c8f5b.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#a390378c4b5c636ba97f_collapsible-header").click(function(){
-    $('#a390378c4b5c636ba97f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/a390378c4b5c636ba97f.html'>" +
-        "   <img src='giin/wordcloud_a390378c4b5c636ba97f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/a390378c4b5c636ba97f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#a390378c4b5c636ba97f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/a390378c4b5c636ba97f.html'>" +
-    //         "<img src='giin/wordcloud_a390378c4b5c636ba97f.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#e396e26c68598c4e_collapsible-header").click(function(){
-    $('#e396e26c68598c4e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/e396e26c68598c4e.html'>" +
-        "   <img src='giin/wordcloud_e396e26c68598c4e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/e396e26c68598c4e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#e396e26c68598c4e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/e396e26c68598c4e.html'>" +
-    //         "<img src='giin/wordcloud_e396e26c68598c4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -20326,50 +20590,6 @@ $("#7f89a15cc079505b_collapsible-header").click(function(){
     // })
 })
 
-$("#7f8930752d668c4e_collapsible-header").click(function(){
-    $('#7f8930752d668c4e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/7f8930752d668c4e.html'>" +
-        "   <img src='giin/wordcloud_7f8930752d668c4e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/7f8930752d668c4e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#7f8930752d668c4e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/7f8930752d668c4e.html'>" +
-    //         "<img src='giin/wordcloud_7f8930752d668c4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#7f8930750c66f853_collapsible-header").click(function(){
     $('#7f8930750c66f853_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -20397,6 +20617,50 @@ $("#7f8930750c66f853_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/7f8930750c66f853.html'>" +
     //         "<img src='giin/wordcloud_7f8930750c66f853.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#7f8930752d668c4e_collapsible-header").click(function(){
+    $('#7f8930752d668c4e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/7f8930752d668c4e.html'>" +
+        "   <img src='giin/wordcloud_7f8930752d668c4e.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官<br>兼内閣府大臣政務官<br>兼復興大臣政務官[現職]</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/7f8930752d668c4e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#7f8930752d668c4e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/7f8930752d668c4e.html'>" +
+    //         "<img src='giin/wordcloud_7f8930752d668c4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -20514,7 +20778,7 @@ $("#7f8951670e668f5b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣<br>内閣府特命担当大臣（原子力防災）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20602,7 +20866,7 @@ $("#7f895167b75e147a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済産業大臣<br>原子力経済被害担当<br>ＧＸ実行推進担当<br>産業競争力担当<br>ロシア経済分野協力担当<br>内閣府特命担当大臣（原子力損害賠償・廃炉等支援機構）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20646,7 +20910,7 @@ $("#7f8998925260094ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>復興大臣<br>福島原発事故再生総括担当<br>内閣府特命担当大臣（沖縄及び北方対策）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -20678,33 +20942,33 @@ $("#7f8998925260094ece90_collapsible-header").click(function(){
     // })
 })
 
-$("#8c4e4b4e6f6e7a66_collapsible-header").click(function(){
-    $('#8c4e4b4e6f6e7a66_collapsible-body').empty().append(
+$("#c14ed46b6180735e_collapsible-header").click(function(){
+    $('#c14ed46b6180735e_collapsible-body').empty().append(
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/8c4e4b4e6f6e7a66.html'>" +
-        "   <img src='giin/wordcloud_8c4e4b4e6f6e7a66.png' class='responsive-img'>" +
+        "  <a href='giin/c14ed46b6180735e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>国家公安委員会委員長<br>国土強靱化担当<br>領土問題担当<br>国家公務員制度担当<br>内閣府特命担当大臣（防災 海洋政策）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
     )
-    // $.ajax("giin/8c4e4b4e6f6e7a66.html", {
+    // $.ajax("giin/c14ed46b6180735e.html", {
     //     timeout : 1000, // 1000 ms
     //     datatype:'html'
     // }).then(function(data){
     //     var out_html = $($.parseHTML(data));//parse
-    //     $('#8c4e4b4e6f6e7a66_collapsible-body').empty().append(
+    //     $('#c14ed46b6180735e_collapsible-body').empty().append(
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/8c4e4b4e6f6e7a66.html'>" +
-    //         "<img src='giin/wordcloud_8c4e4b4e6f6e7a66.png' class='responsive-img'>" +
+    //         "<a href='giin/c14ed46b6180735e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -20998,7 +21262,7 @@ $("#ce9130755680505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣府特命担当大臣（地方創生 少子化対策 男女共同参画）<br>女性活躍担当<br>こども政策担当<br>孤独・孤立対策担当[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21086,7 +21350,7 @@ $("#ce912d4e9a53_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21174,7 +21438,7 @@ $("#ce915167f254ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21262,7 +21526,7 @@ $("#29841f7530754951004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>経済産業大臣<br>産業競争力担当<br>ロシア経済分野協力担当<br>原子力経済被害担当<br>内閣府特命担当大臣（原子力損害賠償・廃炉等支援機構）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21277,50 +21541,6 @@ $("#29841f7530754951004e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/29841f7530754951004e.html'>" +
     //         "<img src='giin/wordcloud_29841f7530754951004e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#7d761e77f252_collapsible-header").click(function(){
-    $('#7d761e77f252_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/7d761e77f252.html'>" +
-        "   <img src='giin/wordcloud_7d761e77f252.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/7d761e77f252.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#7d761e77f252_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/7d761e77f252.html'>" +
-    //         "<img src='giin/wordcloud_7d761e77f252.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -21514,6 +21734,50 @@ $("#7795378cdd5df36d8c4e_collapsible-header").click(function(){
     // })
 })
 
+$("#7795378cdd5df1827466_collapsible-header").click(function(){
+    $('#7795378cdd5df1827466_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/7795378cdd5df1827466.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/7795378cdd5df1827466.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#7795378cdd5df1827466_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/7795378cdd5df1827466.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#bd7f3075216bce90_collapsible-header").click(function(){
     $('#bd7f3075216bce90_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -21558,50 +21822,6 @@ $("#bd7f3075216bce90_collapsible-header").click(function(){
     // })
 })
 
-$("#629242540954c496_collapsible-header").click(function(){
-    $('#629242540954c496_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/629242540954c496.html'>" +
-        "   <img src='giin/wordcloud_629242540954c496.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/629242540954c496.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#629242540954c496_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/629242540954c496.html'>" +
-    //         "<img src='giin/wordcloud_629242540954c496.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#e99c715c8c4ece90_collapsible-header").click(function(){
     $('#e99c715c8c4ece90_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -21614,7 +21834,7 @@ $("#e99c715c8c4ece90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21702,7 +21922,7 @@ $("#bd7f1f753075ca4f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21954,50 +22174,6 @@ $("#5c6d30756180_collapsible-header").click(function(){
     // })
 })
 
-$("#5c6d30750c666f82_collapsible-header").click(function(){
-    $('#5c6d30750c666f82_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/5c6d30750c666f82.html'>" +
-        "   <img src='giin/wordcloud_5c6d30750c666f82.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/5c6d30750c666f82.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#5c6d30750c666f82_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/5c6d30750c666f82.html'>" +
-    //         "<img src='giin/wordcloud_5c6d30750c666f82.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#5c6d30755697004e_collapsible-header").click(function(){
     $('#5c6d30755697004e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -22010,7 +22186,7 @@ $("#5c6d30755697004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>防衛大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22230,7 +22406,7 @@ $("#9767b382636b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -22702,6 +22878,50 @@ $("#735e715c504fe577505b_collapsible-header").click(function(){
     // })
 })
 
+$("#835e2c70813050307f30_collapsible-header").click(function(){
+    $('#835e2c70813050307f30_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/835e2c70813050307f30.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/835e2c70813050307f30.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#835e2c70813050307f30_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/835e2c70813050307f30.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#f16da46f7d96004e_collapsible-header").click(function(){
     $('#f16da46f7d96004e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -23054,6 +23274,50 @@ $("#8f79715cf254ce90_collapsible-header").click(function(){
     // })
 })
 
+$("#e485954e004e5a53_collapsible-header").click(function(){
+    $('#e485954e004e5a53_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/e485954e004e5a53.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/e485954e004e5a53.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#e485954e004e5a53_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/e485954e004e5a53.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#e485954ed46be9654b4e_collapsible-header").click(function(){
     $('#e485954ed46be9654b4e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -23081,50 +23345,6 @@ $("#e485954ed46be9654b4e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/e485954ed46be9654b4e.html'>" +
     //         "<img src='giin/wordcloud_e485954ed46be9654b4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#e485954efa574b4e_collapsible-header").click(function(){
-    $('#e485954efa574b4e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/e485954efa574b4e.html'>" +
-        "   <img src='giin/wordcloud_e485954efa574b4e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/e485954efa574b4e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#e485954efa574b4e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/e485954efa574b4e.html'>" +
-    //         "<img src='giin/wordcloud_e485954efa574b4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -23242,7 +23462,7 @@ $("#e48528671e775f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>農林水産大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23257,50 +23477,6 @@ $("#e48528671e775f4e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/e48528671e775f4e.html'>" +
     //         "<img src='giin/wordcloud_e48528671e775f4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#e4852b676550094e_collapsible-header").click(function(){
-    $('#e4852b676550094e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/e4852b676550094e.html'>" +
-        "   <img src='giin/wordcloud_e4852b676550094e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/e4852b676550094e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#e4852b676550094e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/e4852b676550094e.html'>" +
-    //         "<img src='giin/wordcloud_e4852b676550094e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -23418,7 +23594,7 @@ $("#e485384e4f65_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23626,6 +23802,50 @@ $("#398230754351_collapsible-header").click(function(){
     // })
 })
 
+$("#39824b6a29529f5b_collapsible-header").click(function(){
+    $('#39824b6a29529f5b_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/39824b6a29529f5b.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/39824b6a29529f5b.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#39824b6a29529f5b_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/39824b6a29529f5b.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#1f82715cb75e5f6c_collapsible-header").click(function(){
     $('#1f82715cb75e5f6c_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -23814,7 +24034,7 @@ $("#e453dd5db75e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>国土交通大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23858,7 +24078,7 @@ $("#e453dd5d8e79454e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>法務大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -23990,7 +24210,7 @@ $("#427a4257f06c_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>環境大臣政務官<br>兼内閣府大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24034,7 +24254,7 @@ $("#1f66ce915b52eb58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24066,6 +24286,50 @@ $("#1f66ce915b52eb58_collapsible-header").click(function(){
     // })
 })
 
+$("#1f6617539765_collapsible-header").click(function(){
+    $('#1f6617539765_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/1f6617539765.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/1f6617539765.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#1f6617539765_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/1f6617539765.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#307d30756550004e_collapsible-header").click(function(){
     $('#307d30756550004e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -24078,7 +24342,7 @@ $("#307d30756550004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>経済産業副大臣<br>兼内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24342,7 +24606,7 @@ $("#00588551548a505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>東京オリンピック競技大会・東京パラリンピック競技大会担当<br>ワクチン接種推進担当[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24474,7 +24738,7 @@ $("#2c6730755598505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>厚生労働大臣政務官<br>兼内閣府大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24518,7 +24782,7 @@ $("#2c6730752a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24694,7 +24958,7 @@ $("#6772f65c4b308c309330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>デジタル大臣<br>行政改革担当<br>内閣府特命担当大臣（規制改革）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -24902,50 +25166,6 @@ $("#6772a97f2b59_collapsible-header").click(function(){
     // })
 })
 
-$("#9758505b1d8f665f_collapsible-header").click(function(){
-    $('#9758505b1d8f665f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/9758505b1d8f665f.html'>" +
-        "   <img src='giin/wordcloud_9758505b1d8f665f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/9758505b1d8f665f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#9758505b1d8f665f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/9758505b1d8f665f.html'>" +
-    //         "<img src='giin/wordcloud_9758505b1d8f665f.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#7e67dd5d8b304430_collapsible-header").click(function(){
     $('#7e67dd5d8b304430_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -25017,6 +25237,50 @@ $("#7e6728675130933053304630_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/7e6728675130933053304630.html'>" +
     //         "<img src='giin/wordcloud_7e6728675130933053304630.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#7e67a26c10628765_collapsible-header").click(function(){
+    $('#7e67a26c10628765_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/7e67a26c10628765.html'>" +
+        "   <img src='giin/wordcloud_7e67a26c10628765.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/7e67a26c10628765.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#7e67a26c10628765_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/7e67a26c10628765.html'>" +
+    //         "<img src='giin/wordcloud_7e67a26c10628765.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -25122,6 +25386,50 @@ $("#7e67f65c7f3069308a30_collapsible-header").click(function(){
     // })
 })
 
+$("#7e67ce910e668e7f_collapsible-header").click(function(){
+    $('#7e67ce910e668e7f_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/7e67ce910e668e7f.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/7e67ce910e668e7f.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#7e67ce910e668e7f_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/7e67ce910e668e7f.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#7e67ce915a53004e_collapsible-header").click(function(){
     $('#7e67ce915a53004e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -25134,7 +25442,7 @@ $("#7e67ce915a53004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣官房長官<br>沖縄基地負担軽減担当<br>拉致問題担当[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣官房長官<br>沖縄基地負担軽減担当<br>拉致問題担当<br>ワクチン接種推進担当[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25474,50 +25782,6 @@ $("#ac99f56d846f2b59_collapsible-header").click(function(){
     // })
 })
 
-$("#1f77715cc752004e_collapsible-header").click(function(){
-    $('#1f77715cc752004e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/1f77715cc752004e.html'>" +
-        "   <img src='giin/wordcloud_1f77715cc752004e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/1f77715cc752004e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#1f77715cc752004e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/1f77715cc752004e.html'>" +
-    //         "<img src='giin/wordcloud_1f77715cc752004e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#384edd5de073e34e_collapsible-header").click(function(){
     $('#384edd5de073e34e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -25618,7 +25882,7 @@ $("#094e666d5697_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25633,6 +25897,50 @@ $("#094e666d5697_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/094e666d5697.html'>" +
     //         "<img src='giin/wordcloud_094e666d5697.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#094e0a4e48308a30_collapsible-header").click(function(){
+    $('#094e0a4e48308a30_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/094e0a4e48308a30.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/094e0a4e48308a30.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#094e0a4e48308a30_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/094e0a4e48308a30.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -25826,12 +26134,12 @@ $("#346ca15cca4f004e_collapsible-header").click(function(){
     // })
 })
 
-$("#346c3d844f650468_collapsible-header").click(function(){
-    $('#346c3d844f650468_collapsible-body').empty().append(
+$("#346cce91207d505b_collapsible-header").click(function(){
+    $('#346cce91207d505b_collapsible-body').empty().append(
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/346c3d844f650468.html'>" +
-        "   <img src='giin/wordcloud_346c3d844f650468.png' class='responsive-img'>" +
+        "  <a href='giin/346cce91207d505b.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -25843,16 +26151,16 @@ $("#346c3d844f650468_collapsible-header").click(function(){
         " </div>" +
         "</div>"
     )
-    // $.ajax("giin/346c3d844f650468.html", {
+    // $.ajax("giin/346cce91207d505b.html", {
     //     timeout : 1000, // 1000 ms
     //     datatype:'html'
     // }).then(function(data){
     //     var out_html = $($.parseHTML(data));//parse
-    //     $('#346c3d844f650468_collapsible-body').empty().append(
+    //     $('#346cce91207d505b_collapsible-body').empty().append(
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/346c3d844f650468.html'>" +
-    //         "<img src='giin/wordcloud_346c3d844f650468.png' class='responsive-img'>" +
+    //         "<a href='giin/346cce91207d505b.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -26322,7 +26630,7 @@ $("#094e855b384f3e54_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26366,7 +26674,7 @@ $("#ae5b0e5dc5962b59_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>農林水産大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26442,50 +26750,6 @@ $("#ae5b0e5d3f65454e_collapsible-header").click(function(){
     // })
 })
 
-$("#ae5b0e5ddd52_collapsible-header").click(function(){
-    $('#ae5b0e5ddd52_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/ae5b0e5ddd52.html'>" +
-        "   <img src='giin/wordcloud_ae5b0e5ddd52.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>環境大臣政務官[現職]</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/ae5b0e5ddd52.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#ae5b0e5ddd52_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/ae5b0e5ddd52.html'>" +
-    //         "<img src='giin/wordcloud_ae5b0e5ddd52.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#ae5ba46f5a534c88_collapsible-header").click(function(){
     $('#ae5ba46f5a534c88_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -26513,50 +26777,6 @@ $("#ae5ba46f5a534c88_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/ae5ba46f5a534c88.html'>" +
     //         "<img src='giin/wordcloud_ae5ba46f5a534c88.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#ae5ba26c3175734f_collapsible-header").click(function(){
-    $('#ae5ba26c3175734f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/ae5ba26c3175734f.html'>" +
-        "   <img src='giin/wordcloud_ae5ba26c3175734f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/ae5ba26c3175734f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#ae5ba26c3175734f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/ae5ba26c3175734f.html'>" +
-    //         "<img src='giin/wordcloud_ae5ba26c3175734f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -26706,50 +26926,6 @@ $("#ae5bef8dd362ac99_collapsible-header").click(function(){
     // })
 })
 
-$("#ae5bf65c9c558765_collapsible-header").click(function(){
-    $('#ae5bf65c9c558765_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/ae5bf65c9c558765.html'>" +
-        "   <img src='giin/wordcloud_ae5bf65c9c558765.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/ae5bf65c9c558765.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#ae5bf65c9c558765_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/ae5bf65c9c558765.html'>" +
-    //         "<img src='giin/wordcloud_ae5bf65c9c558765.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#ae5b2c676854f853_collapsible-header").click(function(){
     $('#ae5b2c676854f853_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -26762,7 +26938,7 @@ $("#ae5b2c676854f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>財務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26894,7 +27070,7 @@ $("#d952f053ca4fcb4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>環境副大臣<br>兼内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -26982,7 +27158,7 @@ $("#975b056e8776004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣府大臣政務官<br>兼復興大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27026,7 +27202,7 @@ $("#5167954ef182396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官（国内経済その他特命事項担当）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（国内経済その他特命事項担当）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27102,6 +27278,50 @@ $("#51670a4ea08a004ece90_collapsible-header").click(function(){
     // })
 })
 
+$("#51673075ab4e505b_collapsible-header").click(function(){
+    $('#51673075ab4e505b_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/51673075ab4e505b.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/51673075ab4e505b.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#51673075ab4e505b_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/51673075ab4e505b.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#a45b954ea690665f_collapsible-header").click(function(){
     $('#a45b954ea690665f_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -27158,7 +27378,7 @@ $("#028328674f654551_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>外務大臣<br>令和３年１０月４日～令和３年１１月４日[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27173,50 +27393,6 @@ $("#028328674f654551_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/028328674f654551.html'>" +
     //         "<img src='giin/wordcloud_028328674f654551.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#4351ae692a59004ece90_collapsible-header").click(function(){
-    $('#4351ae692a59004ece90_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/4351ae692a59004ece90.html'>" +
-        "   <img src='giin/wordcloud_4351ae692a59004ece90.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/4351ae692a59004ece90.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#4351ae692a59004ece90_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/4351ae692a59004ece90.html'>" +
-    //         "<img src='giin/wordcloud_4351ae692a59004ece90.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -27422,7 +27598,7 @@ $("#ee687e3055305330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（女性活躍担当）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -27718,50 +27894,6 @@ $("#db76715c636bc14e_collapsible-header").click(function(){
     // })
 })
 
-$("#ee68863046305330_collapsible-header").click(function(){
-    $('#ee68863046305330_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/ee68863046305330.html'>" +
-        "   <img src='giin/wordcloud_ee68863046305330.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/ee68863046305330.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#ee68863046305330_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/ee68863046305330.html'>" +
-    //         "<img src='giin/wordcloud_ee68863046305330.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#6b512867f2545f4e_collapsible-header").click(function(){
     $('#6b512867f2545f4e_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -27982,50 +28114,6 @@ $("#378c3075dd5d4351_collapsible-header").click(function(){
     // })
 })
 
-$("#e27730758f304b30505b_collapsible-header").click(function(){
-    $('#e27730758f304b30505b_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/e27730758f304b30505b.html'>" +
-        "   <img src='giin/wordcloud_e27730758f304b30505b.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/e27730758f304b30505b.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#e27730758f304b30505b_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/e27730758f304b30505b.html'>" +
-    //         "<img src='giin/wordcloud_e27730758f304b30505b.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#177c8c541f75_collapsible-header").click(function(){
     $('#177c8c541f75_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -28038,7 +28126,7 @@ $("#177c8c541f75_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28114,50 +28202,6 @@ $("#f367f6302c70d5888765_collapsible-header").click(function(){
     // })
 })
 
-$("#f3673075147a_collapsible-header").click(function(){
-    $('#f3673075147a_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/f3673075147a.html'>" +
-        "   <img src='giin/wordcloud_f3673075147a.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/f3673075147a.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#f3673075147a_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/f3673075147a.html'>" +
-    //         "<img src='giin/wordcloud_f3673075147a.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#f3672c675598_collapsible-header").click(function(){
     $('#f3672c675598_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -28170,7 +28214,7 @@ $("#f3672c675598_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣政務官<br>兼内閣府大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28302,7 +28346,7 @@ $("#715c9b962759d75fce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>経済再生担当<br>新しい資本主義担当<br>新型コロナ対策・健康危機管理担当<br>全世代型社会保障改革担当<br>内閣府特命担当大臣（経済財政政策）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済再生担当<br>新しい資本主義担当<br>スタートアップ担当<br>新型コロナ対策・健康危機管理担当<br>全世代型社会保障改革担当<br>内閣府特命担当大臣（経済財政政策）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28434,7 +28478,7 @@ $("#715ce353ef58_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>環境大臣<br>内閣府特命担当大臣（原子力防災）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28493,50 +28537,6 @@ $("#715ce353a390256d3775_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/715ce353a390256d3775.html'>" +
     //         "<img src='giin/wordcloud_715ce353a390256d3775.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#715c0e5d1f774b4e148f_collapsible-header").click(function(){
-    $('#715c0e5d1f774b4e148f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/715c0e5d1f774b4e148f.html'>" +
-        "   <img src='giin/wordcloud_715c0e5d1f774b4e148f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/715c0e5d1f774b4e148f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#715c0e5d1f774b4e148f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/715c0e5d1f774b4e148f.html'>" +
-    //         "<img src='giin/wordcloud_715c0e5d1f774b4e148f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -28918,7 +28918,7 @@ $("#715c3075e28cf853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28962,7 +28962,7 @@ $("#715c30752a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>デジタル大臣政務官<br>兼内閣府大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29138,7 +29138,7 @@ $("#715c30758e7f396a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29258,6 +29258,50 @@ $("#715c2c679999d782_collapsible-header").click(function(){
     // })
 })
 
+$("#715c2c675355cb4e_collapsible-header").click(function(){
+    $('#715c2c675355cb4e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/715c2c675355cb4e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/715c2c675355cb4e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#715c2c675355cb4e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/715c2c675355cb4e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#715c2c675b52636b_collapsible-header").click(function(){
     $('#715c2c675b52636b_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -29314,7 +29358,7 @@ $("#715c2c67e65dd18f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>文部科学大臣政務官<br>兼復興大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29329,6 +29373,50 @@ $("#715c2c67e65dd18f_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/715c2c67e65dd18f.html'>" +
     //         "<img src='giin/wordcloud_715c2c67e65dd18f.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#715c2c67504fe577505b_collapsible-header").click(function(){
+    $('#715c2c67504fe577505b_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/715c2c67504fe577505b.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/715c2c67504fe577505b.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#715c2c67504fe577505b_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/715c2c67504fe577505b.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -29490,7 +29578,7 @@ $("#715c2c675a53f853_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>厚生労働副大臣<br>兼内閣府副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29710,7 +29798,7 @@ $("#2a6a715ce14f004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>復興副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29725,6 +29813,50 @@ $("#2a6a715ce14f004e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/2a6a715ce14f004e.html'>" +
     //         "<img src='giin/wordcloud_2a6a715ce14f004e.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#0954954ee07a_collapsible-header").click(function(){
+    $('#0954954ee07a_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/0954954ee07a.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/0954954ee07a.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#0954954ee07a_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/0954954ee07a.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -29930,7 +30062,7 @@ $("#0954dd5d863046307f30_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>経済産業大臣政務官<br>兼内閣府大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30490,6 +30622,50 @@ $("#e582976765502a59_collapsible-header").click(function(){
     // })
 })
 
+$("#e58297670b6d735e_collapsible-header").click(function(){
+    $('#e58297670b6d735e_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/e58297670b6d735e.html'>" +
+        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/e58297670b6d735e.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#e58297670b6d735e_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/e58297670b6d735e.html'>" +
+    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#e5827e67198bad7d_collapsible-header").click(function(){
     $('#e5827e67198bad7d_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -30546,7 +30722,7 @@ $("#e582ae5b6550e355_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>国際博覧会担当<br>共生社会担当<br>まち・ひと・しごと創生担当<br>内閣府特命担当大臣（消費者及び食品安全 クールジャパン戦略 知的財産戦略）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30678,7 +30854,7 @@ $("#216eba8f5d5b004e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30810,7 +30986,7 @@ $("#216eba8f1b734b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>国土交通副大臣<br>兼内閣府副大臣<br>兼復興副大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -30869,50 +31045,6 @@ $("#216eba8f5a535390_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/216eba8f5a535390.html'>" +
     //         "<img src='giin/wordcloud_216eba8f5a535390.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#216eba8f9c558e7f_collapsible-header").click(function(){
-    $('#216eba8f9c558e7f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/216eba8f9c558e7f.html'>" +
-        "   <img src='giin/wordcloud_216eba8f9c558e7f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/216eba8f9c558e7f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#216eba8f9c558e7f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/216eba8f9c558e7f.html'>" +
-    //         "<img src='giin/wordcloud_216eba8f9c558e7f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -31030,7 +31162,7 @@ $("#8c543075a97f0e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府副大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -31074,7 +31206,7 @@ $("#109cf56d0b6d505b_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>文部科学大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"

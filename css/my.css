@@ -45,3 +45,11 @@ header, main, footer {
     }
 }
 
+.rank-img {
+    width: 640px;
+    height: 440px;
+    object-fit: cover;
+    object-position: bottom 0px left 0px;
+    align-items: center;
+}
+
