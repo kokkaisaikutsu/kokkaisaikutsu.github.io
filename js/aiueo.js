@@ -135,7 +135,7 @@ $("#5297f65c65502a59_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/5297f65c65502a59.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_5297f65c65502a59.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -156,7 +156,7 @@ $("#5297f65c65502a59_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/5297f65c65502a59.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_5297f65c65502a59.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -619,7 +619,7 @@ $("#648d7e676550_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/648d7e676550.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_648d7e676550.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -640,7 +640,7 @@ $("#648d7e676550_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/648d7e676550.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_648d7e676550.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -758,7 +758,7 @@ $("#cb794984e28c5f4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>復興大臣<br>福島原発事故再生総括担当[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興大臣<br>福島原発事故再生総括担当<br>令和４年８月１０日～令和４年１２月２７日[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -839,7 +839,7 @@ $("#456d3e5c7661004ece90_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/456d3e5c7661004ece90.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_456d3e5c7661004ece90.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -860,7 +860,7 @@ $("#456d3e5c7661004ece90_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/456d3e5c7661004ece90.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_456d3e5c7661004ece90.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -1257,50 +1257,6 @@ $("#bb9e1f752a59ce90_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/bb9e1f752a59ce90.html'>" +
     //         "<img src='giin/wordcloud_bb9e1f752a59ce90.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#895b5490846f_collapsible-header").click(function(){
-    $('#895b5490846f_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/895b5490846f.html'>" +
-        "   <img src='giin/wordcloud_895b5490846f.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/895b5490846f.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#895b5490846f_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/895b5490846f.html'>" +
-    //         "<img src='giin/wordcloud_895b5490846f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -1851,7 +1807,7 @@ $("#1f75327a4366505b_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/1f75327a4366505b.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_1f75327a4366505b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -1872,7 +1828,7 @@ $("#1f75327a4366505b_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/1f75327a4366505b.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_1f75327a4366505b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -4007,7 +3963,7 @@ $("#954e0a4ea97f4c88_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/954e0a4ea97f4c88.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_954e0a4ea97f4c88.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -4028,7 +3984,7 @@ $("#954e0a4ea97f4c88_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/954e0a4ea97f4c88.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_954e0a4ea97f4c88.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -4095,7 +4051,7 @@ $("#2a732c70f476396a_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/2a732c70f476396a.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_2a732c70f476396a.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -4116,7 +4072,7 @@ $("#2a732c70f476396a_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/2a732c70f476396a.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_2a732c70f476396a.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -4711,7 +4667,7 @@ $("#0a4e3075c752_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/0a4e3075c752.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_0a4e3075c752.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -4732,7 +4688,7 @@ $("#0a4e3075c752_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/0a4e3075c752.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_0a4e3075c752.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -4975,7 +4931,7 @@ $("#fc81954e636b004e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/fc81954e636b004e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_fc81954e636b004e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -4996,7 +4952,7 @@ $("#fc81954e636b004e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/fc81954e636b004e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_fc81954e636b004e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -6158,6 +6114,50 @@ $("#2759f65c6665_collapsible-header").click(function(){
     // })
 })
 
+$("#2759f65c5d4ede5d3775_collapsible-header").click(function(){
+    $('#2759f65c5d4ede5d3775_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/2759f65c5d4ede5d3775.html'>" +
+        "   <img src='giin/wordcloud_2759f65c5d4ede5d3775.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/2759f65c5d4ede5d3775.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#2759f65c5d4ede5d3775_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/2759f65c5d4ede5d3775.html'>" +
+    //         "<img src='giin/wordcloud_2759f65c5d4ede5d3775.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#2a5930753f625f6c_collapsible-header").click(function(){
     $('#2a5930753f625f6c_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -6317,6 +6317,50 @@ $("#4a304a3064304d30057d4984_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/4a304a3064304d30057d4984.html'>" +
     //         "<img src='giin/wordcloud_4a304a3064304d30057d4984.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#27593f69863046305330_collapsible-header").click(function(){
+    $('#27593f69863046305330_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/27593f69863046305330.html'>" +
+        "   <img src='giin/wordcloud_27593f69863046305330.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/27593f69863046305330.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#27593f69863046305330_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/27593f69863046305330.html'>" +
+    //         "<img src='giin/wordcloud_27593f69863046305330.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -6962,7 +7006,7 @@ $("#0f5c0950075ce14f_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>こども政策担当<br>共生社会担当<br>女性活躍担当<br>孤独・孤立対策担当<br>内閣府特命担当大臣（少子化対策 男女共同参画）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣府特命担当大臣（こども政策 少子化対策 若者活躍 男女共同参画）<br>女性活躍担当<br>共生社会担当<br>孤独・孤立対策担当[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -7307,7 +7351,7 @@ $("#8a8d7a66ca4f4b4e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/8a8d7a66ca4f4b4e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_8a8d7a66ca4f4b4e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -7328,7 +7372,7 @@ $("#8a8d7a66ca4f4b4e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/8a8d7a66ca4f4b4e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_8a8d7a66ca4f4b4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -7923,7 +7967,7 @@ $("#b6689f532759cb4e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/b6689f532759cb4e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_b6689f532759cb4e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -7944,7 +7988,7 @@ $("#b6689f532759cb4e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/b6689f532759cb4e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_b6689f532759cb4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -8319,7 +8363,7 @@ $("#a052e4850e666f82_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/a052e4850e666f82.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_a052e4850e666f82.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -8340,7 +8384,7 @@ $("#a052e4850e666f82_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/a052e4850e666f82.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_a052e4850e666f82.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -8627,7 +8671,7 @@ $("#d191505b5390c14e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/d191505b5390c14e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_d191505b5390c14e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -8648,7 +8692,7 @@ $("#d191505b5390c14e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/d191505b5390c14e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_d191505b5390c14e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -8935,7 +8979,7 @@ $("#5e79378c975b635e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/5e79378c975b635e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_5e79378c975b635e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -8956,7 +9000,7 @@ $("#5e79378c975b635e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/5e79378c975b635e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_5e79378c975b635e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -9023,7 +9067,7 @@ $("#5e79378c3f65785e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/5e79378c3f65785e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_5e79378c3f65785e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -9044,7 +9088,7 @@ $("#5e79378c3f65785e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/5e79378c3f65785e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_5e79378c3f65785e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -9458,50 +9502,6 @@ $("#c583f476ba4e_collapsible-header").click(function(){
     // })
 })
 
-$("#ac30fc30b730fc30_collapsible-header").click(function(){
-    $('#ac30fc30b730fc30_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/ac30fc30b730fc30.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/ac30fc30b730fc30.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#ac30fc30b730fc30_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/ac30fc30b730fc30.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#ce57954e075d_collapsible-header").click(function(){
     $('#ce57954e075d_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -9722,33 +9722,33 @@ $("#b85c30758765c496_collapsible-header").click(function(){
     // })
 })
 
-$("#b85ce14f2b59_collapsible-header").click(function(){
-    $('#b85ce14f2b59_collapsible-body').empty().append(
+$("#b85ce14f4353164e_collapsible-header").click(function(){
+    $('#b85ce14f4353164e_collapsible-body').empty().append(
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/b85ce14f2b59.html'>" +
-        "   <img src='giin/wordcloud_b85ce14f2b59.png' class='responsive-img'>" +
+        "  <a href='giin/b85ce14f4353164e.html'>" +
+        "   <img src='giin/wordcloud_b85ce14f4353164e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（国家安全保障に関する重要政策及び核軍縮・不拡散問題担当）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
     )
-    // $.ajax("giin/b85ce14f2b59.html", {
+    // $.ajax("giin/b85ce14f4353164e.html", {
     //     timeout : 1000, // 1000 ms
     //     datatype:'html'
     // }).then(function(data){
     //     var out_html = $($.parseHTML(data));//parse
-    //     $('#b85ce14f2b59_collapsible-body').empty().append(
+    //     $('#b85ce14f4353164e_collapsible-body').empty().append(
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/b85ce14f2b59.html'>" +
-    //         "<img src='giin/wordcloud_b85ce14f2b59.png' class='responsive-img'>" +
+    //         "<a href='giin/b85ce14f4353164e.html'>" +
+    //         "<img src='giin/wordcloud_b85ce14f4353164e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -9898,50 +9898,6 @@ $("#17537450004ec496_collapsible-header").click(function(){
     // })
 })
 
-$("#17535167a08a3e54_collapsible-header").click(function(){
-    $('#17535167a08a3e54_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/17535167a08a3e54.html'>" +
-        "   <img src='giin/wordcloud_17535167a08a3e54.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/17535167a08a3e54.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#17535167a08a3e54_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/17535167a08a3e54.html'>" +
-    //         "<img src='giin/wordcloud_17535167a08a3e54.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
 $("#175351674c7d2b59_collapsible-header").click(function(){
     $('#175351674c7d2b59_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -9998,7 +9954,7 @@ $("#28679f53a08a8c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣官房副長官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣官房副長官<br>内閣総理大臣補佐官（国家安全保障に関する重要政策及び核軍縮・不拡散問題担当）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -10343,7 +10299,7 @@ $("#324e3075a08a004e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/324e3075a08a004e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_324e3075a08a004e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -10364,7 +10320,7 @@ $("#324e3075a08a004e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/324e3075a08a004e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_324e3075a08a004e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -10387,7 +10343,7 @@ $("#db6a156e074ecc91_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/db6a156e074ecc91.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_db6a156e074ecc91.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -10408,7 +10364,7 @@ $("#db6a156e074ecc91_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/db6a156e074ecc91.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_db6a156e074ecc91.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -10607,7 +10563,7 @@ $("#aa7a3075f2545f4e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/aa7a3075f2545f4e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_aa7a3075f2545f4e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -10628,7 +10584,7 @@ $("#aa7a3075f2545f4e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/aa7a3075f2545f4e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_aa7a3075f2545f4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -10717,50 +10673,6 @@ $("#8a713075d5881a90_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/8a713075d5881a90.html'>" +
     //         "<img src='giin/wordcloud_8a713075d5881a90.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#8a71ce91636beb58_collapsible-header").click(function(){
-    $('#8a71ce91636beb58_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/8a71ce91636beb58.html'>" +
-        "   <img src='giin/wordcloud_8a71ce91636beb58.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/8a71ce91636beb58.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#8a71ce91636beb58_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/8a71ce91636beb58.html'>" +
-    //         "<img src='giin/wordcloud_8a71ce91636beb58.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -11267,7 +11179,7 @@ $("#e453c08c43536f66_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/e453c08c43536f66.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_e453c08c43536f66.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -11288,7 +11200,7 @@ $("#e453c08c43536f66_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/e453c08c43536f66.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_e453c08c43536f66.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -11575,7 +11487,7 @@ $("#e453845e8473e577_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/e453845e8473e577.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_e453845e8473e577.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -11596,7 +11508,7 @@ $("#e453845e8473e577_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/e453845e8473e577.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_e453845e8473e577.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -11670,7 +11582,7 @@ $("#8c5fe48502834b4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済再生担当<br>新しい資本主義担当<br>スタートアップ担当<br>新型コロナ対策・健康危機管理担当<br>全世代型社会保障改革担当<br>内閣府特命担当大臣（経済財政政策）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -11685,50 +11597,6 @@ $("#8c5fe48502834b4e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/8c5fe48502834b4e.html'>" +
     //         "<img src='giin/wordcloud_8c5fe48502834b4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#8c5fe4853075636b147d_collapsible-header").click(function(){
-    $('#8c5fe4853075636b147d_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/8c5fe4853075636b147d.html'>" +
-        "   <img src='giin/wordcloud_8c5fe4853075636b147d.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/8c5fe4853075636b147d.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#8c5fe4853075636b147d_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/8c5fe4853075636b147d.html'>" +
-    //         "<img src='giin/wordcloud_8c5fe4853075636b147d.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -11839,7 +11707,7 @@ $("#0f5c9767004e2759_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/0f5c9767004e2759.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_0f5c9767004e2759.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -11860,7 +11728,7 @@ $("#0f5c9767004e2759_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/0f5c9767004e2759.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_0f5c9767004e2759.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -12330,7 +12198,7 @@ $("#4b9fe4856550_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>法務大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -12345,6 +12213,50 @@ $("#4b9fe4856550_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/4b9fe4856550.html'>" +
     //         "<img src='giin/wordcloud_4b9fe4856550.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#4a9fe4856550004ece90_collapsible-header").click(function(){
+    $('#4a9fe4856550004ece90_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/4a9fe4856550004ece90.html'>" +
+        "   <img src='giin/wordcloud_4a9fe4856550004ece90.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/4a9fe4856550004ece90.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#4a9fe4856550004ece90_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/4a9fe4856550004ece90.html'>" +
+    //         "<img src='giin/wordcloud_4a9fe4856550004ece90.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -13819,7 +13731,7 @@ $("#f4673c61004e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/f4673c61004e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_f4673c61004e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -13840,7 +13752,7 @@ $("#f4673c61004e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/f4673c61004e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_f4673c61004e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -14386,6 +14298,50 @@ $("#7d76f3770b6d004e_collapsible-header").click(function(){
     // })
 })
 
+$("#7d7642579c4e007d_collapsible-header").click(function(){
+    $('#7d7642579c4e007d_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/7d7642579c4e007d.html'>" +
+        "   <img src='giin/wordcloud_7d7642579c4e007d.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/7d7642579c4e007d.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#7d7642579c4e007d_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/7d7642579c4e007d.html'>" +
+    //         "<img src='giin/wordcloud_7d7642579c4e007d.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#b065378c636ba97f_collapsible-header").click(function(){
     $('#b065378c636ba97f_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -14545,50 +14501,6 @@ $("#9b694984c08c256d5f4e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/9b694984c08c256d5f4e.html'>" +
     //         "<img src='giin/wordcloud_9b694984c08c256d5f4e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#346c53904b6a5a53eb58_collapsible-header").click(function(){
-    $('#346c53904b6a5a53eb58_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/346c53904b6a5a53eb58.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/346c53904b6a5a53eb58.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#346c53904b6a5a53eb58_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/346c53904b6a5a53eb58.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -14838,7 +14750,7 @@ $("#49673075346c0881_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官<br>令和４年８月１２日～令和４年１２月２７日[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -15662,12 +15574,12 @@ $("#164e1580185f1062_collapsible-header").click(function(){
     // })
 })
 
-$("#9785666d65502a59ce90_collapsible-header").click(function(){
-    $('#9785666d65502a59ce90_collapsible-body').empty().append(
+$("#2c7038628696004e_collapsible-header").click(function(){
+    $('#2c7038628696004e_collapsible-body').empty().append(
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/9785666d65502a59ce90.html'>" +
-        "   <img src='giin/wordcloud_9785666d65502a59ce90.png' class='responsive-img'>" +
+        "  <a href='giin/2c7038628696004e.html'>" +
+        "   <img src='giin/wordcloud_2c7038628696004e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -15679,16 +15591,16 @@ $("#9785666d65502a59ce90_collapsible-header").click(function(){
         " </div>" +
         "</div>"
     )
-    // $.ajax("giin/9785666d65502a59ce90.html", {
+    // $.ajax("giin/2c7038628696004e.html", {
     //     timeout : 1000, // 1000 ms
     //     datatype:'html'
     // }).then(function(data){
     //     var out_html = $($.parseHTML(data));//parse
-    //     $('#9785666d65502a59ce90_collapsible-body').empty().append(
+    //     $('#2c7038628696004e_collapsible-body').empty().append(
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/9785666d65502a59ce90.html'>" +
-    //         "<img src='giin/wordcloud_9785666d65502a59ce90.png' class='responsive-img'>" +
+    //         "<a href='giin/2c7038628696004e.html'>" +
+    //         "<img src='giin/wordcloud_2c7038628696004e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -16063,7 +15975,7 @@ $("#d89a28671f770674_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/d89a28671f770674.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_d89a28671f770674.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -16084,7 +15996,7 @@ $("#d89a28671f770674_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/d89a28671f770674.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_d89a28671f770674.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -16855,7 +16767,7 @@ $("#f97a708ac14e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/f97a708ac14e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_f97a708ac14e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -16876,7 +16788,7 @@ $("#f97a708ac14e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/f97a708ac14e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_f97a708ac14e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -17361,6 +17273,50 @@ $("#30752d4ef1824b4e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/30752d4ef1824b4e.html'>" +
     //         "<img src='giin/wordcloud_30752d4ef1824b4e.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
+$("#30752d4e0c66f253_collapsible-header").click(function(){
+    $('#30752d4e0c66f253_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/30752d4e0c66f253.html'>" +
+        "   <img src='giin/wordcloud_30752d4e0c66f253.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/30752d4e0c66f253.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#30752d4e0c66f253_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/30752d4e0c66f253.html'>" +
+    //         "<img src='giin/wordcloud_30752d4e0c66f253.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -18175,7 +18131,7 @@ $("#bb8f4351056e8e7f_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/bb8f4351056e8e7f.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_bb8f4351056e8e7f.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -18196,7 +18152,7 @@ $("#bb8f4351056e8e7f_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/bb8f4351056e8e7f.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_bb8f4351056e8e7f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -18578,7 +18534,7 @@ $("#fa5b3075147a_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>総務大臣[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣<br>令和４年８月１０日～令和４年１１月２１日[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -18615,7 +18571,7 @@ $("#295960752759148f_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/295960752759148f.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_295960752759148f.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -18636,7 +18592,7 @@ $("#295960752759148f_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/295960752759148f.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_295960752759148f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -18747,7 +18703,7 @@ $("#0258bc8fbb9e007d505b_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/0258bc8fbb9e007d505b.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_0258bc8fbb9e007d505b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -18768,7 +18724,7 @@ $("#0258bc8fbb9e007d505b_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/0258bc8fbb9e007d505b.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_0258bc8fbb9e007d505b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -18967,7 +18923,7 @@ $("#cb530d7d0674d27d_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/cb530d7d0674d27d.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_cb530d7d0674d27d.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -18988,7 +18944,7 @@ $("#cb530d7d0674d27d_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/cb530d7d0674d27d.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_cb530d7d0674d27d.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -19055,7 +19011,7 @@ $("#386c954e665b_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/386c954e665b.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_386c954e665b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -19076,7 +19032,7 @@ $("#386c954e665b_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/386c954e665b.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_386c954e665b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -19539,7 +19495,7 @@ $("#2d4e61674d3088305730_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/2d4e61674d3088305730.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_2d4e61674d3088305730.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -19560,7 +19516,7 @@ $("#2d4e61674d3088305730_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/2d4e61674d3088305730.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_2d4e61674d3088305730.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -19803,7 +19759,7 @@ $("#2d4e30758f5b_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/2d4e30758f5b.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_2d4e30758f5b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -19824,7 +19780,7 @@ $("#2d4e30758f5b_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/2d4e30758f5b.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_2d4e30758f5b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -20947,7 +20903,7 @@ $("#c14ed46b6180735e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/c14ed46b6180735e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_c14ed46b6180735e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -20968,7 +20924,7 @@ $("#c14ed46b6180735e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/c14ed46b6180735e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_c14ed46b6180735e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -21702,7 +21658,7 @@ $("#7795378cdd5df36d8c4e_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣政務官[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -21739,7 +21695,7 @@ $("#7795378cdd5df1827466_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/7795378cdd5df1827466.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_7795378cdd5df1827466.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -21760,7 +21716,7 @@ $("#7795378cdd5df1827466_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/7795378cdd5df1827466.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_7795378cdd5df1827466.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -22394,6 +22350,50 @@ $("#9767795ec496_collapsible-header").click(function(){
     // })
 })
 
+$("#9767514f8e7f_collapsible-header").click(function(){
+    $('#9767514f8e7f_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/9767514f8e7f.html'>" +
+        "   <img src='giin/wordcloud_9767514f8e7f.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/9767514f8e7f.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#9767514f8e7f_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/9767514f8e7f.html'>" +
+    //         "<img src='giin/wordcloud_9767514f8e7f.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#9767b382636b_collapsible-header").click(function(){
     $('#9767b382636b_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -22883,7 +22883,7 @@ $("#835e2c70813050307f30_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/835e2c70813050307f30.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_835e2c70813050307f30.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -22904,7 +22904,7 @@ $("#835e2c70813050307f30_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/835e2c70813050307f30.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_835e2c70813050307f30.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -23279,7 +23279,7 @@ $("#e485954e004e5a53_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/e485954e004e5a53.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_e485954e004e5a53.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -23300,7 +23300,7 @@ $("#e485954e004e5a53_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/e485954e004e5a53.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_e485954e004e5a53.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -23807,7 +23807,7 @@ $("#39824b6a29529f5b_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/39824b6a29529f5b.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_39824b6a29529f5b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -23828,7 +23828,7 @@ $("#39824b6a29529f5b_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/39824b6a29529f5b.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_39824b6a29529f5b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -24291,7 +24291,7 @@ $("#1f6617539765_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/1f6617539765.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_1f6617539765.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -24312,7 +24312,7 @@ $("#1f6617539765_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/1f6617539765.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_1f6617539765.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -25391,7 +25391,7 @@ $("#7e67ce910e668e7f_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/7e67ce910e668e7f.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_7e67ce910e668e7f.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -25412,7 +25412,7 @@ $("#7e67ce910e668e7f_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/7e67ce910e668e7f.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_7e67ce910e668e7f.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -25574,7 +25574,7 @@ $("#7e672c675b520e66_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>総務大臣[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -25919,7 +25919,7 @@ $("#094e0a4e48308a30_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/094e0a4e48308a30.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_094e0a4e48308a30.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -25940,7 +25940,7 @@ $("#094e0a4e48308a30_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/094e0a4e48308a30.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_094e0a4e48308a30.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -25985,50 +25985,6 @@ $("#094e28672d577560_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/094e28672d577560.html'>" +
     //         "<img src='giin/wordcloud_094e28672d577560.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#094e2867a84e_collapsible-header").click(function(){
-    $('#094e2867a84e_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/094e2867a84e.html'>" +
-        "   <img src='giin/wordcloud_094e2867a84e.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/094e2867a84e.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#094e2867a84e_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/094e2867a84e.html'>" +
-    //         "<img src='giin/wordcloud_094e2867a84e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -26139,7 +26095,7 @@ $("#346cce91207d505b_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/346cce91207d505b.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_346cce91207d505b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -26160,7 +26116,7 @@ $("#346cce91207d505b_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/346cce91207d505b.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_346cce91207d505b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -26750,6 +26706,50 @@ $("#ae5b0e5d3f65454e_collapsible-header").click(function(){
     // })
 })
 
+$("#ae5b0e5ddd52_collapsible-header").click(function(){
+    $('#ae5b0e5ddd52_collapsible-body').empty().append(
+        "<div class='row'>" +
+        " <div class='col s12 m12 l12 xl8'>" +
+        "  <a href='giin/ae5b0e5ddd52.html'>" +
+        "   <img src='giin/wordcloud_ae5b0e5ddd52.png' class='responsive-img'>" +
+        "  </a>" +
+        " </div>" +
+        " <div class='col s12 m12 l12 xl4'>" +
+        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
+        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
+        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
+        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "  </div>" +
+        " </div>" +
+        "</div>"
+    )
+    // $.ajax("giin/ae5b0e5ddd52.html", {
+    //     timeout : 1000, // 1000 ms
+    //     datatype:'html'
+    // }).then(function(data){
+    //     var out_html = $($.parseHTML(data));//parse
+    //     $('#ae5b0e5ddd52_collapsible-body').empty().append(
+    //         "<div class='row'>" +
+    //         "<div class='col s12 m12 l9'>" +
+    //         "<a href='giin/ae5b0e5ddd52.html'>" +
+    //         "<img src='giin/wordcloud_ae5b0e5ddd52.png' class='responsive-img'>" +
+    //         "</a>" +
+    //         "</div></div>"
+    //         // "<div class='col s12 m12 l3'>" +
+    //         // out_html.find("#giin-word-list").html() +
+    //         // "</div>"
+    //     )
+    // },function(jqXHR, textStatus) {
+    //     if(textStatus!=="success") {
+    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
+    //             "<p>status:"+ jqXHR.status + "</p>" +
+    //             "<p>responseText : </p><div>" + jqXHR.responseText +
+    //             "</div>";
+    //         $('#page').html(txt);
+    //     }
+    // })
+})
+
 $("#ae5ba46f5a534c88_collapsible-header").click(function(){
     $('#ae5ba46f5a534c88_collapsible-body').empty().append(
         "<div class='row'>" +
@@ -27283,7 +27283,7 @@ $("#51673075ab4e505b_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/51673075ab4e505b.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_51673075ab4e505b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -27304,7 +27304,7 @@ $("#51673075ab4e505b_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/51673075ab4e505b.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_51673075ab4e505b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -27598,7 +27598,7 @@ $("#ee687e3055305330_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（女性活躍担当）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>内閣総理大臣補佐官<br>（女性活躍及びＬＧＢＴ理解増進担当）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -28346,7 +28346,7 @@ $("#715c9b962759d75fce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>経済再生担当<br>新しい資本主義担当<br>スタートアップ担当<br>新型コロナ対策・健康危機管理担当<br>全世代型社会保障改革担当<br>内閣府特命担当大臣（経済財政政策）[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>経済再生担当<br>新しい資本主義担当<br>スタートアップ担当<br>新型コロナ対策・健康危機管理担当<br>全世代型社会保障改革担当<br>内閣府特命担当大臣（経済財政政策）<br>令和４年８月１０日～令和４年１０月２４日[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -29263,7 +29263,7 @@ $("#715c2c675355cb4e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/715c2c675355cb4e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_715c2c675355cb4e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -29284,7 +29284,7 @@ $("#715c2c675355cb4e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/715c2c675355cb4e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_715c2c675355cb4e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -29395,7 +29395,7 @@ $("#715c2c67504fe577505b_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/715c2c67504fe577505b.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_715c2c67504fe577505b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -29416,7 +29416,7 @@ $("#715c2c67504fe577505b_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/715c2c67504fe577505b.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_715c2c67504fe577505b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -29835,7 +29835,7 @@ $("#0954954ee07a_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/0954954ee07a.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_0954954ee07a.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -29856,7 +29856,7 @@ $("#0954954ee07a_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/0954954ee07a.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_0954954ee07a.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -30138,12 +30138,12 @@ $("#09543075454e8e7f505b_collapsible-header").click(function(){
     // })
 })
 
-$("#09543075e05f7a66_collapsible-header").click(function(){
-    $('#09543075e05f7a66_collapsible-body').empty().append(
+$("#095430751f77216b_collapsible-header").click(function(){
+    $('#095430751f77216b_collapsible-body').empty().append(
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/09543075e05f7a66.html'>" +
-        "   <img src='giin/wordcloud_09543075e05f7a66.png' class='responsive-img'>" +
+        "  <a href='giin/095430751f77216b.html'>" +
+        "   <img src='giin/wordcloud_095430751f77216b.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -30155,16 +30155,16 @@ $("#09543075e05f7a66_collapsible-header").click(function(){
         " </div>" +
         "</div>"
     )
-    // $.ajax("giin/09543075e05f7a66.html", {
+    // $.ajax("giin/095430751f77216b.html", {
     //     timeout : 1000, // 1000 ms
     //     datatype:'html'
     // }).then(function(data){
     //     var out_html = $($.parseHTML(data));//parse
-    //     $('#09543075e05f7a66_collapsible-body').empty().append(
+    //     $('#095430751f77216b_collapsible-body').empty().append(
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/09543075e05f7a66.html'>" +
-    //         "<img src='giin/wordcloud_09543075e05f7a66.png' class='responsive-img'>" +
+    //         "<a href='giin/095430751f77216b.html'>" +
+    //         "<img src='giin/wordcloud_095430751f77216b.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -30627,7 +30627,7 @@ $("#e58297670b6d735e_collapsible-header").click(function(){
         "<div class='row'>" +
         " <div class='col s12 m12 l12 xl8'>" +
         "  <a href='giin/e58297670b6d735e.html'>" +
-        "   <img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+        "   <img src='giin/wordcloud_e58297670b6d735e.png' class='responsive-img'>" +
         "  </a>" +
         " </div>" +
         " <div class='col s12 m12 l12 xl4'>" +
@@ -30648,7 +30648,7 @@ $("#e58297670b6d735e_collapsible-header").click(function(){
     //         "<div class='row'>" +
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/e58297670b6d735e.html'>" +
-    //         "<img src='giin/wordcloud_few_speech.png' class='responsive-img'>" +
+    //         "<img src='giin/wordcloud_e58297670b6d735e.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
@@ -31030,7 +31030,7 @@ $("#216eba8f5a535390_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>復興大臣<br>福島原発事故再生総括担当[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"

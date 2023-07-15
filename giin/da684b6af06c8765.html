@@ -326,7 +326,7 @@
             <div class="col s4 m4 l4 xl4">発言日数</div>
             <div class="col s6 m7 l7 xl6">
               
-              1日
+              0日
             </div>            
           </div>
 
@@ -376,7 +376,7 @@
             <div class="col s4 m4 l4 xl4">院内会派</div>
             <div class="col s6 m7 l7 xl6">
               
-              自由民主党
+              自由民主党・無所属の会
             </div>
           </div>
 
@@ -414,48 +414,16 @@
     </div>
     <div id="frequency_words" class="col s12 m12 l10 offset-l1 cyan lighten-5 height-min100">
       <p class="flow-text">
-        <a class="modal-trigger" href="#da684b6af06c8765_06748b4e_freq" id="da684b6af06c8765_06748b4e_freq_link">理事</a>
-
+        発言がありません
       </p>
     </div>
     <div id="feature_words" class="col s12 m12 l10 offset-l1 cyan lighten-5 height-min100">
       <p class="flow-text">
-        <a class="modal-trigger" href="#da684b6af06c8765_06748b4e_tfidf" id="da684b6af06c8765_06748b4e_tfidf_link">理事</a>
-
+        発言が少ないため集計できませんでした
       </p>
     </div>
 
-    <div id="da684b6af06c8765_06748b4e_tfidf" class="modal modal-fixed-footer">
- <div class="modal-content">
-  <h4 class="card-panel blue darken-3 white-text">理事</h4>
-  <table class="highlight">
-   <tbody>
-    <tr>
-     <td>言及回数</td>
-     <td>3回</td>
-    </tr>
-    <tr>
-     <td>言及発言者数（参考人を含む）</td>
-     <td>661人</td>
-    </tr>
-   </tbody>
-  </table>
-  <span id="da684b6af06c8765_06748b4e_tfidf_text">loading...</span> </div> <div class="modal-footer">  <a class="modal-close waves-effect waves-green btn-flat">閉じる</a> </div></div><div id="da684b6af06c8765_06748b4e_freq" class="modal modal-fixed-footer">
- <div class="modal-content">
-  <h4 class="card-panel blue darken-3 white-text">理事</h4>
-  <table class="highlight">
-   <tbody>
-    <tr>
-     <td>言及回数</td>
-     <td>3回</td>
-    </tr>
-    <tr>
-     <td>言及発言者数（参考人を含む）</td>
-     <td>661人</td>
-    </tr>
-   </tbody>
-  </table>
-  <span id="da684b6af06c8765_06748b4e_freq_text">loading...</span> </div> <div class="modal-footer">  <a class="modal-close waves-effect waves-green btn-flat">閉じる</a> </div></div>
+    
     
     </class>
     </div>
@@ -468,7 +436,7 @@
   <footer class="page-footer indigo darken-3 zero-margin padding-5">
     <div class="row">
       <div class="col s12 m12 l8 xl8 offset-l4 offset-xl3">
-        <!-- 広告枠 -->
+        <a href="https://h.accesstrade.net/sp/cc?rk=0100l2o300mn5i" rel="nofollow" referrerpolicy="no-referrer-when-downgrade"><img src="https://h.accesstrade.net/sp/rr?rk=0100l2o300mn5i" alt="税理士紹介エージェント" border="0" /></a>
         <ul>
           <li>
             本サイトは 国立国会図書館 <a class="grey-text text-lighten-3" href="https://kokkai.ndl.go.jp/#/">国会議事録検索システム</a> を通じて収集したデータを使用しています。
@@ -495,26 +463,6 @@
     const devider = "<div class=\"divider\"></div>"
 
     const target_giin = "da684b6af06c8765"
-
-      $("#da684b6af06c8765_06748b4e_tfidf_link").click(function() {
-        target_word = "06748b4e" 
-        target_word_plain = "理事" 
-        post_fix = "tfidf"
-        console.log("set val #da684b6af06c8765_06748b4e_tfidf_link");
-        show_modal(target_giin, target_word, target_word_plain, post_fix)
-      }) 
-
-      console.log(document.getElementById("#da684b6af06c8765_06748b4e_tfidf_link")); 
-
-      $("#da684b6af06c8765_06748b4e_freq_link").click(function() {
-        target_word = "06748b4e" 
-        target_word_plain = "理事" 
-        post_fix = "freq"
-        console.log("set val #da684b6af06c8765_06748b4e_freq_link");
-        show_modal(target_giin, target_word, target_word_plain, post_fix)
-      }) 
-
-      console.log(document.getElementById("#da684b6af06c8765_06748b4e_freq_link")); 
 
 
 
