@@ -802,7 +802,7 @@ $("#cb792c671f772952_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官[現職]</div>" +
+        "   <div class='col s6 m7 l7 left-align'>外務大臣政務官<br>令和４年８月１２日～令和５年８月４日[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
@@ -16085,50 +16085,6 @@ $("#d89ae59cee4f004e_collapsible-header").click(function(){
     //         "<div class='col s12 m12 l9'>" +
     //         "<a href='giin/d89ae59cee4f004e.html'>" +
     //         "<img src='giin/wordcloud_d89ae59cee4f004e.png' class='responsive-img'>" +
-    //         "</a>" +
-    //         "</div></div>"
-    //         // "<div class='col s12 m12 l3'>" +
-    //         // out_html.find("#giin-word-list").html() +
-    //         // "</div>"
-    //     )
-    // },function(jqXHR, textStatus) {
-    //     if(textStatus!=="success") {
-    //         var txt = "<p>textStatus:"+ textStatus + "</p>" +
-    //             "<p>status:"+ jqXHR.status + "</p>" +
-    //             "<p>responseText : </p><div>" + jqXHR.responseText +
-    //             "</div>";
-    //         $('#page').html(txt);
-    //     }
-    // })
-})
-
-$("#d89ace9149518c4ece90_collapsible-header").click(function(){
-    $('#d89ace9149518c4ece90_collapsible-body').empty().append(
-        "<div class='row'>" +
-        " <div class='col s12 m12 l12 xl8'>" +
-        "  <a href='giin/d89ace9149518c4ece90.html'>" +
-        "   <img src='giin/wordcloud_d89ace9149518c4ece90.png' class='responsive-img'>" +
-        "  </a>" +
-        " </div>" +
-        " <div class='col s12 m12 l12 xl4'>" +
-        "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
-        "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
-        "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
-        "  </div>" +
-        " </div>" +
-        "</div>"
-    )
-    // $.ajax("giin/d89ace9149518c4ece90.html", {
-    //     timeout : 1000, // 1000 ms
-    //     datatype:'html'
-    // }).then(function(data){
-    //     var out_html = $($.parseHTML(data));//parse
-    //     $('#d89ace9149518c4ece90_collapsible-body').empty().append(
-    //         "<div class='row'>" +
-    //         "<div class='col s12 m12 l9'>" +
-    //         "<a href='giin/d89ace9149518c4ece90.html'>" +
-    //         "<img src='giin/wordcloud_d89ace9149518c4ece90.png' class='responsive-img'>" +
     //         "</a>" +
     //         "</div></div>"
     //         // "<div class='col s12 m12 l3'>" +
