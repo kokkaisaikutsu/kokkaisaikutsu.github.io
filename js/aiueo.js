@@ -3310,7 +3310,7 @@ $("#0a4fe485e14f2a59ce90_collapsible-header").click(function(){
         "  <div class='row indigo lighten-5 valign-wrapper margin-1 padding-5'>" +
         "   <div class='col s1 m1 l1'><i class='material-icons'>weekend</i></div>" +
         "   <div class='col s5 m4 l4 left-align'>役職</div>" +
-        "   <div class='col s6 m7 l7 left-align'>なし</div>" +
+        "   <div class='col s6 m7 l7 left-align'>環境大臣<br>内閣府特命担当大臣（原子力防災）[現職]</div>" +
         "  </div>" +
         " </div>" +
         "</div>"
