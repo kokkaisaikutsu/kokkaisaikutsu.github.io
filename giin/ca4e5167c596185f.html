@@ -214,7 +214,7 @@
             <div class="col s4 m4 l4 xl4">発言日数</div>
             <div class="col s6 m7 l7 xl6">
               
-              2日
+              1日
             </div>            
           </div>
 
@@ -302,16 +302,80 @@
     </div>
     <div id="frequency_words" class="col s12 m12 l10 offset-l1 cyan lighten-5 height-min100">
       <p class="flow-text">
-        発言がありません
+        <a class="modal-trigger" href="#ca4e5167c596185f_d459e1547795_freq" id="ca4e5167c596185f_d459e1547795_freq_link">委員長</a>
+、<a class="modal-trigger" href="#ca4e5167c596185f_378c_freq" id="ca4e5167c596185f_378c_freq_link">谷</a>
+
       </p>
     </div>
     <div id="feature_words" class="col s12 m12 l10 offset-l1 cyan lighten-5 height-min100">
       <p class="flow-text">
-        発言が少ないため集計できませんでした
+        <a class="modal-trigger" href="#ca4e5167c596185f_d459e1547795_tfidf" id="ca4e5167c596185f_d459e1547795_tfidf_link">委員長</a>
+、<a class="modal-trigger" href="#ca4e5167c596185f_378c_tfidf" id="ca4e5167c596185f_378c_tfidf_link">谷</a>
+
       </p>
     </div>
 
-    
+    <div id="ca4e5167c596185f_d459e1547795_tfidf" class="modal modal-fixed-footer">
+ <div class="modal-content">
+  <h4 class="card-panel blue darken-3 white-text">委員長</h4>
+  <table class="highlight">
+   <tbody>
+    <tr>
+     <td>言及回数</td>
+     <td>7回</td>
+    </tr>
+    <tr>
+     <td>言及発言者数（参考人を含む）</td>
+     <td>811人</td>
+    </tr>
+   </tbody>
+  </table>
+  <span id="ca4e5167c596185f_d459e1547795_tfidf_text">loading...</span> </div> <div class="modal-footer">  <a class="modal-close waves-effect waves-green btn-flat">閉じる</a> </div></div><div id="ca4e5167c596185f_378c_tfidf" class="modal modal-fixed-footer">
+ <div class="modal-content">
+  <h4 class="card-panel blue darken-3 white-text">谷</h4>
+  <table class="highlight">
+   <tbody>
+    <tr>
+     <td>言及回数</td>
+     <td>3回</td>
+    </tr>
+    <tr>
+     <td>言及発言者数（参考人を含む）</td>
+     <td>184人</td>
+    </tr>
+   </tbody>
+  </table>
+  <span id="ca4e5167c596185f_378c_tfidf_text">loading...</span> </div> <div class="modal-footer">  <a class="modal-close waves-effect waves-green btn-flat">閉じる</a> </div></div><div id="ca4e5167c596185f_d459e1547795_freq" class="modal modal-fixed-footer">
+ <div class="modal-content">
+  <h4 class="card-panel blue darken-3 white-text">委員長</h4>
+  <table class="highlight">
+   <tbody>
+    <tr>
+     <td>言及回数</td>
+     <td>7回</td>
+    </tr>
+    <tr>
+     <td>言及発言者数（参考人を含む）</td>
+     <td>811人</td>
+    </tr>
+   </tbody>
+  </table>
+  <span id="ca4e5167c596185f_d459e1547795_freq_text">loading...</span> </div> <div class="modal-footer">  <a class="modal-close waves-effect waves-green btn-flat">閉じる</a> </div></div><div id="ca4e5167c596185f_378c_freq" class="modal modal-fixed-footer">
+ <div class="modal-content">
+  <h4 class="card-panel blue darken-3 white-text">谷</h4>
+  <table class="highlight">
+   <tbody>
+    <tr>
+     <td>言及回数</td>
+     <td>3回</td>
+    </tr>
+    <tr>
+     <td>言及発言者数（参考人を含む）</td>
+     <td>184人</td>
+    </tr>
+   </tbody>
+  </table>
+  <span id="ca4e5167c596185f_378c_freq_text">loading...</span> </div> <div class="modal-footer">  <a class="modal-close waves-effect waves-green btn-flat">閉じる</a> </div></div>
     
     </class>
     </div>
@@ -351,6 +415,46 @@
     const devider = "<div class=\"divider\"></div>"
 
     const target_giin = "ca4e5167c596185f"
+
+      $("#ca4e5167c596185f_d459e1547795_tfidf_link").click(function() {
+        target_word = "d459e1547795" 
+        target_word_plain = "委員長" 
+        post_fix = "tfidf"
+        console.log("set val #ca4e5167c596185f_d459e1547795_tfidf_link");
+        show_modal(target_giin, target_word, target_word_plain, post_fix)
+      }) 
+
+      console.log(document.getElementById("#ca4e5167c596185f_d459e1547795_tfidf_link")); 
+
+      $("#ca4e5167c596185f_378c_tfidf_link").click(function() {
+        target_word = "378c" 
+        target_word_plain = "谷" 
+        post_fix = "tfidf"
+        console.log("set val #ca4e5167c596185f_378c_tfidf_link");
+        show_modal(target_giin, target_word, target_word_plain, post_fix)
+      }) 
+
+      console.log(document.getElementById("#ca4e5167c596185f_378c_tfidf_link")); 
+
+      $("#ca4e5167c596185f_d459e1547795_freq_link").click(function() {
+        target_word = "d459e1547795" 
+        target_word_plain = "委員長" 
+        post_fix = "freq"
+        console.log("set val #ca4e5167c596185f_d459e1547795_freq_link");
+        show_modal(target_giin, target_word, target_word_plain, post_fix)
+      }) 
+
+      console.log(document.getElementById("#ca4e5167c596185f_d459e1547795_freq_link")); 
+
+      $("#ca4e5167c596185f_378c_freq_link").click(function() {
+        target_word = "378c" 
+        target_word_plain = "谷" 
+        post_fix = "freq"
+        console.log("set val #ca4e5167c596185f_378c_freq_link");
+        show_modal(target_giin, target_word, target_word_plain, post_fix)
+      }) 
+
+      console.log(document.getElementById("#ca4e5167c596185f_378c_freq_link")); 
 
 
 
