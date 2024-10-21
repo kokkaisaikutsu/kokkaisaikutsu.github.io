@@ -1,0 +1,55 @@
+.zero-padding {
+    padding: 0 !important;
+}
+
+.padding-5 {
+    padding: 5px !important;
+}
+
+.zero-margin {
+    margin: 0 !important;
+}
+
+.margin-1 {
+    margin: 2px !important;
+}
+
+.margin-3 {
+    margin: 4px !important;
+}
+
+
+.margin-10 {
+    margin: 10px;
+}
+
+.height-min100 {
+    min-height: 100px;
+}
+
+.scrollbar-less {
+    scrollbar-width: none;
+}
+
+.scrollbar-less::-webkit-scrollbar {
+    display: none;
+}
+
+header, main, footer {
+    padding-left: 150px;
+}
+
+@media only screen and (max-width: 992px) {
+    header, main, footer {
+        padding-left: 0;
+    }
+}
+
+.rank-img {
+    width: 640px;
+    height: 440px;
+    object-fit: cover;
+    object-position: bottom 0px left 0px;
+    align-items: center;
+}
+
